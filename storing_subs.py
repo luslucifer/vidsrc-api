@@ -2,7 +2,7 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 from multiprocessing import Pool 
 
-url = 'http://127.0.0.1:8000/vidsrc/'
+url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
 vidsrc_url = 'https://vidsrc.to/vapi/movie/new/'
 with open('mvids.txt', 'r') as file:
     id_arr = file.read().splitlines()
