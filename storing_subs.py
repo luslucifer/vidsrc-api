@@ -9,7 +9,8 @@ tuple_saved = 'dwn.txt'
 open(tuple_saved, 'a').close()
 
 
-url = 'http://0.0.0.0:8090/vidsrc/'
+# url = 'http://0.0.0.0:8090/vidsrc/'
+url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
 vidsrc_url = 'https://vidsrc.to/vapi/movie/new/'
 idsFile = 'vids.txt'
 
@@ -82,7 +83,8 @@ class Subs:
                 progress_bar.update(1)
                 
             for obj in arr:
-                lang = obj['lang']
+                lang:str = obj['lang']
+                lang = lang.replace('/','-')
                 file_url = obj['file']
                 executor.submit(self.download_subs, lang, file_url, id, id2).add_done_callback(update_progress)
 
