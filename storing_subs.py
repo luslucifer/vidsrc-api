@@ -9,8 +9,8 @@ tuple_saved = 'dwn.txt'
 open(tuple_saved, 'a').close()
 
 
-# url = 'http://0.0.0.0:8090/vidsrc/'
-url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
+url = 'http://0.0.0.0:8091/vidsrc/'
+# url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
 vidsrc_url = 'https://vidsrc.to/vapi/movie/new/'
 idsFile = 'vids.txt'
 

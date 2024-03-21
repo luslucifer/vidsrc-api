@@ -56,6 +56,6 @@ async def vidsrc():
 if __name__ == '__main__':
     
     host = os.getenv("HOST", "0.0.0.0")
-    port = int(os.getenv("PORT", 8090))
+    port = int(os.getenv("PORT", 8091))
     import uvicorn
     uvicorn.run(app, host=host, port=port)

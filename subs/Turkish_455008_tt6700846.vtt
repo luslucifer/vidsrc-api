@@ -1,0 +1,7426 @@
+WEBVTT
+
+1
+00:00:19.563 --> 00:00:22.147
+- Yoğunlukla düşündürücü.
+
+2
+00:00:26.772 --> 00:00:29.230
+Neredeyse hipnotize edici.
+
+3
+00:00:33.647 --> 00:00:35.438
+Kainatın ölümcül kısımlarına
+
+4
+00:00:35.480 --> 00:00:38.522
+elini uzatmak gibi.
+
+5
+00:00:40.605 --> 00:00:43.438
+Eğer Go oynuyorsanız, cidden,
+
+6
+00:00:43.438 --> 00:00:46.563
+gezegen üzerindeki başka
+hiçbir şeye benzemeyen
+
+
+7
+00:00:46.605 --> 00:00:50.022
+bu deneyimi yaşama şansına
+
+8
+00:00:52.647 --> 00:00:55.605
+sahip olursunuz.
+
+9
+00:00:55.647 --> 00:00:59.522
+Go sizi öyle bir yere götürür ki,
+
+10
+00:00:59.522 --> 00:01:03.522
+orada kapasitenizin ulaşılması
+en güç noktalarında olursunuz.
+
+
+11
+00:01:05.147 --> 00:01:07.230
+İnsanların binlerce ve binlerce yıl
+Go oynamasının
+
+
+12
+00:01:07.230 --> 00:01:10.313
+bir sebebi var, öyle değil mi?
+
+13
+00:01:10.355 --> 00:01:13.480
+Bu, sadece Go'yu anlamak
+istemelerinden değil.
+
+
+14
+00:01:13.522 --> 00:01:17.397
+Anlamak ne demek
+onu bilmek istiyorlar.
+
+
+15
+00:01:18.605 --> 00:01:22.813
+Ve belki de bu gerçekten
+insan olmayı anlamak.
+
+
+16
+00:01:27.647 --> 00:01:31.105
+- Çocukken oyun oynamayı severdim.
+
+17
+00:01:31.147 --> 00:01:34.522
+İlk olarak satranç gibi tahta üzerinde
+oynanan oyunlarla başladım
+
+
+18
+00:01:34.563 --> 00:01:37.480
+ve sonra ilk bilgisayarımı
+sekiz yaşındayken
+
+
+19
+00:01:37.522 --> 00:01:40.522
+bir satranç turnuvasından
+kazandıklarımla aldım.
+
+
+20
+00:01:40.563 --> 00:01:43.563
+O zamandan beri, bilgisayarların
+aklınızın gücünü ileriye taşıyan
+
+
+21
+00:01:43.563 --> 00:01:47.563
+büyülü cihazlar olduğunu düşünürüm.
+
+22
+00:01:49.647 --> 00:01:52.272
+Oyunlardaki sanal ortamlar.
+
+23
+00:01:52.272 --> 00:01:53.647
+AI algoritmalarını
+geliştirmek ve test etmek için
+
+
+24
+00:01:53.688 --> 00:01:56.647
+mükemmel bir platform
+olduklarını düşünüyoruz.
+
+
+25
+00:01:56.647 --> 00:02:00.313
+Oyunlar, içlerinde puanlama
+sistemleri olduğundan
+
+
+26
+00:02:00.313 --> 00:02:03.522
+artarak ilerlemeyi ölçmek çok kolaydır
+ve bu bakımdan çok uygundurlar.
+
+
+27
+00:02:03.563 --> 00:02:07.647
+Sizlere A-Jen sisteminin, AI,
+videolarını göstereceğim.
+
+
+28
+00:02:07.688 --> 00:02:09.563
+Blok kırma oyunu ile başlayalım.
+
+29
+00:02:09.605 --> 00:02:12.313
+Burada zemini ve dolayısıyla
+topu kontrol ediyorsunuz ve
+
+
+30
+00:02:12.355 --> 00:02:14.647
+bu gökkuşağı renkli duvarı
+kırmaya çalışıyorsunuz.
+
+
+31
+00:02:14.688 --> 00:02:17.480
+A-Jen sistemi ham piksellerden
+başlayarak herşeyi
+
+
+32
+00:02:17.522 --> 00:02:18.730
+kendi başına öğrenmelidir,
+
+33
+00:02:18.772 --> 00:02:20.688
+neyi kontrol ettiğini bilmeden,
+
+34
+00:02:20.730 --> 00:02:23.480
+oyunun amacının ne
+olduğunu dahi bilmeden.
+
+
+35
+00:02:23.522 --> 00:02:25.688
+Şimdi, başlangıçta,
+ilk yüz oyun sonrası,
+
+
+36
+00:02:25.730 --> 00:02:27.563
+A-Jen'in çok iyi
+olmadığını görüyorsunuz.
+
+
+37
+00:02:27.605 --> 00:02:29.355
+Çoğu zaman topu kaçırıyor,
+
+38
+00:02:29.397 --> 00:02:31.313
+fakat sonradan
+
+39
+00:02:31.313 --> 00:02:33.688
+zeminin topa çarpması
+gerektiği fikrini ediniyor.
+
+
+40
+00:02:33.730 --> 00:02:36.188
+Ve şimdi, 300'üncü oyundan sonra,
+
+41
+00:02:36.230 --> 00:02:38.563
+herhangi bir insanın oynayabileceği
+kadar iyi oynamaya başlıyor ve
+
+
+42
+00:02:38.605 --> 00:02:40.480
+neredeyse her seferinde topu
+geri yollamayı başarıyor.
+
+
+43
+00:02:40.522 --> 00:02:41.605
+Düşündük ki, pekala,
+bu çok havalı,
+
+
+44
+00:02:41.647 --> 00:02:44.438
+fakat sistemi 200 oyun daha
+bırakırsak ne olur.
+
+
+45
+00:02:44.480 --> 00:02:45.522
+Ve o, bu inanılması güç şeyi yaptı.
+
+46
+00:02:45.563 --> 00:02:47.813
+Kenarlardan birer tünel açarak
+
+47
+00:02:47.855 --> 00:02:49.688
+topu duvarın arkasına göndererek
+
+48
+00:02:49.730 --> 00:02:51.605
+optimum stratejiyi buldu.
+
+49
+00:02:51.647 --> 00:02:54.480
+Bunun üzerinde çalışan araştırmacılar
+muhteşem AI geliştiriciler,
+
+
+50
+00:02:54.522 --> 00:02:55.938
+ancak "Blok kırma" oyununda
+çok iyi değiller
+
+
+51
+00:02:55.938 --> 00:02:57.772
+ve bu stratejiyi bilmiyorlardı,
+
+52
+00:02:57.772 --> 00:02:59.688
+böylece kendi sistemlerinden
+birşey öğrendiler,
+
+
+53
+00:02:59.730 --> 00:03:02.563
+genel olarak AI'nin potansiyelini
+görmek açısından
+
+
+54
+00:03:02.605 --> 00:03:05.480
+bu çok eğlenceli ve
+bilgilendirici bence.
+
+
+55
+00:03:05.522 --> 00:03:07.605
+Şimdi ise, bizim için
+bir sonraki adım nedir?
+
+
+56
+00:03:07.647 --> 00:03:11.397
+Go oyunu için, insanlık tarafından icat
+edilmiş en karmaşık oyun denebilir.
+
+
+57
+00:03:11.438 --> 00:03:13.313
+AI araştırmaları için, profesyonel bir
+Go oyuncusunu yenmek,
+
+
+58
+00:03:13.355 --> 00:03:17.522
+uzun süren büyük bir uğraştır.
+
+59
+00:03:37.772 --> 00:03:38.813
+- Vay anasına.
+
+60
+00:03:40.147 --> 00:03:41.813
+Beni gerçekten öldürmek istiyorsun.
+
+61
+00:03:42.605 --> 00:03:45.105
+Hayır, sadece
+hayatta kalmaya çalışıyorum.
+
+
+62
+00:03:46.605 --> 00:03:50.022
+- Ben profesyonel bir Go
+oyuncusuyum. Aynı zamanda Avrupa Şampiyonuyum.
+
+
+63
+00:03:50.647 --> 00:03:53.772
+Bu hamleyle kesinlikle
+kaybedeceksin.
+
+
+64
+00:03:54.022 --> 00:03:56.813
+Önce beni öldürmek istiyorsun
+ama sonra korkuyorsun.
+
+
+65
+00:03:57.688 --> 00:04:03.897
+Eğer korkarsan zaferi kaçırırsın.
+Genelde korktuğunda zafer ellerinden kaçar.
+
+
+66
+00:04:06.147 --> 00:04:11.022
+Ben Çin'de doğdum. 18'ime
+geldiğimde hayatımı değiştirmek istedim.
+
+
+67
+00:04:11.813 --> 00:04:13.605
+Bu yüzden Fransa'ya geldim.
+
+68
+00:04:14.688 --> 00:04:16.813
+Go'yu unutmaya çalıştım.
+
+69
+00:04:18.397 --> 00:04:19.772
+Ama bu imkânsız.
+
+70
+00:04:20.438 --> 00:04:24.522
+Çünkü ben hayatı Go ile öğrendim.
+
+71
+00:04:25.688 --> 00:04:30.855
+Ayna gibidir. Go'ya baktığımda
+kendimi görürüm.
+
+
+72
+00:04:32.772 --> 00:04:34.980
+Go benim için gerçek hayattır.
+
+73
+00:04:40.397 --> 00:04:44.563
+- Sayın Bay Fan, benim adım
+Demis Hassabis.
+
+
+74
+00:04:45.022 --> 00:04:47.313
+Londra'da yerleşik DeepMind isimli
+
+75
+00:04:47.313 --> 00:04:49.938
+yapay zeka şirketini yönetiyorum.
+
+76
+00:04:50.022 --> 00:04:52.063
+Avrupa'daki en güçlü
+Go oyuncusu olarak,
+
+
+77
+00:04:52.105 --> 00:04:54.855
+sizi Londra'daki ofisimize
+sizinle yüzyüze tanışmak ve
+
+
+78
+00:04:54.897 --> 00:04:57.355
+üzerinde çalıştığımız heyecan verici
+
+79
+00:04:57.355 --> 00:05:00.772
+Go projesiyle ilgili paylaşımda
+bulunmak üzere davet etmek isterim.
+
+
+80
+00:05:00.813 --> 00:05:02.563
+Bizi ziyaret etmeye
+gelmekle ilgilenirseniz,
+
+
+81
+00:05:02.605 --> 00:05:04.480
+lütfen bildiriniz.
+
+82
+00:05:04.522 --> 00:05:07.063
+Çok teşekkürler,
+saygılarımla, Demis.
+
+
+83
+00:05:08.688 --> 00:05:12.980
+Bu e-mail'i gördüğümde gerçek mi
+sahte mi anlayamadım.
+
+
+84
+00:05:14.355 --> 00:05:16.563
+Ancak kabul ettim. 
+Neden olmasın?
+
+85
+00:05:18.480 --> 00:05:20.438
+Benim için her şey bir maceradır.
+
+86
+00:05:21.980 --> 00:05:28.022
+DeepMind'ı ziyaret edip bu
+Go projesi neymiş öğrenmek istedim.
+
+
+87
+00:05:32.105 --> 00:05:39.480
+İlk ziyaretimde, benden bir odada
+oturmamı, kafama ve vücuduma
+
+
+88
+00:05:39.980 --> 00:05:44.772
+kablolar takmamı isteyecekler ve
+beynimi tarayacaklar diye düşündüm.
+
+
+89
+00:05:45.313 --> 00:05:48.647
+Araştırmanın bu olduğunu
+düşünüyordum.
+
+
+90
+00:05:49.813 --> 00:05:51.813
+Ciddi bir işletme ve
+düzgün araştırma yapan
+
+
+91
+00:05:51.855 --> 00:05:53.897
+ciddi insanlar olduğumuzu
+görmek açısından
+
+
+92
+00:05:53.938 --> 00:05:58.022
+Fan Hui'yi DeepMind'a
+getirmeliydik.
+
+
+93
+00:05:59.647 --> 00:06:00.938
+- Arama süresi iyiden iyiye
+gelişiyor örneğin,
+
+
+94
+00:06:00.938 --> 00:06:02.772
+birden sekize ya da bunların
+
+95
+00:06:02.813 --> 00:06:03.772
+herhangi birine gittiğimizde.
+
+96
+00:06:03.813 --> 00:06:05.938
+Her zaman yükseliyor.
+
+97
+00:06:05.938 --> 00:06:08.438
+- DeepMind'ı AI'nin
+
+98
+00:06:08.480 --> 00:06:11.897
+Apollo görevi gibi görüyoruz.
+
+99
+00:06:11.897 --> 00:06:14.938
+Bizim görevimiz temel olarak
+zekayı anlamak ve
+
+
+100
+00:06:14.980 --> 00:06:17.063
+onu yapay olarak tekrar tasarlamak.
+
+101
+00:06:17.105 --> 00:06:19.397
+Ve sonrasında, bunu
+başardığımız zaman,
+
+
+102
+00:06:19.438 --> 00:06:21.855
+bu teknolojiyi toplumun
+çeşitli tüm diğer
+
+
+103
+00:06:21.897 --> 00:06:23.855
+sorunlarını çözmek üzere
+kullanabileceğimizi düşünüyoruz.
+
+
+104
+00:06:23.897 --> 00:06:25.522
+- Gerçek oyunu araştırdığımız zaman
+
+105
+00:06:25.563 --> 00:06:28.063
+bir algoritmanın nasıl
+düşündüğünü görebiliriz.
+
+
+106
+00:06:28.105 --> 00:06:31.438
+Gerçekleşeceğini düşündüğü en
+muhtemel varyasyonun hangisi olduğunu.
+
+
+107
+00:06:31.480 --> 00:06:33.938
+- AlphaGo üzerinde
+çalışıyoruz ve şu an itibariyle
+
+
+108
+00:06:34.022 --> 00:06:37.022
+programımız 2 yıldan az
+bir süredir Go oynuyor.
+
+
+109
+00:06:37.063 --> 00:06:39.063
+- Tüm küçük modeller birlikte akıyor,
+
+110
+00:06:39.105 --> 00:06:42.188
+katman ardından yeni
+bir katman olarak.
+
+
+111
+00:06:42.230 --> 00:06:43.980
+Demis'le Go oyunu hakkında konuşmaya
+
+112
+00:06:44.022 --> 00:06:46.772
+başlayalı 20 yıldan fazla oldu.
+
+113
+00:06:46.772 --> 00:06:49.188
+Yani, bu gerçekten uzun
+bir serüven oldu.
+
+
+114
+00:06:49.230 --> 00:06:52.772
+Go oyunu, yapay zekanın
+kutsal kâsesi.
+
+
+115
+00:06:52.772 --> 00:06:54.855
+Yıllardır insanlar bu oyunla ilgilendi
+ve düşündüler ki,
+
+
+116
+00:06:54.897 --> 00:06:57.855
+vay anasına bu gerçekten çok zor.
+
+117
+00:06:57.897 --> 00:06:59.897
+AI'da denediğimiz her şey,
+
+118
+00:06:59.938 --> 00:07:01.938
+Go oyununa uyguladığınızda
+yitip gidiyor ve
+
+
+119
+00:07:01.980 --> 00:07:03.772
+bu nedenle gelişimin gerçek bir
+turnusol kağıdı
+
+
+120
+00:07:03.813 --> 00:07:05.563
+gibi hissettiriyor.
+
+121
+00:07:05.605 --> 00:07:10.522
+Go'yu çözebilirsek, gerçekten özel bir
+şey yapmış olacağımızı biliyoruz.
+
+
+122
+00:07:10.522 --> 00:07:12.563
+- Ondan sonra Fan Hui ile ziyaretinin
+
+123
+00:07:12.563 --> 00:07:14.563
+gerçek amacı üzerine konuşmaya başladık.
+
+124
+00:07:14.563 --> 00:07:17.063
+Yardımcı olmasını istediğimiz şey
+yalnızca bir Go projesi değildi.
+
+
+125
+00:07:17.105 --> 00:07:19.022
+Aslında oyunu oynamasını istiyorduk ve
+
+126
+00:07:19.063 --> 00:07:20.355
+çok güçlü bir programımız vardı.
+
+127
+00:07:20.563 --> 00:07:25.605
+Sorun değil, bu sadece bir program.
+Çok basit. Kazanmak kolay olacak.
+
+
+128
+00:07:25.980 --> 00:07:28.688
+- Birçok kişi bunun on yıllar daha
+ötede olduğunu düşünüyordu.
+
+
+129
+00:07:28.730 --> 00:07:31.480
+Bazıları ise bunun hiçbir zaman
+gerçekleşmeyeceğini çünkü Go'da
+
+
+130
+00:07:31.480 --> 00:07:35.563
+başarılı olmak için insani sezgilere
+sahip olmak gerektiğini düşünüyordu.
+
+
+131
+00:07:37.022 --> 00:07:40.897
+- Go dünyanın en eski, sürekli
+oynanan tahta oyunu
+
+
+132
+00:07:40.938 --> 00:07:44.897
+ve, bir anlamda, en kolayı
+
+133
+00:07:44.938 --> 00:07:47.647
+ve en soyut olanı.
+
+134
+00:07:47.688 --> 00:07:48.772
+- Sadece bir tip taş var.
+
+135
+00:07:48.813 --> 00:07:50.022
+Ve sadece bir tip hamle var.
+
+136
+00:07:50.063 --> 00:07:51.897
+O taşı tahtaya koyuyorusunuz ve
+
+137
+00:07:51.897 --> 00:07:56.022
+amacınız boş bir alanı kapsayan
+
+138
+00:07:56.063 --> 00:07:59.730
+kendi taşlarınızdan oluşan
+bağlı bir grup oluşturmak.
+
+
+139
+00:07:59.772 --> 00:08:03.230
+Ve, rakip taşlarını kuşattığınızda,
+onları alıyor
+
+
+140
+00:08:03.272 --> 00:08:05.855
+ve tahtadan kaldırıyorsunuz.
+
+141
+00:08:05.897 --> 00:08:08.022
+Alan kuşatarak puan
+kazanıyorsunuz ve,
+
+
+142
+00:08:08.063 --> 00:08:10.813
+oyunun sonunda, en fazla alana sahip
+
+143
+00:08:10.855 --> 00:08:13.688
+olan kişi oyunu kazanıyor.
+
+144
+00:08:13.688 --> 00:08:17.230
+Gerçekten basit görünüyor, ancak
+oynamak için oturduğunuz zaman
+
+
+145
+00:08:17.272 --> 00:08:18.938
+anında anlıyorsunuz ki,
+yani, biraz,
+
+
+146
+00:08:18.938 --> 00:08:21.730
+teknik olarak ne yapabileceğimi
+biliyorum ama
+
+
+147
+00:08:21.772 --> 00:08:23.730
+ne yapacağımla ilgili
+hiç bir fikrim yok.
+
+
+148
+00:08:23.730 --> 00:08:26.105
+- Bilgisayarların Go'nun üstesinden
+gelmesi gerçekten çok güç
+
+
+149
+00:08:26.147 --> 00:08:28.522
+çünkü, mesela satranç ile
+karşılaştırıldığında,
+
+
+150
+00:08:28.563 --> 00:08:31.730
+bir pozisyondaki olası hareket
+sayısı çok daha büyük.
+
+
+151
+00:08:31.772 --> 00:08:32.980
+Satrançta bu, yaklaşık 20.
+
+152
+00:08:33.022 --> 00:08:34.938
+Go'da ise yaklaşık 200.
+
+153
+00:08:34.938 --> 00:08:37.980
+Ve tahtanın olası düzenlerinin sayısı
+
+154
+00:08:38.022 --> 00:08:40.647
+evrendeki atomların sayısından
+bile fazla.
+
+
+155
+00:08:40.647 --> 00:08:42.938
+Demem o ki, dünya üzerindeki
+tüm bilgisayarları alsanız
+
+
+156
+00:08:42.980 --> 00:08:45.813
+ve milyon yıl boyunca çalıştırsanız,
+
+157
+00:08:45.855 --> 00:08:49.230
+tüm varyasyonları hesaplamak için
+yeterli işlem gücünü elde edemezsiniz.
+
+
+158
+00:08:49.272 --> 00:08:51.772
+Eğer bir Go oyuncusuna neden özellikle
+
+159
+00:08:51.813 --> 00:08:54.105
+bu hamleyi yaptıklarını sorsanız,
+bazen size sadece
+
+
+160
+00:08:54.147 --> 00:08:55.772
+doğru olanın o olduğunu
+hissettiklerini söylerler.
+
+
+161
+00:08:55.813 --> 00:08:58.105
+Bu da demek oluyor ki, insanların
+sezgileriyle yaptıklarını
+
+
+162
+00:08:58.147 --> 00:09:02.188
+taklit eden bir çeşit akıllı algoritma
+ortaya koymamız gerekiyor.
+
+
+163
+00:09:02.230 --> 00:09:03.813
+- Memnun oldum.
+- Oo, merhaba.
+
+
+164
+00:09:03.855 --> 00:09:05.063
+Memnun oldum.
+
+165
+00:09:05.105 --> 00:09:07.647
+- Fan Hui ile en iyisinden
+beş karşılaşma için ve
+
+
+166
+00:09:07.688 --> 00:09:09.813
+bunların kameraya çekilmesi
+üzerine anlaştık.
+
+
+167
+00:09:09.855 --> 00:09:13.813
+Biliyorsunuz, bunları ciddi
+karşılaşmalar olarak düşüneceğiz.
+
+
+168
+00:09:13.980 --> 00:09:18.563
+AlphaGo ile oynadım. Aja Huang,
+AlphaGo'nun hamlelerini oynadı.
+
+
+169
+00:09:19.105 --> 00:09:23.605
+Tabii ki AlphaGo'yu yeneceğimi
+düşünüyordum. O sadece bir programdı.
+
+
+170
+00:09:24.772 --> 00:09:27.688
+-İyi oyunlar.
+-İyi oyunlar.
+
+
+171
+00:09:30.938 --> 00:09:35.647
+İlk oyunda bazı hatalar yaptım.
+Oyunu kaybettim.
+
+
+172
+00:09:37.688 --> 00:09:40.313
+Garip. Çok garip bir oyun.
+
+173
+00:09:40.605 --> 00:09:47.313
+İlk oyunda birşeyler kafasına
+dank etti. Bu sıradan bir program değildi.
+
+
+174
+00:09:47.313 --> 00:09:50.272
+Diğerleriyle aynı şeyi yapmıyorduk,
+
+175
+00:09:50.313 --> 00:09:51.480
+yeni bir şey oluyordu.
+
+176
+00:09:51.605 --> 00:09:54.063
+İkinci oyunda
+tarzımı değiştirmeye çalıştım.
+
+
+177
+00:09:54.772 --> 00:09:57.855
+Ama sorun şu ki,
+ikinci oyunu da kaybettim.
+
+
+178
+00:09:58.313 --> 00:10:02.688
+Üçüncü oyunu da. Dördüncü oyunu da.
+Hatta son oyunu bile.
+
+
+179
+00:10:04.063 --> 00:10:06.147
+5-0 kaybettim.
+
+180
+00:10:08.230 --> 00:10:10.063
+AlphaGo hepsini kazandı.
+
+181
+00:10:11.230 --> 00:10:14.022
+- Ardarda kaybettikçe,
+
+182
+00:10:14.063 --> 00:10:17.772
+üzerindeki baskının giderek
+ağırlaştığını hissedebiliyordunuz.
+
+
+183
+00:10:17.813 --> 00:10:20.313
+Oyundan sonra bir çok kere
+
+184
+00:10:20.355 --> 00:10:24.188
+temiz hava almak için
+dışarı çıkmak istediğini söyledi.
+
+
+185
+00:10:24.230 --> 00:10:26.272
+Seninle gelip
+sohbet edebilirim dedim.
+
+
+186
+00:10:26.313 --> 00:10:29.063
+Hayır, kendim gitmek istiyorum dedi.
+
+187
+00:10:30.022 --> 00:10:34.980
+Garip bir şey hissettim.
+Programa kaybetmiştim.
+
+
+188
+00:10:35.522 --> 00:10:39.272
+Artık kendimi anlayamıyordum.
+
+189
+00:10:44.147 --> 00:10:46.647
+- Tekrar gelip gelmeyeceğinden
+şüpheliydim.
+
+
+190
+00:10:46.688 --> 00:10:49.938
+Bilirsiniz, çok bitkin görünüyordu ve
+
+191
+00:10:49.938 --> 00:10:51.688
+ofisin dışında yaklaşık
+bir saat geçirdi.
+
+
+192
+00:10:51.730 --> 00:10:53.022
+Geri döndüğünde tamamen değişmişti.
+
+193
+00:10:53.272 --> 00:10:58.022
+Maddy'ye Profesyonel bir Go
+oyuncusunun programa karşı kaybetmesinin
+
+
+194
+00:10:58.147 --> 00:11:00.563
+tarihte bir ilk olduğunu söyledim.
+
+195
+00:11:01.022 --> 00:11:02.522
+Bana "Evet, biliyoruz." dedi.
+
+196
+00:11:02.897 --> 00:11:05.772
+"Ama sen iyi misin?" dedi.
+
+197
+00:11:06.605 --> 00:11:07.813
+Ona dedim ki...
+
+198
+00:11:09.480 --> 00:11:14.813
+Hem evet, hem hayır. Oyunu
+kaybettiğim için mutsuzum.
+
+
+199
+00:11:15.438 --> 00:11:19.522
+Ancak tarihe geçtiğim için mutluyum.
+
+200
+00:11:22.897 --> 00:11:25.397
+- Yapay zeka araştırmacıları Go oyununu
+
+201
+00:11:25.438 --> 00:11:29.272
+beklenenden yaklaşık
+on yıl önce çözdüler.
+
+
+202
+00:11:29.313 --> 00:11:31.355
+AlphaGo isimli bilgisayar
+
+203
+00:11:31.397 --> 00:11:34.022
+Avrupa'nın insan şampiyonunu
+yenmeyi başardı.
+
+
+204
+00:11:34.022 --> 00:11:35.480
+- Yapay zeka araştırmacıları
+
+205
+00:11:35.522 --> 00:11:37.688
+çok önemli bir başarıya imza attılar.
+
+206
+00:11:37.730 --> 00:11:40.105
+- İleriye dönük gerçekten
+çok büyük bir atılım.
+
+
+207
+00:11:40.147 --> 00:11:43.313
+Uzman satranç oyuncuları tarafından
+programlanan IBM bilgisayarının
+
+
+208
+00:11:43.355 --> 00:11:47.480
+Kasparov'u yenmesi ile
+arada çok büyük bir fark var ki,
+
+
+209
+00:11:47.522 --> 00:11:50.105
+Go-oynayan bilgisayar bunu
+
+210
+00:11:50.147 --> 00:11:51.730
+az-çok kendi kendine öğrendi.
+
+211
+00:11:51.772 --> 00:11:54.938
+- AlphaGo'yu eğitmeye başlama
+yöntemimiz ona
+
+
+212
+00:11:54.980 --> 00:11:58.147
+internetten indirdiğimiz
+güçlü amatörlerin oynadığı
+
+
+213
+00:11:58.147 --> 00:12:00.022
+100,000 oyunu göstermek oldu.
+
+214
+00:12:00.063 --> 00:12:02.397
+Ve en başta, kendiyle oynayarak
+güçlenerek öğrenme yoluyla AlphaGo'nun
+
+
+215
+00:12:02.438 --> 00:12:04.522
+insan oyuncuyu taklit
+etmesini sağladık,
+
+
+216
+00:12:04.522 --> 00:12:07.230
+milyonlarca kez kendisinin
+farklı versiyonlarına
+
+
+217
+00:12:07.272 --> 00:12:10.772
+karşı oynayıp yaptığı
+hatalardan ders çıkardı.
+
+
+218
+00:12:10.813 --> 00:12:14.438
+- AlphaGo'yu yöneten bu özgün fikirler
+
+219
+00:12:14.480 --> 00:12:16.813
+geleceğimize de yön verecek.
+
+220
+00:12:16.855 --> 00:12:19.272
+AlphaGo'nun özündeki teknolojiler
+
+221
+00:12:19.313 --> 00:12:21.438
+derin nöral ağlar olarak
+adlandırılır, ve
+
+
+222
+00:12:21.480 --> 00:12:24.188
+esasen insan beynindeki
+
+223
+00:12:24.230 --> 00:12:25.938
+nöron ağını taklit eder.
+
+224
+00:12:25.980 --> 00:12:29.272
+Çok eski bir fikirdir,
+ancak son zamanlarda
+
+
+225
+00:12:29.313 --> 00:12:33.022
+hesaplama gücündeki
+artışa paralel olarak,
+
+
+226
+00:12:33.063 --> 00:12:35.063
+neredeyse bir gecede bu nöral
+ağlar çok güçlü duruma geldi.
+
+
+227
+00:12:35.105 --> 00:12:38.188
+- Büyük veri üzerinde çalışan büyük
+
+228
+00:12:38.230 --> 00:12:40.230
+nöral ağlar sürpriz olan
+şeyler başarabilir.
+
+
+229
+00:12:40.272 --> 00:12:42.813
+AlphaGo Go'yu nasıl oynayacağını
+nasıl öğreneceğine dair bir yol buldu.
+
+
+230
+00:12:42.855 --> 00:12:44.188
+Öğrenme buradaki anahtar kelimedir.
+
+231
+00:12:44.188 --> 00:12:45.855
+Bu makina öğrenmesi.
+
+232
+00:12:45.897 --> 00:12:47.772
+- Bu tip algoritmaların tüm güzelliği,
+
+233
+00:12:47.813 --> 00:12:49.563
+kendileri için öğrendiklerinden
+mütevellit,
+
+
+234
+00:12:49.563 --> 00:12:52.272
+programcılar olarak nasıl yapacağımızı
+bildiğimizin ötesine
+
+
+235
+00:12:52.313 --> 00:12:55.188
+geçebilirler ve bu da
+bilim ve tıp alanında
+
+
+236
+00:12:55.230 --> 00:12:57.438
+yeni atılımlar yapmamıza imkan sağlar.
+
+237
+00:12:57.480 --> 00:13:00.272
+Yani, AlphaGo nihai hedefe yönelik
+
+238
+00:13:00.272 --> 00:13:02.480
+atılmış önemli bir adım.
+
+239
+00:13:11.105 --> 00:13:17.563
+Eşim beni aradı. "Sakın internete
+bakma. İnternete bağlanma." dedi.
+
+
+240
+00:13:17.813 --> 00:13:22.438
+"Çünkü insanlar senin AlphaGo ile
+olan maçın hakkında çok kötü şeyler söylüyor."
+
+
+241
+00:13:22.980 --> 00:13:28.813
+"Fan Hui uzun süredir Avrupa'da, o
+gerçek bir profesyonel değil, o amatör."
+
+
+242
+00:13:29.397 --> 00:13:32.147
+Bu benim için gerçekten çok zordu.
+
+243
+00:13:33.938 --> 00:13:37.563
+- Go dünyası AlphaGo'nun gücü ve en iyi
+
+244
+00:13:37.605 --> 00:13:40.938
+profesyonelleri yenmek için
+daha ne kadar
+
+
+245
+00:13:40.938 --> 00:13:43.397
+ileri gitmesi gerektiği
+hakkında şüpheciydi.
+
+
+246
+00:13:43.438 --> 00:13:47.272
+Bizim programımız zamanla gelişiyor
+ve AI algoritmasını limitlere
+
+
+247
+00:13:47.313 --> 00:13:50.105
+taşımak istiyoruz ve bu şekilde
+kendini-geliştirme işleminin
+
+
+248
+00:13:50.147 --> 00:13:53.313
+ne kadar ileri gidebileceğini
+görmek istiyoruz.
+
+
+249
+00:13:53.355 --> 00:13:57.313
+Yani, daha büyük mücadeleler
+aramamız gerekiyor.
+
+
+250
+00:13:57.355 --> 00:13:59.230
+- Güney Kore'de
+daha önce eşi benzeri .
+
+
+251
+00:13:59.272 --> 00:14:01.188
+görülmemiş bir karşılaşma
+gerçekleşmek üzere.
+
+
+252
+00:14:01.230 --> 00:14:03.480
+- Lee Sedol, uzun soluklu
+dünya şampiyonu.
+
+
+253
+00:14:03.522 --> 00:14:05.147
+- Bu adam bir dahi.
+
+254
+00:14:05.188 --> 00:14:07.313
+- En üst düzey makinaya
+karşı insan kapışmasında
+
+
+255
+00:14:07.355 --> 00:14:11.522
+yapay zeka programı AlphaGo ile
+karşı karşıya gelecek.
+
+
+256
+00:14:11.563 --> 00:14:13.647
+- Bu hem yapay zeka hem de
+
+257
+00:14:13.647 --> 00:14:17.605
+bence Go dünyası için çok önemli bir an.
+
+258
+00:14:17.647 --> 00:14:21.355
+Bu zamana kadar, AlphaGo O'na
+sunduğumuz tüm mücadeleleri
+
+
+259
+00:14:21.397 --> 00:14:24.147
+kazandı, ancak Lee Sedol gibi
+dünyanın en üst noktasında olan
+
+
+260
+00:14:24.188 --> 00:14:27.647
+birisiyle oynamadığımız sürece
+onun gerçek gücünü bilemeyiz.
+
+
+261
+00:14:27.688 --> 00:14:30.397
+Lee Sedol'ü seçtik çünkü
+
+262
+00:14:30.438 --> 00:14:32.897
+efsanevi ve tarihi bir oyuncu istedik.
+
+263
+00:14:32.938 --> 00:14:34.480
+Son on yılın en büyük oyuncusu
+
+264
+00:14:34.522 --> 00:14:35.980
+olarak atfedilmiş birisi.
+
+265
+00:14:36.230 --> 00:14:42.105
+Çok kibirli görünmek istemiyorum ama
+bence avantajlı konumdayım.
+
+
+266
+00:14:43.272 --> 00:14:45.313
+- Çok kibirli olmayacağım,
+ancak
+
+
+267
+00:14:45.313 --> 00:14:48.605
+çok çekişmeli bir maç
+olacağını düşünmüyorum.
+
+
+268
+00:14:48.647 --> 00:14:52.313
+AlphaGo'nun Ekim ayında
+karşılaştığı oyuncu
+
+
+269
+00:14:52.355 --> 00:14:54.688
+benimle aynı seviyede değildi.
+
+270
+00:14:54.688 --> 00:14:58.355
+Bu durumda, aradan
+sadece birkaç ay geçmesi de
+
+
+271
+00:14:58.355 --> 00:15:00.563
+göz önüne alınırsa,
+onun beni yakalaması
+
+
+272
+00:15:00.563 --> 00:15:02.272
+için bunun yeterli
+olmadığını düşünüyorum.
+
+
+273
+00:15:02.313 --> 00:15:05.438
+Ümidim sonucun benim
+lehime ya beş-sıfır
+
+
+274
+00:15:05.480 --> 00:15:07.230
+ya da belki dörde bir olması.
+
+275
+00:15:07.272 --> 00:15:08.688
+Yani, benim için kritik nokta
+
+276
+00:15:08.730 --> 00:15:11.605
+o tek oyunu kaybetmemek olacak.
+
+277
+00:15:14.313 --> 00:15:17.272
+- Lee Sedol gibi yaratıcı birine karşı
+
+278
+00:15:17.313 --> 00:15:20.438
+sistemimizin ne kadar iyi
+oynayacağını bilemiyoruz.
+
+
+279
+00:15:20.480 --> 00:15:24.688
+Bunun yanında, kendisi yaratıcı
+saldırgan oyunu ile
+
+
+280
+00:15:24.730 --> 00:15:28.313
+ünlü birisi yani bu bizim için zor
+olabilir, ama hep birlikte göreceğiz.
+
+
+281
+00:15:28.355 --> 00:15:29.522
+Belki bazı yönleriyle, O
+
+282
+00:15:29.522 --> 00:15:32.063
+bizim seçebileceğimiz
+en zorlu rakip olabilir.
+
+
+283
+00:15:32.105 --> 00:15:35.480
+- Ancak hala Lee Sedol gibi birini
+yenip yenemeyeceklerine
+
+
+284
+00:15:35.522 --> 00:15:38.938
+dair bir çok soru işareti vardı.
+
+285
+00:15:38.980 --> 00:15:41.397
+Fan Hui iyi bir oyuncu ancak
+
+286
+00:15:41.438 --> 00:15:43.480
+o en yüksek seviye
+oyuncular gibi hiç değil.
+
+
+287
+00:15:43.522 --> 00:15:46.105
+- Lee Sedol dokuz dan seviyesinde
+profesyonel bir oyuncu.
+
+
+288
+00:15:46.105 --> 00:15:47.438
+Dokuz dan profesyonel seviyesi
+Go oyunu sıralama
+
+
+289
+00:15:47.480 --> 00:15:51.147
+sisteminde erişilebilecek
+en yüksek seviye.
+
+
+290
+00:15:51.188 --> 00:15:53.105
+Avrupa Şampiyonu olan Fan Hui ise
+
+291
+00:15:53.147 --> 00:15:55.272
+sadece iki dan seviyesinde profesyonel.
+
+292
+00:15:55.313 --> 00:15:57.688
+Buna karşın, en tepede
+bulunan Lee Sedol ise
+
+
+293
+00:15:57.730 --> 00:15:59.688
+dokuz dan seviyesinde.
+
+294
+00:15:59.730 --> 00:16:02.522
+Go için Lee Sedol, tenis için
+Roger Federer neyse odur.
+
+
+295
+00:16:02.563 --> 00:16:04.522
+O, Wimbledon'da Büyük Ödül'ü
+kazanmak için oynuyor ve
+
+
+296
+00:16:04.563 --> 00:16:06.022
+bu sadece bu sene için değil.
+
+297
+00:16:06.063 --> 00:16:07.938
+O gelecek sene de orada ve
+ondan sonraki sene
+
+
+298
+00:16:08.147 --> 00:16:13.647
+Tabii ki internet ve
+Go topluluğu, herkes,
+
+
+299
+00:16:14.772 --> 00:16:22.855
+Belki %100 değil de %99.999'u
+Lee Sedol'un kolay kazanacağını düşünüyor.
+
+
+300
+00:16:31.313 --> 00:16:36.647
+Taşı düzgün koy.
+Şu şekilde güzelce tut.
+
+
+301
+00:16:37.397 --> 00:16:40.563
+- Go Kore'de çok ciddiye alınır.
+
+302
+00:16:40.605 --> 00:16:43.397
+Kültürün o kadar içindedir ki
+neredeyse nefes almak ya da,
+
+
+303
+00:16:43.397 --> 00:16:46.022
+bilirsiniz, yüzme dersleri almak
+ya da benzeri bir şeydir.
+
+
+304
+00:16:46.272 --> 00:16:51.272
+Bir oyun gibi gözükür ancak derin
+bir felsefesi vardır.
+
+
+305
+00:16:51.605 --> 00:16:55.105
+Go tahtası oynayan kişiyi
+kendine yansıtır.
+
+
+306
+00:16:55.480 --> 00:16:58.813
+Gerçek kendini tahtada yansıtır.
+Saklayamazsınız.
+
+
+307
+00:17:00.188 --> 00:17:04.522
+- Eski zamanların Çin,
+Japonya ve Koresi'nde;
+
+
+308
+00:17:04.522 --> 00:17:08.522
+müzik, şiir ve resim ile birlikte Go
+
+309
+00:17:10.313 --> 00:17:14.063
+sanatta başarı için aslolan
+dört şeyden biriydi.
+
+
+310
+00:17:15.730 --> 00:17:18.397
+Yani insanlar Go oyuncularının çok zeki
+
+311
+00:17:19.605 --> 00:17:21.397
+ve çok asil olduğunu düşünürler.
+
+312
+00:17:21.563 --> 00:17:25.688
+Elinden geleni yaptığın sürece
+kaybetmek sorun değildir.
+
+
+313
+00:17:27.105 --> 00:17:31.105
+- Bay Kwon bu okulu, Kore'de
+
+314
+00:17:31.147 --> 00:17:34.230
+büyük oyuncular yetiştirebilmek
+için açtı.
+
+
+315
+00:17:34.272 --> 00:17:38.188
+Lee Sedol, sekiz yaşından itibaren
+burada sabah saat dokuzdan
+
+
+316
+00:17:38.230 --> 00:17:42.647
+akşam saat dokuza kadar
+yedi gün boyunca derslere katıldı.
+
+
+317
+00:17:42.688 --> 00:17:45.188
+Sonrasında Bay Kwon ile kaldı.
+
+318
+00:17:45.438 --> 00:17:49.105
+Yuvarlak yüzünü ve kahverengi
+gözlerini hatırlayabiliyorum.
+
+
+319
+00:17:49.688 --> 00:17:53.855
+O adadan geldiği için
+çok dikkat çekti.
+
+
+320
+00:17:54.813 --> 00:18:01.022
+Diğer çocukların aksine,
+gözleri parıldıyordu.
+
+
+321
+00:18:02.522 --> 00:18:07.230
+- Hatırlıyorum, ben henüz
+Go öğrenen bir öğrenci iken
+
+
+322
+00:18:07.272 --> 00:18:09.480
+Lee Sedol küçük bir çocuktu.
+
+323
+00:18:09.522 --> 00:18:12.605
+Çok genç ve taşralıydı, o kadar ki
+
+324
+00:18:12.647 --> 00:18:15.688
+pizzanın ağaçta yetiştiğini sanıyordu.
+
+325
+00:18:15.855 --> 00:18:19.313
+Ben çocukken Go oynamaya kendimden
+büyükleri yenmenin
+
+
+326
+00:18:19.438 --> 00:18:21.522
+eğlenceli olduğunu
+düşündüğüm için başladım.
+
+
+327
+00:18:21.730 --> 00:18:24.772
+O zamandan beri benim için
+bir sanat haline geldi.
+
+
+328
+00:18:25.355 --> 00:18:31.397
+Kendi Go tarzımın farklı ve yeni
+olmasını istiyorum. Sadece bana özel.
+
+
+329
+00:18:33.272 --> 00:18:36.105
+Daha önce kimsenin
+düşünmediği bir şey.
+
+
+330
+00:18:36.397 --> 00:18:41.147
+- Lee Sedol, kazanmak ya da
+kaybetmenin çok ötesinde
+
+
+331
+00:18:41.147 --> 00:18:43.605
+olduğunu hissettiren ilginç
+oyunlar oynuyor.
+
+
+332
+00:18:43.647 --> 00:18:45.813
+Yenilikçi bir şeyler yapmak ya da
+
+333
+00:18:45.855 --> 00:18:47.688
+çıtayı bir sonraki seviyeye
+taşımak istiyordu.
+
+
+334
+00:18:47.688 --> 00:18:51.188
+- Ve tabi ki, her Go oyuncusu
+onun oyununa çalışır.
+
+
+335
+00:18:51.230 --> 00:18:54.730
+Kabaca, 10 yıl boyunca, profesyonel
+Go dünyasını domine etti.
+
+
+336
+00:18:54.730 --> 00:18:56.147
+18 Dünya Şampiyonluğu kazandı.
+
+337
+00:18:56.397 --> 00:19:00.647
+Lee Sedol bu yüzyılın dahilerinden
+biri.
+
+
+338
+00:19:00.813 --> 00:19:08.063
+Şimdi geriye baktığımda, onunla
+gurur duyuyorum. Kendimle de.
+
+
+339
+00:19:09.188 --> 00:19:14.772
+- Kesinlikle, Lee Sedol maçı kazanacak,
+beşinde de yenecek.
+
+
+340
+00:19:14.813 --> 00:19:16.813
+Evet , tüm oyunlarda.
+
+341
+00:19:16.855 --> 00:19:19.438
+Tüm oyunları kazanacak.
+
+342
+00:19:19.480 --> 00:19:22.522
+- Deneme karşılaşmamızı
+geçen hafta yaptık.
+
+
+343
+00:19:22.563 --> 00:19:24.480
+Bir maçı kazandık ve
+bir maçı da kaybettik.
+
+
+344
+00:19:24.522 --> 00:19:26.313
+Ve bir maçı da toplum içinde olması
+halinde bizi çok gülünç
+
+
+345
+00:19:26.355 --> 00:19:29.647
+bir duruma düşürebilecek
+bir şekilde kaybettik.
+
+
+346
+00:19:29.688 --> 00:19:31.688
+Bu demek oluyor ki halen
+yapmamız gereken işler var ve
+
+
+347
+00:19:31.730 --> 00:19:33.647
+bunu gerçekten ciddiye almalıyız.
+Bu sadece çok büyük bir risk değil,
+
+
+348
+00:19:33.688 --> 00:19:37.647
+gerçekten de karşılaşmanın genelinde
+kaybetmemize neden olabilecek bir durum.
+
+
+349
+00:19:38.813 --> 00:19:40.772
+Sadece bu da değil,
+öyle bir kaybederiz ki
+
+
+350
+00:19:40.772 --> 00:19:42.688
+bu bizi gerçekten aptal gösterir.
+
+351
+00:19:42.730 --> 00:19:43.813
+Evet şimdi sanırım...
+
+352
+00:19:44.772 --> 00:19:45.855
+Evet, Aja, ne denemekte
+olduğun hakkında
+
+
+353
+00:19:45.897 --> 00:19:46.938
+bir şeyler söylemek ister miydin?
+
+354
+00:19:46.980 --> 00:19:48.647
+- Iım, ben çok çalışıyorum.
+
+355
+00:19:52.313 --> 00:19:54.188
+- Burada zamanla yarışıyoruz,
+algoritmalarımızı
+
+
+356
+00:19:54.230 --> 00:19:55.813
+biraz daha iyileştiriyoruz,
+
+357
+00:19:55.855 --> 00:19:57.855
+maç anına kadar kademeli olarak
+
+358
+00:19:57.897 --> 00:20:00.522
+gelişimi sürdürmeye çalışıyoruz.
+
+359
+00:20:00.563 --> 00:20:01.897
+- Aynı takım içinde birbirinden farklı
+
+360
+00:20:01.938 --> 00:20:04.563
+yeteneklere sahip insanları
+biraraya topladık.
+
+
+361
+00:20:04.563 --> 00:20:07.813
+Yani, burada araştırmacılar,
+mühendisler ve
+değerlendirme elemanları var.
+
+
+362
+00:20:08.105 --> 00:20:12.397
+Peki ağır nodülde bulunmayan yeni
+bir şey denerse ne olacak? Öngöremeyiz.
+
+
+363
+00:20:13.730 --> 00:20:15.022
+- Tamam.
+
+364
+00:20:15.230 --> 00:20:18.730
+Mükemmel çözümü düşünüyorum ama
+yine de mükemmel değil.
+
+
+365
+00:20:19.272 --> 00:20:23.647
+- Aja baş programcı ve
+
+366
+00:20:23.647 --> 00:20:25.522
+özgün arama motorunu kurdu.
+
+367
+00:20:25.563 --> 00:20:27.438
+- Yani Aja'nın sorumluluğu
+gerçekten çok büyük.
+
+
+368
+00:20:27.480 --> 00:20:29.938
+Lee Sedol'ün karşısında
+oturacak kişi O olacak ve
+
+
+369
+00:20:29.938 --> 00:20:33.730
+AlphaGo'nun yaptığı hamleleri
+O oynayacak.
+
+
+370
+00:20:33.772 --> 00:20:35.605
+- Heyecanlı hissediyorum.
+
+371
+00:20:37.480 --> 00:20:39.730
+Lee Sedol, O büyük bir oyuncu ve
+
+372
+00:20:39.772 --> 00:20:42.772
+O'nunla oynayacağım için
+şeref duyuyorum.
+
+
+373
+00:20:44.063 --> 00:20:46.522
+Bir çok arkadaşım, hepsi karşılaşma
+ile ilgili çok heyecanlılar.
+
+
+374
+00:20:46.563 --> 00:20:49.813
+Bana sürekli tüm dünyanın
+izliyor olacağını söylüyorlar.
+
+
+375
+00:20:49.813 --> 00:20:50.980
+AlphaGo'yu hazırlayın.
+
+376
+00:20:51.147 --> 00:20:52.230
+- Merhaba.
+
+377
+00:20:52.522 --> 00:20:54.022
+Merhaba, Demis,
+bizi duyabiliyor musun?
+
+
+378
+00:20:54.272 --> 00:20:56.605
+- Evet, sizi duyuyorum çocuklar.
+Sesim iyi geliyor mu?
+
+
+379
+00:20:56.897 --> 00:20:57.938
+- Evet, sorunsuz.
+
+380
+00:20:58.230 --> 00:21:04.397
+AlphaGo'yu yapan sizin gibi
+inanılmaz bir programcıyla
+tanışmayı çok istiyordum.
+
+
+381
+00:21:04.688 --> 00:21:06.188
+Sizi tanıdığıma çok memnun oldum.
+
+382
+00:21:06.438 --> 00:21:08.647
+- Teşekkürler, teşekkürler.
+Aynı şekilde ben de.
+
+
+383
+00:21:08.855 --> 00:21:10.897
+Sizinle tanışmak gerçekten büyük keyif.
+
+384
+00:21:11.313 --> 00:21:13.813
+Go oyununu seviyorum.
+Pek iyi değilim.
+
+
+385
+00:21:14.355 --> 00:21:18.272
+Biliyor musun, aslında ortak bir
+noktamız var.
+
+
+386
+00:21:18.855 --> 00:21:21.938
+Ben de çok küçük yaşta
+bir oyun öğrenmeye başladım.
+
+
+387
+00:21:22.147 --> 00:21:26.105
+Eskiden, gençken, profesyonel
+bir satranç oyuncusuydum.
+
+
+388
+00:21:28.272 --> 00:21:31.480
+Eskiden İngiltere takımı
+için oynardım ve
+
+
+389
+00:21:32.230 --> 00:21:35.230
+sonra 14 yaşındayken oynamayı bıraktım.
+
+390
+00:21:35.772 --> 00:21:38.938
+13 yaşındayken, dünyanın en iyi ikinci
+sıraya sahip oyuncusuydum.
+
+
+391
+00:21:39.230 --> 00:21:43.022
+- Maçtan sonra, size önerim
+
+392
+00:21:43.063 --> 00:21:45.730
+ben size bir oyun
+Go öğreteyim ve siz de
+
+
+393
+00:21:45.730 --> 00:21:48.688
+karşılığında bana
+bir oyun satranç öğretin.
+
+
+394
+00:21:48.730 --> 00:21:49.772
+Bu sizce nasıl?
+
+395
+00:21:49.772 --> 00:21:50.980
+- Çok iyi olur.
+
+396
+00:21:51.022 --> 00:21:53.605
+Bunu yapmaktan
+büyük onur duyarım.
+
+
+397
+00:21:53.605 --> 00:21:57.480
+- Bunu size sormam uygun mu
+emin değilim, ama
+
+
+398
+00:21:57.522 --> 00:22:01.105
+Fan Hui'ye karşı ilk oyunu gördüm ve
+
+399
+00:22:01.147 --> 00:22:04.438
+benimle oynama seviyesinde
+olmadığını düşündüm.
+
+
+400
+00:22:04.480 --> 00:22:07.605
+Ama duydum ki gün geçtikçe
+daha da güçleniyormuş.
+
+
+401
+00:22:07.647 --> 00:22:10.688
+Size ne kadar güçlü olduğunu
+sorabilir miyim?
+
+
+402
+00:22:13.647 --> 00:22:17.522
+Çok fazla bir şey
+söyleyemem ama
+
+
+403
+00:22:17.563 --> 00:22:20.397
+tabi ki, belirgin bir şekilde
+daha da güçlendi.
+
+
+404
+00:22:21.772 --> 00:22:25.605
+- Zamanla Aja'nın yerel aramasını
+
+405
+00:22:25.647 --> 00:22:28.938
+mantıksal bir yaklaşım
+takip etmeli.
+
+
+406
+00:22:28.938 --> 00:22:31.772
+AlphaGo'da bunu yürütün ve
+tamamen yeni bir veri elde edin.
+
+
+407
+00:22:31.813 --> 00:22:32.938
+- Kesinlikle.
+
+408
+00:22:34.063 --> 00:22:34.938
+- Ancak bunun için pek zamanımız yok
+
+409
+00:22:34.980 --> 00:22:36.855
+yani gerçekçi olmamız gerek.
+
+410
+00:22:36.897 --> 00:22:39.647
+- Anladık ki Lee Sedol'ü
+karşımıza almak gibi
+
+
+411
+00:22:39.688 --> 00:22:42.855
+devasa bir mesele için
+hazırlanmak istiyorsak,
+
+
+412
+00:22:42.897 --> 00:22:46.438
+bir profesyonelle konuşmaktan
+daha iyi bir şey olamaz ve
+
+
+413
+00:22:46.480 --> 00:22:48.563
+biz Fan Hui'den daha iyisini bulamazdık.
+
+414
+00:22:50.980 --> 00:22:55.147
+- Onu danışman olarak
+davet ettik çünkü,
+
+
+415
+00:22:55.188 --> 00:22:57.022
+maç esnasında, onun iyi niyetli
+
+416
+00:22:57.063 --> 00:22:59.105
+bir adam olduğunu gördük.
+
+417
+00:22:59.147 --> 00:23:00.063
+- Tekrar hoşgeldiniz.
+
+418
+00:23:00.105 --> 00:23:01.772
+- Çok teşekkürler.
+
+419
+00:23:00.730 --> 00:23:03.647
+- Fan Hui'nin bizimle birlikte
+olması çok değerli.
+
+
+420
+00:23:05.022 --> 00:23:08.647
+AlphaGo'ya yenildi, ancak
+sonrasında bizim için
+
+
+421
+00:23:08.938 --> 00:23:11.897
+çok yararlı oldu ve
+büyük yardımı dokundu.
+
+
+422
+00:23:12.063 --> 00:23:15.938
+Demis bana geri dönüp AlphaGo'yu
+güçlendirmek için yardım edebilir misin dediğinde
+
+
+423
+00:23:16.897 --> 00:23:21.355
+Saygısını hissettim. Tabii ki
+teklifi kabul ettim.
+
+
+424
+00:23:23.563 --> 00:23:32.730
+AlphaGo'yla onun güçlü ve
+güçsüz yanlarını öğrenmek için oynadım.
+
+
+425
+00:23:33.688 --> 00:23:38.688
+Sabah, öğlen, 24 saat oynadım.
+
+426
+00:23:39.938 --> 00:23:45.397
+Ve bir şey buldum. AlphaGo'da bir
+zayıflık buldum.
+
+
+427
+00:23:46.397 --> 00:23:47.480
+Büyük bir şey.
+
+428
+00:23:48.230 --> 00:23:51.855
+- Süper kahramanların her zaman gizli
+zayıf bir noktaları vardır,
+öyle değil mi?
+
+
+429
+00:23:52.313 --> 00:23:55.813
+Aynısı AlphaGo için de geçerli.
+
+430
+00:23:55.855 --> 00:23:58.980
+Genel olarak inanılmayacak
+derecede süper insan,
+
+
+431
+00:24:00.272 --> 00:24:03.647
+ama bazı durumlarda belirgin
+zayıf yanları var.
+
+
+432
+00:24:03.688 --> 00:24:05.397
+- Bunu, O'nun bildiği tüm şeylerin
+
+433
+00:24:05.438 --> 00:24:06.813
+uzayı olarak düşünebiliriz.
+
+434
+00:24:06.855 --> 00:24:09.272
+Ve O bunların tamamına
+yakınını çok iyi biliyor,
+
+
+435
+00:24:09.313 --> 00:24:11.563
+ne var ki çok zayıf
+olarak anlayabildiği
+
+
+436
+00:24:11.605 --> 00:24:14.563
+bu karmaşık bilgi yığınları var ve
+
+437
+00:24:14.605 --> 00:24:16.605
+bizim için zor olansa O'nun bu
+
+438
+00:24:16.605 --> 00:24:18.688
+yığınlardan birine ne zaman gireceği.
+
+439
+00:24:18.688 --> 00:24:20.897
+Ancak, eğer girerse,
+bu tamamen tahtanın
+
+
+440
+00:24:20.938 --> 00:24:22.813
+bir kısmında canlı olduğuna dair
+sanrısal bir düşünme olur,
+
+
+441
+00:24:22.855 --> 00:24:25.563
+ama aslında ölüdür ya da tam tersi.
+
+442
+00:24:25.605 --> 00:24:28.022
+Yani ortada kaybedebileceğimize
+dair gerçek bir risk var.
+
+
+443
+00:24:28.313 --> 00:24:33.272
+Takımdaki herkes sorunu çözmek için
+çok çalıştı.
+
+
+444
+00:24:34.397 --> 00:24:38.063
+Ancak bunu düzeltmek
+çok kolay değildi.
+
+
+445
+00:24:38.730 --> 00:24:41.605
+- Sırada versiyon 18 var,
+öyle değil mi?
+
+
+446
+00:24:41.605 --> 00:24:43.188
+- Pekala, versiyon 18'a sadece
+
+447
+00:24:43.230 --> 00:24:44.772
+belirgin bir iyileşme durumunda
+geçeceğiz ki
+
+
+448
+00:24:44.813 --> 00:24:47.563
+tüm testleri tekrar yürütmemiz
+gerekiyor
+
+
+449
+00:24:47.605 --> 00:24:49.605
+çünkü ne yazık ki yanlış gittiler.
+
+450
+00:24:49.605 --> 00:24:51.730
+Yani temel olarak değerlendirmemizde
+
+451
+00:24:51.772 --> 00:24:54.230
+bu sebeple bir gün gerideyiz.
+
+452
+00:24:54.272 --> 00:24:55.688
+Her neyse, belki bu durumda
+
+453
+00:24:55.688 --> 00:24:57.730
+bir çok şey denediğimize dair ve
+
+454
+00:24:57.772 --> 00:24:58.605
+aslında başarılı olamadığını söyleyip
+
+455
+00:24:58.688 --> 00:25:01.188
+kodu dondurmaya başlamamız gerektiğini
+
+456
+00:25:01.230 --> 00:25:05.230
+söyleyerek gerçekçi olmalıyız.
+
+457
+00:25:07.688 --> 00:25:09.688
+Bu sanrılar karşılaşma için halen
+
+458
+00:25:09.730 --> 00:25:11.647
+gerçekleşebilir olasılıklar.
+
+459
+00:25:11.688 --> 00:25:14.647
+- Karşılaşmadan önce tamamen
+düzeltemeyeceğimizi düşündüğüm
+
+
+460
+00:25:14.688 --> 00:25:17.647
+bazı zayıf noktalarımız var,
+bu bir miktar gerginliğe
+
+
+461
+00:25:17.688 --> 00:25:21.522
+neden olmuyor değil.
+
+462
+00:25:26.480 --> 00:25:29.355
+- Lee Sedol hamlesini
+yapmak için hazırlanıyor.
+
+
+463
+00:25:29.355 --> 00:25:31.522
+Çarşamba günü internetten canlı olarak,
+
+464
+00:25:31.522 --> 00:25:34.022
+Güney Koreli bu profesyonel Go oyuncusu
+
+465
+00:25:34.063 --> 00:25:36.438
+yapay zeka programı AlphaGo
+ile kapışacak.
+
+
+466
+00:25:36.688 --> 00:25:41.480
+5-0 yeneceğimden eminim.
+
+467
+00:25:43.522 --> 00:25:45.438
+- Yarın, Julian ve George,
+
+468
+00:25:45.438 --> 00:25:48.188
+versiyon 18'i toparlayıp,
+dizüstü bilgisayara yükleyip
+
+
+469
+00:25:48.230 --> 00:25:50.480
+sonra da Seul'e uçacaklar.
+
+470
+00:26:08.272 --> 00:26:11.522
+- Lee Sedol'e karşı kazanılacak olan
+zafer için herşey hazır mı?
+
+
+471
+00:26:11.563 --> 00:26:14.397
+- Her şey hazır sanırım, ama otele
+
+472
+00:26:14.438 --> 00:26:16.105
+gittiğimde takımı yakalayacağım.
+
+473
+00:26:16.105 --> 00:26:18.938
+- Geri kalan zamanda yapmamız gereken,
+
+474
+00:26:18.938 --> 00:26:21.188
+sistemin dayanıklılığında çıkabilecek
+sorunları listelemek.
+
+
+475
+00:26:21.355 --> 00:26:23.938
+Burada AlphaGo'yu koyabileceğimiz
+bir yer gerekiyor.
+
+
+476
+00:26:25.438 --> 00:26:27.772
+- Pekala, prova zamanı,
+hadi gidelim arkadaşlar.
+
+
+477
+00:26:28.022 --> 00:26:30.313
+Lee Sedol'un sigara içmesi için bir
+yer ayarladınız mı?
+
+
+478
+00:26:30.522 --> 00:26:33.022
+Sıkıştığında sigara içmeyi sever.
+
+479
+00:26:33.480 --> 00:26:36.188
+- Evet, yukarıda bir teras var
+ve güvenlik de olacak
+
+
+480
+00:26:36.188 --> 00:26:38.188
+böylece oraya çıkabilir ve
+kendiyle kalabilir.
+
+
+481
+00:26:38.438 --> 00:26:41.813
+Kimi destekliyorsun, Lee Sedol'ü mü
+AlphaGo'yu mu?
+
+
+482
+00:26:42.688 --> 00:26:46.438
+Ben farklı bir pozisyondayım.
+Gördüğünüz üzere hakemim.
+
+
+483
+00:26:49.772 --> 00:26:52.647
+- Buraya geldiğimde, ilginin Lee Sedol
+üzerinde olacağını tahmin etmiyordum.
+
+
+484
+00:26:52.688 --> 00:26:55.063
+Tam anlamıyla ön sayfa
+haberleriydi.
+
+
+485
+00:26:55.105 --> 00:26:58.063
+Yaklaşık sekiz milyon Koreli
+Go oyununu oynuyor,
+
+
+486
+00:26:58.105 --> 00:27:00.438
+siz farkında olmasanız bile,
+
+487
+00:27:00.480 --> 00:27:02.647
+Lee Sedol ulusal bir figür.
+
+488
+00:27:02.688 --> 00:27:04.188
+Evet, aslında o da var,
+haklısınız.
+
+
+489
+00:27:04.188 --> 00:27:05.563
+İşin içinde biraz ulusal
+gurur var, ancak
+
+
+490
+00:27:05.605 --> 00:27:07.355
+bundan daha fazlası var.
+
+491
+00:27:07.397 --> 00:27:10.647
+Böyle bir oyunda bir makinanın
+bir insanla oynaması düşüncesi
+
+
+492
+00:27:10.688 --> 00:27:12.730
+bile, bence insanlar için başlı başına
+
+493
+00:27:12.772 --> 00:27:14.522
+merak uyandırıcı.
+
+494
+00:27:28.480 --> 00:27:30.438
+Maç konusunda kendime güveniyorum.
+
+495
+00:27:30.813 --> 00:27:40.022
+Bence insan içgüdüsü A.I.'ın
+yakalayamayacağı kadar ileri düzeyde.
+
+
+496
+00:27:40.355 --> 00:27:44.730
+İnsan zekasını temsil etmek için
+elimden geleni yapacağım.
+
+
+497
+00:27:46.605 --> 00:27:50.355
+Tüm dünyanın yükü
+Lee Sedol'un üstündeydi.
+
+
+498
+00:27:50.938 --> 00:27:55.105
+Bundan önce turnuvaları ülkesi ve
+kendi için oynuyordu.
+
+
+499
+00:27:55.647 --> 00:27:58.063
+Ancak bu sefer insanlık için oynuyor.
+
+500
+00:28:07.022 --> 00:28:10.355
+- Bu ilk oyunu kazanırız
+diye umuyorum gerçekten.
+
+
+501
+00:28:10.397 --> 00:28:11.563
+İlk oyunu kaybederseniz,
+
+502
+00:28:11.605 --> 00:28:13.813
+geri kalan dört oyunun üçünü
+kazanmak zorundasınız ki
+
+
+503
+00:28:13.855 --> 00:28:15.438
+bu gerçekten çok zor iş.
+
+504
+00:28:15.480 --> 00:28:16.813
+- Nerede olacaksın?
+
+505
+00:28:16.855 --> 00:28:18.063
+- Karşılaşma odasında başlayacağım
+ve sonra
+
+
+506
+00:28:18.105 --> 00:28:18.813
+herşeyin yolunda gittiğinden
+emin olmak için
+
+
+507
+00:28:18.855 --> 00:28:20.230
+buraya geleceğim.
+
+508
+00:28:20.230 --> 00:28:23.230
+- Evet, orada olsan iyi olur.
+
+509
+00:28:24.897 --> 00:28:26.522
+- Gergin olduğunu biliyorum.
+
+510
+00:28:26.688 --> 00:28:28.230
+- Evet, gerginim.
+
+511
+00:28:28.438 --> 00:28:30.063
+Gerginim.
+
+512
+00:28:30.480 --> 00:28:32.813
+Sen nasılsın?
+Gergin değil misin yoksa?
+
+
+513
+00:28:32.980 --> 00:28:34.355
+- Biraz. Yalnızca biraz.
+
+514
+00:28:34.397 --> 00:28:38.313
+Biraz sinir sahibi olmak iyidir.
+
+515
+00:28:38.355 --> 00:28:39.522
+İyi olacak.
+
+516
+00:28:40.188 --> 00:28:42.147
+Sakin ol, sakin ol.
+
+517
+00:28:42.355 --> 00:28:46.563
+- Merhaba ve DeepMind
+karşılaşmasına hoşgeldiniz,
+
+
+518
+00:28:46.605 --> 00:28:50.147
+oyun bir, raund bir, 
+Seul Kore'deki
+
+519
+00:28:50.188 --> 00:28:52.563
+Four Seasons Otel'den canlı olarak.
+
+520
+00:28:52.605 --> 00:28:55.480
+Ben Amerikan Go E-Dergisi'nden
+Chris Garlock.
+
+
+521
+00:28:55.522 --> 00:28:58.522
+Burada, dokuz dan profesyonel olan
+Michael Redman ile birlikteyim.
+
+
+522
+00:28:58.563 --> 00:28:59.647
+Hoşgeldin Michael.
+
+523
+00:28:59.688 --> 00:29:01.397
+Dünya çapında izleyen herkese
+
+524
+00:29:01.438 --> 00:29:03.688
+bir ses vermek ister misin?
+
+525
+00:29:03.730 --> 00:29:05.480
+- Evet, otelde
+gözle görülür derecede
+
+
+526
+00:29:05.522 --> 00:29:06.480
+bir heyecan var.
+
+527
+00:29:06.522 --> 00:29:09.563
+Daha önce dünyanın her yerinden
+bu derece ilgili
+
+
+528
+00:29:09.605 --> 00:29:11.438
+bir haberci kitlesi görmemiştim.
+
+529
+00:29:11.772 --> 00:29:17.563
+AlphaGo'nun son beş ayda ne kadar
+değiştiğini bilmiyorum.
+
+
+530
+00:29:17.772 --> 00:29:19.980
+- Pekala dostlar, burada
+tarihin yazılışına tanık
+olacaksınız.
+
+
+531
+00:29:20.397 --> 00:29:22.563
+- Beş dakika çocuklar.
+
+532
+00:29:22.605 --> 00:29:23.688
+Beş dakika kaldı.
+
+533
+00:29:32.188 --> 00:29:35.105
+- Düşündüm ki bu anı beraber yaşamalı ve
+
+534
+00:29:35.105 --> 00:29:39.438
+sadece burada gerçekleşmek üzere
+olanı düşünmeliyiz.
+
+
+535
+00:29:39.480 --> 00:29:41.022
+Burada olmak son derece
+heyecan verici.
+
+
+536
+00:29:41.063 --> 00:29:44.022
+Her birinizle ve yaptıklarımızla
+ne kadar gurur duysam azdır,
+
+
+537
+00:29:44.063 --> 00:29:46.522
+kazanalım ya da kaybedelim,
+bence burada olmamız inanılmaz.
+
+
+538
+00:29:46.730 --> 00:29:49.938
+Babanın bir makinaya karşı yarışması
+garip değil mi?
+
+
+539
+00:29:51.772 --> 00:29:57.230
+Umarım makinalar insanları
+Go'da yenmez.
+
+
+540
+00:29:58.480 --> 00:29:59.605
+Bir dakika kaldı.
+
+541
+00:30:54.647 --> 00:30:58.313
+Maç Çin kurallarıyla,
+
+542
+00:30:58.480 --> 00:31:02.272
+Zaman limiti iki saat ve
+yüz seksen saniye.
+
+
+543
+00:31:24.313 --> 00:31:26.480
+Lütfen taş seçin.
+
+544
+00:31:27.522 --> 00:31:29.772
+9-dan Lee Sedol, ne seçtiniz?
+
+545
+00:31:30.772 --> 00:31:31.647
+Siyah.
+
+546
+00:31:32.605 --> 00:31:34.397
+Lütfen oyuna başlayın.
+
+547
+00:31:58.813 --> 00:32:00.772
+- Teknik olarak
+pürüzsüz gitmesi için
+
+
+548
+00:32:00.813 --> 00:32:04.188
+çok sıkı çalıştık.
+
+549
+00:32:04.230 --> 00:32:07.605
+Test ettik, test ettik ve
+yine test ettik
+
+
+550
+00:32:07.688 --> 00:32:12.063
+ve şimdi o an geliyor,
+canlı yayındasınız,
+
+
+551
+00:32:12.063 --> 00:32:15.397
+ve tüm TV kanalları her şeyi
+canlı yayınlıyor
+
+
+552
+00:32:15.397 --> 00:32:19.772
+ve şimdi yapması için kurduğunuz
+şeyi yapmasının zamanı geldi.
+
+
+553
+00:32:20.563 --> 00:32:24.230
+AlphaGo ilk taşı oynamak için bile
+çok düşünüyor.
+
+
+554
+00:32:24.480 --> 00:32:28.063
+Eğer zamana bakarsanız,
+şimdiden 30 saniye geçti.
+
+
+555
+00:32:28.355 --> 00:32:30.938
+AlphaGo ikinci hamleyi yapmak için
+uzunca düşünüyor.
+
+
+556
+00:33:08.105 --> 00:33:10.105
+- Biraz gergindim.
+
+557
+00:33:10.147 --> 00:33:12.980
+İlk kez dünya çapında
+bir Go oyuncusunun
+
+
+558
+00:33:13.022 --> 00:33:15.938
+karşısında oturuyorum.
+
+559
+00:33:15.980 --> 00:33:19.147
+Ve ben gerçekten O'nun,
+
+560
+00:33:19.188 --> 00:33:22.147
+Lee Sedol gibi büyük bir Go oyuncusunun
+
+561
+00:33:22.188 --> 00:33:23.730
+ruhunu ve nezaketini anlayabiliyorum
+çünkü O
+
+
+562
+00:33:23.730 --> 00:33:26.230
+ilk kez böylesine garip
+bir rakiple karşılaşıyor.
+
+
+563
+00:33:26.272 --> 00:33:29.438
+Sonuçta o bir insan değil,
+hiçbir duygusu yok.
+
+
+564
+00:33:29.438 --> 00:33:32.230
+Makina soğuk, ancak O
+sakin kalabiliyor.
+
+
+565
+00:33:33.730 --> 00:33:36.438
+Ve ben O'nun zihinsel gücünü
+hissedebiliyorum.
+
+
+566
+00:33:47.230 --> 00:33:48.272
+- Ah!
+- Aa.
+
+
+567
+00:33:50.230 --> 00:33:53.022
+AlphaGo araya girdi.
+
+568
+00:33:54.772 --> 00:33:56.313
+İnanılmaz.
+
+569
+00:33:56.938 --> 00:34:00.772
+İlk defa AlphaGo'nun böyle bir hamle
+yaptığını görüyorum.
+
+
+570
+00:34:01.272 --> 00:34:03.522
+AlphaGo sanki bir
+insan gibi oynuyor.
+
+
+571
+00:34:04.105 --> 00:34:05.063
+- Ben Andrew Jackson.
+
+572
+00:34:05.105 --> 00:34:06.147
+Myungwan Kim benimle birlikte,
+
+573
+00:34:06.188 --> 00:34:09.063
+Kore Go Derneği'nden
+dokuz dan bir profesyonel.
+
+
+574
+00:34:09.105 --> 00:34:11.188
+Four Seasons Otel'in 21inci
+
+575
+00:34:11.230 --> 00:34:12.480
+katından canlı yayındayız.
+
+576
+00:34:12.522 --> 00:34:13.313
+Şu an neye bakıyoruz?
+
+577
+00:34:13.355 --> 00:34:15.313
+Oyun nasıl ilerliyor?
+
+578
+00:34:15.730 --> 00:34:17.647
+Başından itibaren savaşıyor.
+
+579
+00:34:17.855 --> 00:34:19.313
+- En baştan beri mi?
+
+580
+00:34:19.355 --> 00:34:20.438
+- Evet, evet.
+
+581
+00:34:20.480 --> 00:34:24.397
+AlphaGo çok iyi oynuyor,
+tıpkı en yüksek derece
+bir profesyonel gibi.
+
+
+582
+00:34:24.438 --> 00:34:26.147
+- Bir profesyonel gibi öyle mi?
+
+583
+00:34:26.188 --> 00:34:29.313
+- Evet,
+çok saldırgan.
+
+
+584
+00:34:29.813 --> 00:34:31.897
+Önünü kesti!
+
+585
+00:34:32.813 --> 00:34:34.438
+Kesmeye nasıl cesaret eder?
+
+586
+00:34:34.730 --> 00:34:37.147
+Bu doğru olamaz.
+
+587
+00:34:37.480 --> 00:34:40.105
+- Şimdi, mücadele gerçekten
+içinden çıkılmaz bir hal alıyor.
+
+
+588
+00:34:40.147 --> 00:34:43.355
+Aslında bu AlphaGo'yu bu kadar
+
+589
+00:34:43.397 --> 00:34:47.313
+zor bir savaş verirken ilk kez görüşüm.
+
+590
+00:34:51.438 --> 00:34:53.688
+Bu Lee Sedol'u çok gerebilir.
+
+591
+00:34:54.730 --> 00:34:57.480
+AlphaGo her durum için bir, bir
+buçuk dakika harcıyor.
+
+
+592
+00:34:58.397 --> 00:35:02.063
+-Bu hamle insan hamlesi değil.
+
+593
+00:35:02.855 --> 00:35:06.980
+-Oyun ne kadar karmaşık olursa olsun
+AlphaGo her şeyi önceden biliyormuş gibi oynuyor.
+
+
+594
+00:35:09.313 --> 00:35:11.938
+- Lee Sedol'ü rakibinin
+yüzüne bakarken gördüm.
+
+
+595
+00:35:11.980 --> 00:35:13.855
+ve bu bir çeşit alışkanlık.
+
+596
+00:35:13.897 --> 00:35:16.105
+- Tahtanın karşısındaki
+
+597
+00:35:16.147 --> 00:35:18.105
+oyuncuya bakmak sadece bir içgüdü.
+
+598
+00:35:18.147 --> 00:35:21.188
+- Lee Sedol'ün
+rakibinin nasıl hissettiğini
+
+
+599
+00:35:21.230 --> 00:35:23.855
+anlamaya çalışmak için
+yapacağı bir hareket bu.
+
+
+600
+00:35:23.897 --> 00:35:25.272
+Sadece bir alışkanlık.
+
+601
+00:35:25.313 --> 00:35:29.188
+Yani, aslında Aja Huang hiç bir şey
+belli edemez çünkü
+
+
+602
+00:35:29.188 --> 00:35:32.105
+biliyorsun Aja Huang
+AlphaGo değil sonuçta.
+
+
+603
+00:35:38.397 --> 00:35:39.188
+- Aa.
+- Ah!
+
+
+604
+00:35:39.230 --> 00:35:40.105
+- Aa.
+
+605
+00:35:40.813 --> 00:35:44.063
+Az kalsın bir hamle yapıyordu. Lee
+bir anlık gülümsedi.
+
+
+606
+00:35:44.313 --> 00:35:45.980
+-Hayır. Bu...
+-Sanırım Lee yanıldı.
+
+
+607
+00:35:46.147 --> 00:35:47.772
+Anlamsız bir hamle yapmak üzereydi.
+
+608
+00:35:47.938 --> 00:35:50.105
+O ne yapıyor?
+
+609
+00:35:52.105 --> 00:35:53.563
+Eğer taşı oraya koysaydı oyunu
+kaybederdi.
+
+
+610
+00:35:53.813 --> 00:35:58.272
+Buraya koymaya çalışıyordu. Ama
+elini düşünmeden oynattı.
+
+
+611
+00:35:58.813 --> 00:36:00.897
+Düşünecek çok şeyi var.
+
+612
+00:36:02.522 --> 00:36:07.855
+Çok yorgun. Paniklemiş görünüyor.
+
+613
+00:36:09.688 --> 00:36:15.647
+En çok korktuğumuz şey buydu.
+Kendinden şüphe etmesi.
+
+
+614
+00:36:28.772 --> 00:36:32.355
+-Bir insanla oynadığınızda,
+karşılıklı duygular hissedersiniz.
+
+
+615
+00:36:32.938 --> 00:36:37.063
+Sana baktığımda belki benimle
+konuşmak istiyorsundur.
+
+
+616
+00:36:37.313 --> 00:36:40.605
+Belki de benden korkuyorsun.
+Çok farklı şeyler hissedebilirim.
+
+
+617
+00:36:40.813 --> 00:36:43.730
+Ancak AlphaGo ile
+hiçbir şey hissedemezsin.
+
+
+618
+00:36:44.980 --> 00:36:50.605
+Oynarken hiçbir şey hissedemediğin
+için, kendin hakkında daha fazla sorun oluyor.
+
+
+619
+00:36:51.355 --> 00:36:53.438
+İlk başta hamlem iyi diye
+düşünürsün.
+
+
+620
+00:36:53.647 --> 00:36:56.397
+Çok mu iyi? Çok iyi.
+
+621
+00:36:56.897 --> 00:37:00.230
+Oh, belki de kötü. Oh, berbat!
+Buraya neden hamle yaptım ki?
+
+
+622
+00:36:59.897 --> 00:37:01.063
+Sorular çoğalıyor.
+
+623
+00:37:02.605 --> 00:37:03.980
+- Nerede olacağını bilmek gerçekten zor.
+
+624
+00:37:03.980 --> 00:37:05.355
+Her bir oda farklı bir şekilde
+
+625
+00:37:05.397 --> 00:37:06.980
+heyecan veriyor.
+
+626
+00:37:08.355 --> 00:37:10.522
+Burada, operasyonun kalbinde
+olmanın iyi hissettirmesi gibi.
+
+
+627
+00:37:10.563 --> 00:37:13.522
+- Evet, burada güvende
+hissediyorum.
+
+
+628
+00:37:14.147 --> 00:37:17.313
+Beyaz taraf kalın duvarından
+büyük bir işgal planlıyor
+
+
+629
+00:37:18.480 --> 00:37:20.397
+- Evet, devam et.
+
+630
+00:37:20.438 --> 00:37:21.938
+- Bunu başardı.
+
+631
+00:37:21.938 --> 00:37:23.105
+İçeri girdi.
+
+632
+00:37:23.105 --> 00:37:26.480
+- Aah, yüzüne bak, yüzüne bak!
+
+633
+00:37:26.522 --> 00:37:28.272
+- Bu kendinden emin
+bir yüz ifadesi değil.
+
+
+634
+00:37:28.313 --> 00:37:31.230
+Bu O'nu gerçekten ürküttü.
+
+635
+00:37:31.272 --> 00:37:34.480
+- Şu an gördüklerime inanamıyorum.
+
+636
+00:37:35.480 --> 00:37:38.605
+Hayli geride olduğunu düşündü.
+
+637
+00:37:38.688 --> 00:37:41.230
+Çok saldırgan bir hamle yaptı.
+
+638
+00:37:41.272 --> 00:37:43.188
+Olayı çok karmaşık hale getirdi.
+
+639
+00:37:43.188 --> 00:37:46.688
+Bana kalırsa Lee Sedol,
+eğer zihinsel olarak
+
+
+640
+00:37:46.730 --> 00:37:48.480
+yanıt vermezse, yıkılabilir.
+
+641
+00:37:50.230 --> 00:37:54.272
+Bu, insan olan Go oyuncusunun
+düşünebileceği bir şey değil.
+
+
+642
+00:37:54.647 --> 00:37:58.563
+Ya o olabilecek
+tüm hamleleri biliyorsa?
+
+
+643
+00:37:58.813 --> 00:38:03.897
+Arama derinliğimiz burada, şu anda
+
+644
+00:38:04.397 --> 00:38:05.980
+- Şu anki oyun durumundan
+
+645
+00:38:06.022 --> 00:38:07.397
+AlphaGo'nun ileriye doğru bakabildiği
+
+646
+00:38:07.438 --> 00:38:10.480
+maksimum hamle sayısı.
+
+647
+00:38:10.522 --> 00:38:12.688
+Normal olarak 50'den fazla
+
+648
+00:38:12.730 --> 00:38:14.522
+Genellikle 60'dan fazla.
+
+649
+00:38:15.688 --> 00:38:19.230
+- Genelde gördüğümüz oyunlarda,
+yüz ellinci hamle civarında,
+
+
+650
+00:38:19.272 --> 00:38:20.688
+AlphaGo ölümcül vuruşu yapar.
+
+651
+00:38:20.730 --> 00:38:22.563
+Şimdi yüz onbeşinci hamledeyiz
+
+652
+00:38:22.563 --> 00:38:25.563
+yani o kritik noktaya geliyoruz.
+
+653
+00:38:27.730 --> 00:38:32.272
+Hepimiz hayretler içerisindeyiz,
+
+654
+00:38:32.272 --> 00:38:36.688
+henüz oyunun ortasında,
+çünkü AlphaGo düşündüğümüzden
+
+
+655
+00:38:36.730 --> 00:38:38.980
+çok daha iyi bir iş çıkarıyor.
+
+656
+00:38:39.022 --> 00:38:41.605
+Lee Sedol'ün kendinden emin şekilde
+
+657
+00:38:41.605 --> 00:38:44.522
+oyunu önde götüreceğini düşünmüştüm,
+
+658
+00:38:44.522 --> 00:38:46.605
+fakat şu an görülüyor ki çabalıyor.
+
+659
+00:38:46.605 --> 00:38:50.522
+Ama zamanla oyunun hakimiyetini
+alacak diye düşünüyorum, umarım.
+
+
+660
+00:38:50.522 --> 00:38:54.730
+Ben daha çok beşe sıfır
+diye düşünüyordum, ancak
+şimdi bundan emin değilim.
+
+
+661
+00:39:01.772 --> 00:39:04.730
+Ah, bu da ne? AlphaGo hata yaptı.
+
+662
+00:39:05.938 --> 00:39:08.730
+AlphaGo bir hata yaptı.
+
+663
+00:39:09.063 --> 00:39:14.938
+Bu beyazın yaptığı ilk hata,
+oldukça açık bir hata.
+
+
+664
+00:39:15.397 --> 00:39:19.355
+AlphaGo zaman zaman oyun sonunda
+hatalar yapıyor.
+
+
+665
+00:39:20.147 --> 00:39:25.522
+AlphaGo eğer az farkla kazanırsa,
+muhtemelen kazanmak için yeteri kadar oynamıştır.
+
+
+666
+00:39:27.188 --> 00:39:28.938
+Bir dakika önce
+sessiz kalmamın sebebi
+
+
+667
+00:39:29.063 --> 00:39:31.355
+hesaplarıma göre AlphaGo'nun
+daha fazla puanı var.
+
+
+668
+00:39:33.438 --> 00:39:35.438
+Size söylemedim çünkü
+hâlâ inanamıyorum.
+
+
+669
+00:39:35.605 --> 00:39:39.022
+Hata gibi görünüyor ama hesaplamaya
+dayalı olduğu için aslında hata değil.
+
+
+670
+00:39:39.313 --> 00:39:41.105
+Evet, evet.
+
+671
+00:39:41.272 --> 00:39:45.980
+Eğer hesaplamaya dayalıysa.
+Bu korkunç.
+
+
+672
+00:39:46.522 --> 00:39:49.730
+Bu, rakibiyle öylesine
+oynuyor demek.
+
+
+673
+00:39:50.105 --> 00:39:52.647
+- Myungwan, saymak gerek
+gibi görünüyor.
+
+
+674
+00:39:52.647 --> 00:39:56.355
+- Evet, doğru.
+- Ne düşünüyorsun?
+
+
+675
+00:39:56.397 --> 00:39:58.938
+- Şu sıra beyaz gerçekten çok kazandı,
+dikkatlice bakarsanız.
+
+
+676
+00:39:58.980 --> 00:40:00.772
+- Böyle giderse, beyaz farklı kazanır.
+
+677
+00:40:01.063 --> 00:40:04.188
+İki, üç, inanamıyorum.
+Otuz altı, yedi...
+
+
+678
+00:40:06.063 --> 00:40:07.480
+Yetmiş iki.
+
+679
+00:40:08.563 --> 00:40:10.563
+O kaybetti.
+
+680
+00:40:12.647 --> 00:40:15.105
+- Vay anasına, şok edici.
+
+681
+00:40:15.105 --> 00:40:18.480
+AlphaGo'nun sadece bir oyun farkla
+kazanmasını bekliyordum.
+
+
+682
+00:40:25.397 --> 00:40:26.230
+- Ah.
+
+683
+00:40:32.230 --> 00:40:34.563
+- Acısını hissedebiliyorum.
+
+684
+00:40:35.813 --> 00:40:37.230
+İnanamıyor, bilirsin işte.
+
+685
+00:40:37.272 --> 00:40:38.563
+Kabullenemiyor.
+
+686
+00:40:38.605 --> 00:40:42.480
+Sonucu kabullenmesi zaman alacak.
+
+687
+00:40:43.605 --> 00:40:48.980
+AlphaGo çok güçlü olabilir ama o
+kaybettiğine inanmak istemiyordu.
+
+
+688
+00:40:49.605 --> 00:40:58.188
+O profesyonel bir Go oyuncusu. Buna
+inanamadık. Çünkü bu hiç olası değildi.
+
+
+689
+00:40:58.355 --> 00:41:01.980
+Bunu şu an başarmış olamazlar.
+İmkânsız.
+
+
+690
+00:41:02.147 --> 00:41:05.855
+Ancak işin gerçeği şu. 
+Zamanı geldi.
+
+691
+00:41:07.605 --> 00:41:11.272
+- Oyundan gerçekten çok
+nazik bir şekilde çekildi.
+
+
+692
+00:41:11.313 --> 00:41:15.147
+Lee Sedol, siyahla oynuyor,
+ama beyaz taşı koydu.
+
+
+693
+00:41:21.688 --> 00:41:23.355
+- Bence oyundan çekildi.
+
+694
+00:41:25.522 --> 00:41:26.647
+- Aman tanrım.
+
+695
+00:41:28.772 --> 00:41:30.188
+- Evet, kronometre durdu.
+
+696
+00:41:30.188 --> 00:41:31.022
+- Vay anasına
+
+697
+00:41:41.105 --> 00:41:43.063
+- Tebrikler.
+
+698
+00:41:45.188 --> 00:41:46.647
+- Gerçekten iyi hissediyorum.
+
+699
+00:41:46.688 --> 00:41:49.605
+AlphaGo'ya gerçekten inandığımı
+hissediyorum.
+
+
+700
+00:41:51.105 --> 00:41:52.938
+Tabi ki, doğal olan insanların bir
+insanın kazanmasını istemesi.
+
+
+701
+00:41:52.938 --> 00:41:54.938
+Demem o ki bu gayet doğal bir tepki.
+
+702
+00:41:54.980 --> 00:41:58.105
+Ancak AlphaGo insan-yapısı ve bu bence
+
+703
+00:41:58.147 --> 00:42:00.813
+insan marifetinin ve zekasının
+nihai göstergesi.
+
+
+704
+00:42:00.855 --> 00:42:03.813
+AlphaGo yaptığı her şeyi
+yapabiliyor çünkü
+
+
+705
+00:42:03.813 --> 00:42:06.938
+ya öğrendiği veriyi
+bir insan yaptı ya da
+
+
+706
+00:42:06.938 --> 00:42:09.813
+verilerden öğrendiği
+öğrenme algoritmasını insan yazdı,
+
+
+707
+00:42:09.855 --> 00:42:12.188
+ya da arama algoritmasını,
+
+708
+00:42:12.188 --> 00:42:14.272
+bunların tümü insanlardan geliyor.
+
+709
+00:42:14.313 --> 00:42:17.605
+Yani, bu gerçekten
+bir insan emeği.
+
+
+710
+00:42:32.105 --> 00:42:33.938
+- İnsana karşı
+makina savaşında,
+
+
+711
+00:42:33.980 --> 00:42:35.897
+zafer bir bilgisayarın oldu.
+
+712
+00:42:35.938 --> 00:42:38.605
+- DeepMind, bilgisayar
+programını dünyanın
+
+
+713
+00:42:38.647 --> 00:42:41.605
+en parlak zekalarından birinin
+önüne koydu ve kazandı.
+
+
+714
+00:42:41.647 --> 00:42:43.897
+- AlphaGo belinde
+
+715
+00:42:43.938 --> 00:42:47.230
+profesyonel bir oyuncuyu yendi.
+
+716
+00:42:47.272 --> 00:42:49.230
+Bu zafer yapay zeka için
+
+717
+00:42:49.230 --> 00:42:51.730
+bir dönüm noktası oldu.
+
+718
+00:42:54.355 --> 00:43:00.397
+İlk olarak çok şaşırdığımı söylemem
+gerek. Kaybedeceğimi düşünmüyordum.
+
+
+719
+00:43:01.605 --> 00:43:06.105
+Sanırım başta yaptığım hatalar oyun
+sonuna kadar etki etti.
+
+
+720
+00:43:06.313 --> 00:43:08.188
+Bu yüzden oyunu kaybettim.
+
+721
+00:43:08.688 --> 00:43:14.022
+Öngöremedim. AlphaGo'nun oyunu bu
+kadar mükemmel oynayacağını düşünmedim.
+
+
+722
+00:43:14.438 --> 00:43:20.522
+Birçok dünya şampiyonası kazandım ve
+çok tecrübeliyim.
+
+
+723
+00:43:20.855 --> 00:43:25.605
+Bir oyun kaybetmek gelecekteki
+oyunlarımı etkilemeyecektir.
+
+
+724
+00:43:26.105 --> 00:43:30.313
+Artık kazanma şansım yarı yarıya.
+
+725
+00:43:30.897 --> 00:43:40.897
+AlphaGo gibi harika bir programı
+geliştiren ekibe saygılarımı iletiyorum.
+
+
+726
+00:43:44.688 --> 00:43:47.105
+- Araştırmada, biz normal olarak
+
+727
+00:43:47.147 --> 00:43:48.688
+bir akademik makale
+üretmek için çalışırız.
+
+
+728
+00:43:48.730 --> 00:43:50.688
+Yayınlanır ve belki, eğer şanslıysak,
+bir konferansta
+
+
+729
+00:43:50.730 --> 00:43:53.230
+onunla ilgili konuşma fırsatımız olur.
+
+730
+00:43:54.105 --> 00:43:56.147
+Bu, araştırma için normal bir şey değil.
+
+731
+00:43:56.188 --> 00:43:59.063
+Aslına bakarsanız, bu denli bir
+basın ilgisini daha önce
+
+
+732
+00:43:59.105 --> 00:44:00.938
+uzaktan yakından deneyim
+etmişliğim yok.
+
+
+733
+00:44:00.980 --> 00:44:02.897
+Yani, bu hepimiz için özel bir an ve
+
+734
+00:44:02.938 --> 00:44:06.230
+henüz sürerken onun keyfini çıkarıyoruz.
+
+735
+00:44:10.480 --> 00:44:11.938
+- İnsan ve makina arasındaki
+
+736
+00:44:11.938 --> 00:44:13.730
+karşılaşmayı kim kazanır?
+
+737
+00:44:13.772 --> 00:44:15.647
+Öyle görünüyor ki, şimdiye
+kadar cevap makina.
+
+
+738
+00:44:15.688 --> 00:44:19.063
+Seul, Güney Kore'de,
+
+739
+00:44:19.105 --> 00:44:21.855
+tarihi Çin tahta oyunu Go'da
+
+740
+00:44:21.855 --> 00:44:24.188
+yapay zeka uluslarası şampiyonu yendi.
+
+741
+00:44:24.230 --> 00:44:26.897
+Lee Sedol ilk maçı kaybetti, ancak
+
+742
+00:44:26.897 --> 00:44:29.272
+önünde dört şansı daha var.
+
+743
+00:44:29.397 --> 00:44:34.980
+Lee Sedol ile Go oynayan takım
+burada.
+
+
+744
+00:44:35.230 --> 00:44:38.980
+Sorumlusu biz değiliz.
+Sadece bereli adam.
+
+
+745
+00:44:44.147 --> 00:44:46.147
+- Ön kapakta yer almak ve
+bu gibi şeyler
+
+
+746
+00:44:46.147 --> 00:44:48.313
+bir bilgisayar bilimci olarak
+biraz farklı hissettiriyor.
+
+
+747
+00:44:48.355 --> 00:44:50.897
+Her köşebaşında gördüğünüz kişi
+kod yazmayı bilmiyor.
+
+
+748
+00:44:50.938 --> 00:44:52.855
+Ve kimse gerçekten bunun
+ne olduğunu bilmiyor.
+
+
+749
+00:44:52.855 --> 00:44:54.813
+- Belki bu şakayı duymuşsunuzdur,
+
+750
+00:44:54.855 --> 00:44:57.188
+bir bilgisayar bilimcinin
+dışa dönük ya da içe kapanık
+
+
+751
+00:44:57.230 --> 00:44:59.105
+olduğunu nasıl anlarsınız?
+
+752
+00:44:59.147 --> 00:45:01.022
+Eğer dışa dönükse, konuşurken
+kendi ayakkabıları
+
+
+753
+00:45:01.063 --> 00:45:05.147
+yerine sizin ayakkabılarınıza bakar.
+
+754
+00:45:05.188 --> 00:45:07.772
+- Şöyle ki, Aja'ya bakarsanız
+O bütün
+
+
+755
+00:45:07.813 --> 00:45:10.105
+kameralardan deli gibi kaçıyor.
+
+756
+00:45:10.147 --> 00:45:11.855
+Bir anda, evet oyun bitti, bir anda,
+
+757
+00:45:11.897 --> 00:45:15.397
+öyleyse odama gitmeliyim diyor.
+
+758
+00:45:15.438 --> 00:45:19.397
+Ve bence birçok
+bilgisayar bilimci böyledir.
+
+
+759
+00:45:19.438 --> 00:45:21.438
+Biz sahne ışıkları önünde durmaktansa
+
+760
+00:45:21.480 --> 00:45:24.730
+işimizi yapmayı yeğleriz.
+
+761
+00:45:24.772 --> 00:45:27.397
+- Merhaba ve ikinci
+oyuna hoş geldiniz,
+
+
+762
+00:45:27.438 --> 00:45:32.188
+Google DeepMind insan makina
+
+763
+00:45:32.188 --> 00:45:34.313
+karşılaşmasının ikinci raunduna.
+
+764
+00:45:34.355 --> 00:45:38.230
+İlk maçta, makina insanı devirdi.
+
+765
+00:45:38.230 --> 00:45:39.813
+Büyük şok.
+
+766
+00:45:39.855 --> 00:45:41.397
+Dünya çapında manşet oldu.
+
+767
+00:45:41.438 --> 00:45:43.147
+- Burada, Kore'deki insanların
+
+768
+00:45:43.188 --> 00:45:45.480
+verdiği tepkiler şaşkınlık verici.
+
+769
+00:45:45.522 --> 00:45:47.105
+Sadece Çin'de 60 milyon insanın
+
+770
+00:45:47.105 --> 00:45:49.147
+oyunu izlediği düşünülüyor.
+
+771
+00:45:49.188 --> 00:45:51.772
+Bu da demek oluyor ki
+dünya çapında yaklaşık
+
+
+772
+00:45:51.813 --> 00:45:53.313
+80 milyon kişiye kadar bir kitle izledi.
+
+773
+00:45:53.355 --> 00:45:55.188
+Bu gerçekten inanılmazdı,
+eğer bir şey varsa
+
+
+774
+00:45:55.230 --> 00:45:58.938
+o da ortam en çok bugün
+tımarhaneye benziyor.
+
+
+775
+00:45:59.022 --> 00:46:01.522
+Lee Sedol bugün biliyor ki bu gerçekten
+
+776
+00:46:01.522 --> 00:46:03.230
+çok önemli bir maç, öyle değil mi.
+
+777
+00:46:03.272 --> 00:46:04.355
+Kazanması gerek.
+
+778
+00:46:08.272 --> 00:46:10.772
+Hadi Lee Sedol! Savaş Lee!
+
+779
+00:46:13.855 --> 00:46:16.397
+Lee'nin ne düşündüğünü anlayabiliyor
+musun? Gergin görünüyor mu?
+
+
+780
+00:46:16.522 --> 00:46:18.938
+Lee çok gergin görünüyor.
+
+781
+00:46:20.022 --> 00:46:22.980
+Tahminimce geçen gece pek iyi
+uyuyamamış.
+
+
+782
+00:46:23.355 --> 00:46:25.897
+- Lee Sedol beyazı seçti.
+
+783
+00:46:25.938 --> 00:46:29.272
+Bu sefer muhtemelen intikam alacak.
+
+784
+00:46:29.313 --> 00:46:31.022
+- Benim izlenimim şöyle ki
+
+785
+00:46:31.022 --> 00:46:34.855
+AlphaGo'yu hafife aldı ve
+bugün taktiğini değiştirecek.
+
+
+786
+00:46:35.730 --> 00:46:38.688
+Lee Sedol bugün
+çok daha yavaş oynuyor.
+
+
+787
+00:46:39.355 --> 00:46:40.188
+- Evet.
+
+788
+00:46:41.980 --> 00:46:43.688
+- Normal hızının yarısı ile oynuyor.
+
+789
+00:46:44.355 --> 00:46:47.688
+Şu anda kimin önde olduğunu
+söylemek zor.
+
+
+790
+00:46:48.605 --> 00:46:52.438
+Son iki hamle AlphaGo'nun
+yetilerinden şüphe etmeme sebep oldu.
+
+
+791
+00:46:52.855 --> 00:46:54.980
+Ancak tetikte kalmalıyız.
+
+792
+00:46:55.688 --> 00:46:57.688
+AlphaGo'yu anlamak çok zor.
+
+793
+00:46:57.438 --> 00:46:59.272
+- Pekala, AlphaGo ile ilgili
+
+794
+00:46:59.313 --> 00:47:02.355
+normal olmayan tek
+bir şey varsa o da belki
+
+
+795
+00:47:02.397 --> 00:47:04.397
+önde olduğunu düşündüğü
+oyunu idare etmesi.
+
+
+796
+00:47:04.438 --> 00:47:05.397
+- Aslına bakarsan takımdan
+birinin ziyaretine
+
+
+797
+00:47:05.438 --> 00:47:08.272
+tanık olacağız ve tam bu konuyla ilgili
+
+798
+00:47:08.313 --> 00:47:09.897
+içeriden birisiyle konuşacağız.
+
+799
+00:47:09.938 --> 00:47:11.230
+Uğradığınız için çok teşekkürler.
+
+800
+00:47:11.272 --> 00:47:12.480
+Gerçekten saygı duyuyorum.
+
+801
+00:47:12.522 --> 00:47:17.230
+AlphaGo'nun içinde neler olduğunu
+bizimle bir parça paylaşabilir misin?
+
+
+802
+00:47:17.272 --> 00:47:20.605
+- Tabi, AlphaGo aslında üç
+ana bileşene sahip.
+
+
+803
+00:47:20.605 --> 00:47:23.605
+İlki Seçim Ağı, burada
+AlphaGo yüksek seviye
+
+
+804
+00:47:23.605 --> 00:47:28.147
+oyunlardaki oyuncuları
+taklit etmek üzere eğitildi.
+
+
+805
+00:47:28.188 --> 00:47:30.105
+Ve sonra ikinci bir bileşenimiz var,
+
+806
+00:47:30.147 --> 00:47:33.272
+ona değerlendirme ağı diyoruz ve
+bu tahta pozisyonunu
+
+
+807
+00:47:33.313 --> 00:47:36.230
+değerlendirebiliyor ve
+belli bir pozisyondaki
+
+
+808
+00:47:36.272 --> 00:47:39.105
+kazanma ihtimalini söylüyor.
+
+809
+00:47:39.147 --> 00:47:41.938
+Ve üçüncü bileşen ise
+ağaç yapısında arama,
+
+
+810
+00:47:42.022 --> 00:47:45.647
+burada bir oyunun değişik
+varyasyonlarına bakıyor ve
+
+
+811
+00:47:45.688 --> 00:47:50.063
+gelecekte neler olacağını
+anlamaya çalışıyor.
+
+
+812
+00:47:51.605 --> 00:47:54.313
+Yani, eğer şimdi bunun gibi
+
+813
+00:47:54.355 --> 00:47:58.105
+bir pozisyonu göz önüne alırsak,
+ilk olarak Seçim Ağı
+
+
+814
+00:47:58.105 --> 00:48:02.230
+pozisyonu tarıyor ve hamle yapılabilecek
+ilginç noktaları buluyor
+
+
+815
+00:48:03.397 --> 00:48:06.147
+ve bunun üzerine bir
+varyasyonlar ağacı kuruyor.
+
+
+816
+00:48:06.188 --> 00:48:10.522
+Sonra değerlendirme ağını işin içine
+katıyor ve bu belirli varyasyona
+
+
+817
+00:48:10.563 --> 00:48:14.438
+oynamanın sonucunun ne kadar
+umut verici olduğunu söylüyor.
+
+
+818
+00:48:16.480 --> 00:48:20.438
+Böylece AlphaGo, kazanma ihtimalini
+en yükseğe çekmeye çalışıyor,
+
+
+819
+00:48:21.605 --> 00:48:24.063
+ancak kazanacağı farkın
+ne kadar olacağını
+
+
+820
+00:48:24.063 --> 00:48:25.480
+hiç dikkate almıyor.
+
+821
+00:48:25.522 --> 00:48:27.397
+- Yani, eğer yavaş görünen
+bir hamle görürsek
+
+
+822
+00:48:27.438 --> 00:48:29.355
+bu belki AlphaGo'nun
+yüksek bir ihtimalle
+
+
+823
+00:48:29.397 --> 00:48:31.397
+kazanacağına delalet oluyor.
+
+824
+00:48:31.438 --> 00:48:34.230
+- Evet, bu aslında küçük bir belirti.
+
+825
+00:48:34.272 --> 00:48:36.022
+- Biraz anlat, biraz daha
+anlatmanı bekliyoruz.
+
+
+826
+00:48:36.313 --> 00:48:40.230
+Lee Sedol kendi tarzından çok farklı
+şekilde oynuyor.
+
+
+827
+00:48:40.480 --> 00:48:45.230
+Bu tarihi bir an ve Lee Sedol ise
+ilginin odağı.
+
+
+828
+00:48:45.480 --> 00:48:52.480
+Baskı hissediyor olmalı. Umarım bu
+baskıyı atlatır ve maçın tadını çıkarır.
+
+
+829
+00:49:05.480 --> 00:49:08.022
+- Ah, öyle görünüyor ki Lee
+
+830
+00:49:08.063 --> 00:49:10.063
+küçük bir mola alıyor.
+
+831
+00:49:28.480 --> 00:49:32.647
+Lee Sedol sigara içmeye gitti,
+AlphaGo ise hamlesini yaptı.
+
+
+832
+00:49:32.855 --> 00:49:35.188
+Rakibi orada mı değil mi düşünmüyor.
+
+833
+00:49:35.647 --> 00:49:39.480
+Aja, AlphaGo'nun 37. hamlesini
+görüp oynadı.
+
+
+834
+00:49:40.230 --> 00:49:42.563
+Aja taşı tahtaya koydu.
+
+835
+00:49:46.563 --> 00:49:48.563
+Oh, akla gelmeyecek bir hamle
+
+836
+00:49:49.813 --> 00:49:51.522
+- Değer, hoppa...
+
+837
+00:49:52.480 --> 00:49:56.563
+- Bu çok sürpriz bir hamle.
+
+838
+00:49:56.605 --> 00:49:59.647
+- Bu bence bir hataydı.
+
+839
+00:50:02.605 --> 00:50:06.022
+Bu hamleyi gördüğümde şok oldum.
+Ne?
+
+
+840
+00:50:07.855 --> 00:50:11.480
+Biz insanlar böyle bir hamleyi
+oynamayız. Çünkü kötü hamledir.
+
+
+841
+00:50:12.605 --> 00:50:14.438
+Sadece kötüdür. 
+Nedenini bilmeyiz.
+
+842
+00:50:13.355 --> 00:50:14.938
+Biraz yukarıya oynadı.
+
+843
+00:50:15.688 --> 00:50:20.105
+Beşinci çizgide genelde diğer taşa
+yakın oynamazsın.
+
+
+844
+00:50:20.855 --> 00:50:24.897
+- Yani dördüncü çizgi alanı üzerine
+gelmek gerçekten sıradışı.
+
+
+845
+00:50:24.938 --> 00:50:26.605
+- Evet, bu heyecan
+verici bir hamle.
+
+
+846
+00:50:26.647 --> 00:50:29.772
+Bence burada özgün bir hamle görüyoruz.
+
+847
+00:50:29.813 --> 00:50:33.772
+Bu öyle bir hamle ki Go'yu
+oynama nedeni olur.
+
+
+848
+00:50:35.855 --> 00:50:36.855
+- Hop.
+
+849
+00:50:38.938 --> 00:50:40.563
+İlginç şeyler oluyor.
+
+850
+00:50:40.605 --> 00:50:42.980
+- Beşinci çizgi omuzu vuruşu eh...
+
+851
+00:50:43.022 --> 00:50:45.605
+- Bunu beklemiyordum.
+
+852
+00:50:45.605 --> 00:50:46.772
+Bu noktada gerçekten iyi bir hamle mi
+
+853
+00:50:46.813 --> 00:50:48.563
+yoksa kötü bir hamle mi bilemiyorum.
+
+854
+00:50:48.605 --> 00:50:51.688
+- Profesyonel yorumcular
+hep bir ağızdan,
+
+
+855
+00:50:51.730 --> 00:50:53.480
+hiçbir insan oyuncunun
+bu 37inci hamleyi
+
+
+856
+00:50:53.480 --> 00:50:55.772
+seçmeyeceğini söylediler.
+
+857
+00:50:55.813 --> 00:50:57.938
+AlphaGo'nun ne düşünmüş olabileceğini
+
+858
+00:50:57.980 --> 00:50:59.980
+görmek için O'nu biraz kurcalardım.
+
+859
+00:51:00.022 --> 00:51:03.188
+Ve AlphaGo da bu
+değerlendirmeye katılıyor.
+
+
+860
+00:51:03.188 --> 00:51:06.855
+AlphaGo diyor ki, bir insan
+oyuncunun bu 37inci hamleyi
+
+
+861
+00:51:06.855 --> 00:51:10.397
+oynama olasılığı 10.000'de birmiş.
+
+862
+00:51:10.563 --> 00:51:12.147
+Bunun pek olası bir
+hamle olmadığını biliyordu.
+
+
+863
+00:51:13.022 --> 00:51:16.772
+Kendi insan kılavuzunun
+ötesine geçti ve
+
+
+864
+00:51:16.772 --> 00:51:20.063
+yeni bir fikirle geldi ve
+bu yaratıcı ve farklı.
+
+
+865
+00:51:20.105 --> 00:51:22.897
+- Ben oyunu daha çok bu yorumcular
+
+866
+00:51:22.938 --> 00:51:25.063
+aracılığıyla izliyorum.
+
+867
+00:51:25.105 --> 00:51:26.980
+Bu iş böyle yürüyor,
+onların kafası karıştığı
+
+
+868
+00:51:27.022 --> 00:51:28.647
+zaman benim de karışıyor.
+
+869
+00:51:28.647 --> 00:51:30.522
+Aynı zamanda, onların kafasının karışık
+
+870
+00:51:30.563 --> 00:51:32.022
+olduğu gerçeğine bağlanıyorum.
+
+871
+00:51:32.063 --> 00:51:34.063
+Bu gerçekten ilginç bir an.
+
+872
+00:51:34.105 --> 00:51:35.522
+Herkesin kafası karışıkken,
+
+873
+00:51:35.522 --> 00:51:38.563
+kimin kafası karışmaz ki,
+makina dışında tabi?
+
+
+874
+00:51:43.105 --> 00:51:46.688
+Lee Sedol'u bu hamleyi gördüğünde
+görmek istiyorum.
+
+
+875
+00:51:52.522 --> 00:51:55.272
+- O geri geldi, Lee döndü.
+
+876
+00:52:15.855 --> 00:52:20.063
+-AlphaGo'nun olasılık hesaplarına
+bağlı olduğunu sanıyordum.
+
+
+877
+00:52:20.813 --> 00:52:24.730
+Ve sadece bir makina olduğunu.
+
+878
+00:52:25.397 --> 00:52:29.980
+Ama bu hamleyi gördüğümde
+fikrimi değiştirdim. AlphaGo yaratıcıydı.
+
+
+879
+00:52:31.438 --> 00:52:37.563
+Hamle çok yaratıcı ve güzeldi.
+
+880
+00:52:41.147 --> 00:52:47.272
+Normalde birkaç dakika düşünürdü.
+Bu sefer on iki dakikadan fazla düşündü.
+
+
+881
+00:52:56.022 --> 00:53:00.105
+Hamleye baktıkça bir şeylerin
+değiştiğini hissettim.
+
+
+882
+00:53:01.563 --> 00:53:06.730
+İnsanlar bu hamlenin kötü olduğunu
+düşünebilir. Ama AlphaGo neden olmasın diyor.
+
+
+883
+00:53:07.730 --> 00:53:09.063
+- Go, jeopolitik gibidir.
+
+884
+00:53:09.105 --> 00:53:10.938
+Burada meydan gelen en ufak bir şey,
+
+885
+00:53:10.980 --> 00:53:14.897
+tahtanın başka bir yerinde saatler sonra
+
+886
+00:53:14.938 --> 00:53:16.938
+bir dalga etkisi yaratabilir.
+
+887
+00:53:16.980 --> 00:53:20.230
+Şu anda oyunun ekseni
+tamamen döndü.
+
+
+888
+00:53:20.563 --> 00:53:24.397
+Bu hamle çok özel,
+çünkü bu hamleyle,
+
+
+889
+00:53:24.522 --> 00:53:28.605
+daha önce oynanan
+tüm taşlar işe yaradı.
+
+
+890
+00:53:28.813 --> 00:53:32.397
+Örümcek ağı gibi, her yerle
+bağlandı. Özel bir hamleydi.
+
+
+891
+00:53:32.897 --> 00:53:34.313
+Çok özel.
+
+892
+00:53:35.855 --> 00:53:40.813
+Bu hamle Go'ya bakışımı değiştirdi.
+
+893
+00:53:41.605 --> 00:53:45.730
+Go'da yaratıcılık nedir?
+
+894
+00:53:46.397 --> 00:53:48.438
+Bu çok anlamlı bir hamleydi.
+
+895
+00:53:52.063 --> 00:53:54.397
+- Bu Lee Sedol için
+zor bir oyun.
+
+
+896
+00:53:54.438 --> 00:53:58.605
+AlphaGo, Lee Sedol'ün yapmak
+istediklerini yapmasına izin vermiyor.
+
+
+897
+00:53:58.647 --> 00:54:00.438
+- Siyahın neredeyse 60 puanı var.
+
+898
+00:54:00.480 --> 00:54:01.688
+Bu gerçekten fazla.
+
+899
+00:54:01.730 --> 00:54:04.938
+- Bu iyiye işaret değil.
+
+900
+00:54:04.980 --> 00:54:08.813
+Lee Sedol kendini tokatladı.
+
+901
+00:54:08.855 --> 00:54:10.938
+- Ah, vay anasına.
+
+902
+00:54:10.980 --> 00:54:13.980
+- Bence bu noktada siyah önde.
+
+903
+00:54:13.980 --> 00:54:14.897
+- İyi görünüyor, öyle değil mi?
+
+904
+00:54:14.938 --> 00:54:17.647
+Şimdi o kararlı yoldayız.
+
+905
+00:54:20.063 --> 00:54:24.063
+Lee Sedol'e baktım.
+Çok şey kaybetmişti.
+
+
+906
+00:54:24.522 --> 00:54:27.688
+Normalde daha önceden çekilirdi.
+Ancak denemek istedi.
+
+
+907
+00:54:28.147 --> 00:54:31.855
+Oynadı, oynadı, oynadı.
+Çekilmek istemedi.
+
+
+908
+00:54:47.855 --> 00:54:50.480
+- Aha, oyundan çekildi.
+
+909
+00:54:50.522 --> 00:54:54.022
+Lee Sedol oyundan çekilmiş
+gibi görünüyor.
+
+
+910
+00:54:57.022 --> 00:55:02.063
+Otuz yedinci hamle çok güzeldi.
+
+911
+00:55:05.063 --> 00:55:06.855
+O iyi mi?
+
+912
+00:55:07.563 --> 00:55:13.355
+Dün onun arkadaşını getirdim çünkü
+dün oyunu analiz etmek istedi.
+
+
+913
+00:55:21.563 --> 00:55:25.772
+- Tüm katta yoğun bir üzüntü vardı.
+
+914
+00:55:25.813 --> 00:55:26.897
+Maç esnasında da
+hissedebiliyordunuz.
+
+
+915
+00:55:26.938 --> 00:55:28.772
+Maç sırasında ben hissettim.
+
+916
+00:55:28.813 --> 00:55:31.563
+Basın toplantısına katılmak üzere
+
+917
+00:55:31.605 --> 00:55:34.063
+yorum odasından çıkarken
+bir anda biri beni durdurdu,
+
+
+918
+00:55:34.105 --> 00:55:35.730
+başka bir teknoloji habercisi.
+
+919
+00:55:35.772 --> 00:55:38.230
+En başta, tek konuşmak istediği
+teknoloji ve
+
+
+920
+00:55:38.230 --> 00:55:39.688
+onun ne kadar harika olduğuydu.
+
+921
+00:55:39.730 --> 00:55:42.105
+Ama sonrasında o da bu
+melankoli anına kaydı ve
+
+
+922
+00:55:42.147 --> 00:55:45.772
+gerçekten kendisi de üzgündü.
+
+923
+00:55:46.605 --> 00:55:51.063
+Dün şaşırmıştım ama
+bugün nutkum tutuldu.
+
+
+924
+00:55:53.063 --> 00:55:54.813
+- Söyleyecek söz bulamıyorum.
+
+925
+00:55:54.813 --> 00:55:58.230
+Benim tarafımdan tamamen temiz
+bir yenilgi olduğunu kabul ediyorum.
+
+
+926
+00:55:58.272 --> 00:56:00.105
+Ta oyunun en başından itibaren,
+
+927
+00:56:00.105 --> 00:56:02.105
+oyunun hakimiyetinin bende olduğunu
+
+928
+00:56:02.105 --> 00:56:04.605
+hissettiğim bir an bile yoktu.
+
+929
+00:56:04.647 --> 00:56:08.188
+- Hem kıvanç duyuyorsun ama
+hem de biraz korkuyorsun.
+
+
+930
+00:56:08.188 --> 00:56:11.230
+- Bence, kendi kendine
+öğrenen bir makina
+
+
+931
+00:56:11.272 --> 00:56:14.188
+fikri insanlara korku veriyor.
+
+932
+00:56:14.230 --> 00:56:17.938
+- Bizim için, AlphaGo kesinlikle
+bir bilgisayar programı,
+
+
+933
+00:56:17.980 --> 00:56:20.813
+ama internetteki yorumlara bakınca,
+oyunlar esnasında
+
+
+934
+00:56:20.855 --> 00:56:23.105
+yorumcuların AlphaGo'dan
+"O" diye söz ettiğini gördüm,
+
+
+935
+00:56:23.105 --> 00:56:27.105
+tamamen bilinçsiz olarak.
+
+936
+00:56:29.147 --> 00:56:31.647
+AlphaGo gerçekten çok çok
+basit bir program.
+
+
+937
+00:56:31.688 --> 00:56:34.188
+Tamamıyla yapay bir zekaya
+yakın bile değil ve
+
+
+938
+00:56:34.230 --> 00:56:38.605
+bunun gerçekleştiğini gördük ve
+bence bu çok ilginç.
+
+
+939
+00:56:41.730 --> 00:56:44.105
+- Yapay zeka sistemlerini
+insanlaştırma eğilimi,
+
+
+940
+00:56:44.188 --> 00:56:47.813
+AI'nin gelecekte dünyaya
+nasıl etki edebileceğini
+
+
+941
+00:56:47.855 --> 00:56:51.272
+anlamaya yönelik en büyük
+engellerden birisi.
+
+
+942
+00:56:51.272 --> 00:56:53.730
+Örneğin, konuşmalar hep
+neyin yanlış gidebileceği
+
+
+943
+00:56:53.772 --> 00:56:55.730
+yani riskler üzerinden,
+ve kaçınılmaz olarak
+
+
+944
+00:56:55.772 --> 00:56:57.147
+bu Terminatör resmini görürsünüz.
+
+945
+00:56:57.188 --> 00:56:59.980
+Her seferinde, orada bu kızıl, parlayan
+gözler olur, öyle değil mi?
+
+
+946
+00:57:00.022 --> 00:57:01.938
+- Terminatör'dense, akıllı bir
+
+947
+00:57:01.980 --> 00:57:04.105
+çamaşır makinasına daha yakınız.
+
+948
+00:57:04.105 --> 00:57:08.313
+Günümüzün AI'sine bakarsanız,
+henüz yeni doğmuş bir bebek gibi.
+
+
+949
+00:57:10.105 --> 00:57:14.105
+AI'nin potansiyeli ile ilgili çok
+heyecanlı ve tutkuluyum,
+
+
+950
+00:57:15.355 --> 00:57:19.313
+ancak AI'ın gücü çok limitli.
+
+951
+00:57:19.355 --> 00:57:22.147
+- Bence insanlar burada
+bir tehlike olduğunu
+
+
+952
+00:57:22.188 --> 00:57:25.105
+düşünmekte haklılar,
+bu sistemleri geliştirmeye
+
+
+953
+00:57:25.147 --> 00:57:28.313
+devam ettiğimiz sürece
+
+954
+00:57:28.355 --> 00:57:31.188
+o tehlike çizgisinin
+ötesine geçebiliriz.
+
+
+955
+00:57:31.230 --> 00:57:33.105
+Ancak iyi haber şu ki
+bu tehlikeler üzerine
+
+
+956
+00:57:33.105 --> 00:57:34.647
+kafa patlatan insanlar şimdiden mevcut.
+
+957
+00:57:34.647 --> 00:57:35.980
+- Biliyorsunuz, şimdi üzerinde çok
+konuşuluyor
+
+
+958
+00:57:35.980 --> 00:57:37.105
+ve bu tartışmaya doğru yol alıyoruz,
+
+959
+00:57:37.105 --> 00:57:39.730
+belki bir çapraz endüstri olmalı,
+
+960
+00:57:39.772 --> 00:57:42.105
+iyi uygulamalar çalışma grubu
+gibi ya da
+
+
+961
+00:57:42.188 --> 00:57:44.980
+bu organizasyonlardaki
+araştırma takımlarının
+liderlerinin olduğu bir şey, bilirsiniz,
+
+
+962
+00:57:45.022 --> 00:57:47.188
+AI üzerine çalışan IBM, Microsoft,
+
+963
+00:57:47.230 --> 00:57:50.647
+ve benzeri büyük isimler gibi,
+bir araya gelip
+
+
+964
+00:57:50.688 --> 00:57:54.397
+AI'nin etik ve sorumlu bir şekilde
+kullanılmasını sağlayan.
+
+
+965
+00:57:54.438 --> 00:57:57.730
+- Bence önemli olan şu ki AI'nin
+
+966
+00:57:57.772 --> 00:58:01.772
+en son teknolojisine yön veren
+
+967
+00:58:03.230 --> 00:58:05.980
+bir insan grubu var, akademisyenlerle
+
+968
+00:58:05.980 --> 00:58:09.772
+etkileşim halindeler ve şimdiden
+uzun soluklu düşünüyorlar ve
+
+
+969
+00:58:09.813 --> 00:58:12.188
+bu makinalardan nasıl emin olabiliriz
+
+970
+00:58:12.230 --> 00:58:15.230
+mevzusu daha da önem kazanıyor.
+
+971
+00:58:16.230 --> 00:58:18.230
+- Zamanı geldi dostlar.
+
+972
+00:58:18.272 --> 00:58:20.355
+Üçüncü gün, üçüncü karşılaşma.
+
+973
+00:58:20.397 --> 00:58:24.313
+Lee Sedol, Go ustası,
+köşeye sıkışmış durumda.
+
+
+974
+00:58:24.355 --> 00:58:26.730
+İki-sıfır geride.
+
+975
+00:58:26.730 --> 00:58:29.522
+Umutları canlı tutmak için
+bugün kazanmak zorunda.
+
+
+976
+00:58:29.688 --> 00:58:35.438
+Lee Sedol iki kez kaybettikten sonra
+bir gün ara verdi.
+
+
+977
+00:58:35.980 --> 00:58:43.438
+Go profesyonelleriyle görüştü ve tüm
+gece oyunun analizini yaptı.
+
+
+978
+00:58:44.230 --> 00:58:48.105
+- Duyduğuma göre dört
+profesyonel O'nu teselli etmek ve
+
+
+979
+00:58:48.188 --> 00:58:50.980
+oyunların ardından değerlendirme
+yapmak için ziyaret etmiş.
+
+
+980
+00:58:51.022 --> 00:58:51.813
+- Teselli etmek mi?
+
+981
+00:58:51.855 --> 00:58:53.688
+Sence üzgün mü?
+
+982
+00:58:53.730 --> 00:58:55.105
+- Yani, Lee Sedol üzgün.
+
+983
+00:58:55.105 --> 00:58:56.772
+Evet.
+
+984
+00:58:56.813 --> 00:58:59.272
+- Başlangıçta, kıyasıya
+bir mücadele vardı.
+
+
+985
+00:58:59.313 --> 00:59:03.980
+Ve AlphaGo çok iyi oynuyor
+yani erken bir zaferi garantiler.
+
+
+986
+00:59:04.022 --> 00:59:07.355
+On beşinci hamleden itibaren
+kazanma oranı çok yüksekti.
+
+
+987
+00:59:07.397 --> 00:59:11.105
+Yüzde yüze doğru tırmanıyordu.
+
+988
+00:59:11.397 --> 00:59:12.772
+Kazanma olasılığı nasıl?
+
+989
+00:59:12.938 --> 00:59:14.772
+Yüzde 91 civarında.
+
+990
+00:59:18.105 --> 00:59:21.897
+Şu anda çaresizce
+kazanmak istiyor olmalı.
+
+
+991
+00:59:22.355 --> 00:59:26.980
+Bence üstündeki
+psikolojik baskı artıyor.
+
+
+992
+00:59:27.397 --> 00:59:30.355
+Bugün en kötü günü olabilir.
+
+993
+00:59:30.480 --> 00:59:36.397
+Bence eğer kazanmak için çok
+uğraşırsanız, kaybedebilirsiniz.
+
+
+994
+00:59:37.147 --> 00:59:41.147
+Oyun içinde direkt olarak savaşmaya
+çalıştı. Ama bu onun tarzı değil.
+
+
+995
+00:59:41.730 --> 00:59:46.938
+Rakibe göre tarz değiştirdiğimizde
+genelde kötü sonuç verir.
+
+
+996
+00:59:50.480 --> 00:59:54.147
+Bu oyun AlphaGo için
+daha kolay geçti.
+
+
+997
+00:59:55.980 --> 00:59:58.063
+- Bizim için iyi görünüyor.
+
+998
+00:59:58.105 --> 01:00:00.938
+Siyah grup büyük yer kaplıyor ve
+
+999
+01:00:00.980 --> 01:00:03.730
+onun gidecek yeri yok ve
+etrafta dolaşıyor.
+
+
+1000
+01:00:12.272 --> 01:00:15.313
+- Durumu nasıl tarif
+edeceğimi bilemiyorum..
+
+
+1001
+01:00:15.355 --> 01:00:18.063
+Eğer siyah olsam, teslim olurdum.
+
+1002
+01:00:18.105 --> 01:00:21.355
+Go tarihindeki en güçlü varlıkla
+
+1003
+01:00:21.397 --> 01:00:24.022
+karşı karşıya olduğunu kabul etmeli.
+
+1004
+01:00:25.188 --> 01:00:26.938
+- Kaybedeceğini bilerek
+oyunun sonuna kadar
+
+
+1005
+01:00:26.980 --> 01:00:29.272
+devam etmenin bir anlamı yok,
+öyle değil mi?
+
+
+1006
+01:00:32.188 --> 01:00:34.355
+- Siyah orada hayatta
+kalsa bile, ah, oyundan çekildi.
+
+
+1007
+01:00:34.355 --> 01:00:35.355
+- Başardı, başardı.
+
+1008
+01:00:35.355 --> 01:00:37.105
+- Pekala.
+- Vay anasına.
+
+
+1009
+01:00:37.188 --> 01:00:38.022
+Vay vay.
+
+1010
+01:00:39.438 --> 01:00:42.438
+Burada, bu gece tarihin yazılışına
+tanık oluyorsunuz.
+
+
+1011
+01:00:42.480 --> 01:00:44.438
+- AlphaGo yine kazandı,
+tastamam üç zafer.
+
+
+1012
+01:00:44.480 --> 01:00:46.313
+- Ardarda üç zaferle
+maçı kazandı.
+
+
+1013
+01:00:47.230 --> 01:00:50.897
+Lee Sedol oyundan çekildiğinde
+mutsuz görünüyordu.
+
+
+1014
+01:00:51.147 --> 01:00:55.730
+Sadece turnuvayı kaybettiği için
+değil, özellikle o oyunu kaybettiği için.
+
+
+1015
+01:00:56.063 --> 01:00:58.688
+Çünkü kendi oyununu oynamadı.
+
+1016
+01:00:59.480 --> 01:01:02.813
+Bu konuda çok üzgünüm. Çok.
+
+1017
+01:01:04.272 --> 01:01:06.147
+Ama yapacak bir şey yok.
+
+1018
+01:01:09.563 --> 01:01:11.355
+- Bilirsiniz, kesinlikle,
+bir oyuncu olarak
+
+
+1019
+01:01:11.397 --> 01:01:13.022
+karışık duygular içindeyim ve Go,
+
+1020
+01:01:13.063 --> 01:01:15.980
+tahta oyunlarının en tepe noktası.
+
+1021
+01:01:16.022 --> 01:01:17.438
+Ama Çinli bir en üst seviye
+profesyonelin söylediği
+
+
+1022
+01:01:17.438 --> 01:01:19.938
+sözü gerçekten seviyorum,
+eğer AlphaGo kazanırsa,
+
+
+1023
+01:01:19.980 --> 01:01:23.647
+bu oyunun tam olarak
+neyle ilgili olduğunu
+
+
+1024
+01:01:23.688 --> 01:01:27.397
+görmeye başlayacağız.
+
+1025
+01:01:27.438 --> 01:01:29.355
+- Kutlayamadım.
+
+1026
+01:01:29.397 --> 01:01:31.897
+Kazanmamız gerçekten harikuladeydi,
+
+1027
+01:01:31.938 --> 01:01:35.813
+ancak içimde büyük bir kısım bu adamın
+
+1028
+01:01:35.855 --> 01:01:39.438
+çok istekli olmasına karşın
+hayal kırıklığı yaşadığını gördü.
+
+
+1029
+01:01:58.313 --> 01:02:01.355
+İnternette Lee Sedol hakkında
+konuşanları gördüm.
+
+
+1030
+01:02:01.480 --> 01:02:03.022
+Belki de en iyisi
+o değil diyorlardı.
+
+
+1031
+01:02:04.355 --> 01:02:09.938
+Biz Go oyuncusuyuz. Uzak Doğu'da
+Go'yu sanat gibi görüyoruz.
+
+
+1032
+01:02:10.730 --> 01:02:15.230
+Bizler sanatçıyız. Go için en iyi
+oyunumuzu sergiliyoruz.
+
+
+1033
+01:02:15.480 --> 01:02:21.022
+Lütfen Lee Sedol'a iyi davranın. O
+çok iyi bir oyuncu. Harika bir oyuncu.
+
+
+1034
+01:02:21.813 --> 01:02:24.772
+Ben odadayım. Lee Sedol'u görüyorum.
+Kazanmak istiyor.
+
+
+1035
+01:02:25.022 --> 01:02:26.688
+Her şeyi denedi.
+
+1036
+01:02:27.605 --> 01:02:31.272
+Yapamıyoruz. Bu gerçekten...
+
+1037
+01:02:33.147 --> 01:02:36.605
+Sanırım öncelikle
+özür dilemem gerek.
+
+
+1038
+01:02:38.563 --> 01:02:43.188
+Daha iyi ve akıllıca oynasaydım
+sonuçlar farklı olabilirdi.
+
+
+1039
+01:02:43.522 --> 01:02:46.480
+Sanırım bu sefer çoğunuzu
+hayal kırıklığına uğrattım.
+
+
+1040
+01:02:46.688 --> 01:02:49.772
+Bu kadar güçsüz olduğum için
+özür dilemek istiyorum.
+
+
+1041
+01:02:50.897 --> 01:02:55.397
+Hiç bu kadar baskı altında
+hissetmemiştim.
+
+
+1042
+01:02:56.147 --> 01:03:02.688
+Bu yükü taşımak için sanırım
+fazla zayıftım.
+
+
+1043
+01:03:04.188 --> 01:03:07.480
+Bunun olduğuna inanamıyorum.
+
+1044
+01:03:07.730 --> 01:03:12.272
+Rakibinizin seviyesi ne olursa
+olsun, sadece 3-0 değil, 5-0 yenilmek mi?
+
+
+1045
+01:03:14.063 --> 01:03:20.397
+AlphaGo'ya 5-0 yenilmek
+gurumu oldukça kırardı.
+
+
+1046
+01:03:21.105 --> 01:03:26.230
+Beni destekleyenler için
+üzgün hissediyorum.
+
+
+1047
+01:03:27.147 --> 01:03:32.438
+9-dan Lee Sedol gördüğüm en güçlü
+ruha sahip insandır.
+
+
+1048
+01:03:32.730 --> 01:03:37.938
+Yalnız bir savaş veriyor.
+
+1049
+01:03:38.605 --> 01:03:42.313
+Rakibinin fiziksel bir formu yok.
+
+1050
+01:03:42.605 --> 01:03:44.938
+Onu gerçekten anlayabiliyorum.
+
+1051
+01:03:45.313 --> 01:03:53.230
+Hala dördüncü ve beşinci oyun var.
+Eğer 9-dan Lee Sedol kendi gibi oynarsa
+
+
+1052
+01:03:53.730 --> 01:03:55.647
+bence bu makinayı yenebilir.
+
+1053
+01:04:07.647 --> 01:04:09.605
+- Görüyorsunuz ki
+üç maçı ardarda
+
+
+1054
+01:04:09.647 --> 01:04:11.980
+kaybettikten sonra
+biraz daha rahatlamış.
+
+
+1055
+01:04:12.022 --> 01:04:14.313
+Bununla birlikte, destek hala yüksek.
+
+1056
+01:04:14.313 --> 01:04:18.105
+Bilirsiniz, sonuçta, bu
+gururla alakalı değil.
+
+
+1057
+01:04:18.522 --> 01:04:22.230
+Kendine güveniyor gibi durmuyordu.
+Ancak baskı hissetmiyordu.
+
+
+1058
+01:04:23.230 --> 01:04:27.188
+- Lee Sedol, AlphaGo'nun
+zayıf noktasını bulabilir mi?
+
+
+1059
+01:04:27.230 --> 01:04:29.272
+O'nun gerçekten zayıf
+bir noktası var mı?
+
+
+1060
+01:04:29.313 --> 01:04:31.563
+- Düşünüyordum da, sadece
+fişini çekerdim sanırım.
+
+
+1061
+01:04:31.605 --> 01:04:32.772
+- Fişini mi çekerdin?
+- Evet.
+
+
+1062
+01:04:32.813 --> 01:04:34.938
+- Herkes hala Lee Sedol'e
+destek veriyor
+
+
+1063
+01:04:34.980 --> 01:04:37.980
+ve, evet, O'nun için iyi gitmiyor.
+
+1064
+01:04:38.980 --> 01:04:42.063
+Lee Sedol savunma oyunuyla
+başlamayı seçti.
+
+
+1065
+01:04:42.355 --> 01:04:45.313
+Bu ona yarar sağlar mı emin değilim.
+
+1066
+01:04:45.688 --> 01:04:48.480
+Katılıyorum. Onun için iyi bir
+strateji gibi durmuyor.
+
+
+1067
+01:04:49.605 --> 01:04:52.813
+- Bu noktada siyah için
+durumlar çok iyi görünüyor.
+
+
+1068
+01:04:52.855 --> 01:04:54.438
+- Siyah için iyi görünüyor, evet.
+
+1069
+01:04:54.688 --> 01:04:57.188
+Lee Sedol'ün kendi oyununu
+oynadığını görmek istiyorum.
+
+
+1070
+01:04:57.647 --> 01:05:01.355
+Çünkü o ana kadar AlphaGo ile
+oynarken birçok şey denedi.
+
+
+1071
+01:05:01.855 --> 01:05:05.563
+AlphaGo'yu anlamaya çalıştı. Ancak
+kendiyle oynamaya çalışmadı.
+
+
+1072
+01:05:06.563 --> 01:05:10.563
+Birçok kez söyledim. AlphaGo gerçek
+bir ayna gibidir.
+
+
+1073
+01:05:11.272 --> 01:05:15.688
+AlphaGo ile oynadığınızda garip
+hissedersiniz.
+
+
+1074
+01:05:16.063 --> 01:05:18.813
+Sürekli çıplakmış gibi
+hissedersiniz.
+
+
+1075
+01:05:19.355 --> 01:05:22.230
+Bunu ilk gördüğünüzde, aslında
+görmek istemezsiniz.
+
+
+1076
+01:05:22.605 --> 01:05:24.813
+"Bu ben miyim? 
+Gerçekten ben miyim?"
+
+1077
+01:05:25.188 --> 01:05:27.522
+Zaman geçtikçe
+kabullenmeniz gerekir.
+
+
+1078
+01:05:27.938 --> 01:05:32.105
+"Oh, bu gerçekten benim.
+Şimdi ben ne yapabilirim?"
+
+
+1079
+01:05:37.105 --> 01:05:39.022
+- Gerçekten çok tehlikeli bir
+
+1080
+01:05:39.063 --> 01:05:40.688
+mücadeleye doğru yol alıyoruz.
+
+1081
+01:05:40.730 --> 01:05:43.105
+Bu gerçekten Lee Sedol'ün oyun tarzı.
+
+1082
+01:05:43.147 --> 01:05:44.938
+Bu tarz mücadeleleri sever.
+
+1083
+01:05:44.980 --> 01:05:47.105
+Beyaz, siyahın alanı içinde
+bir şeyler bulmalı.
+
+
+1084
+01:05:47.147 --> 01:05:49.063
+- Bence, bayağıdır birşeyler
+
+1085
+01:05:49.105 --> 01:05:50.022
+denemenin peşinde.
+
+1086
+01:05:50.230 --> 01:05:55.355
+Lee Sedol'un küçük alanda yaşama
+yeteneklerine inanıyor musun?
+
+
+1087
+01:05:55.813 --> 01:05:57.063
+- Evet, evet.
+
+1088
+01:05:57.105 --> 01:05:59.147
+- Orada küçük de olsa
+bir potansiyel var.
+
+
+1089
+01:05:59.147 --> 01:06:01.688
+Ve bence bir şeyler yapmayı deneyecek.
+
+1090
+01:06:01.730 --> 01:06:03.022
+- Lee Sedol sihri.
+
+1091
+01:06:03.355 --> 01:06:05.522
+Sihirli hamle ne olurdu?
+
+1092
+01:06:06.105 --> 01:06:08.147
+- Lee Sedol'ün zamanı daralıyor ancak
+
+1093
+01:06:08.188 --> 01:06:10.897
+tüm zamanını kullanmak
+durumunda kalacak.
+
+
+1094
+01:06:10.897 --> 01:06:13.105
+- Sadece bu hamle için bile
+
+1095
+01:06:13.147 --> 01:06:14.647
+yedi ya da sekiz dakikasını harcadı.
+
+1096
+01:06:14.813 --> 01:06:16.272
+Bir şey görmüyorum.
+
+1097
+01:06:17.105 --> 01:06:18.647
+- Hiç bir şey bulamayız.
+
+1098
+01:06:19.063 --> 01:06:20.230
+Bize bir şey göster.
+
+1099
+01:06:20.772 --> 01:06:22.230
+Olası bir hamle görmüyorum.
+
+1100
+01:06:22.438 --> 01:06:24.272
+- Lee Sedol burada
+ne yapmaya çalışıyor?
+
+
+1101
+01:06:24.313 --> 01:06:25.938
+- Evet, gerçekten
+konsantre oluyor.
+
+
+1102
+01:06:25.980 --> 01:06:28.397
+- Gerçekten öyle, şuna bak.
+
+1103
+01:06:28.980 --> 01:06:32.980
+Lee Sedol çok sabırlı. Kendi anını
+sabırla bekliyor.
+
+
+1104
+01:06:33.772 --> 01:06:36.230
+Onu bir kurta benzetiyorum.
+
+1105
+01:06:36.813 --> 01:06:40.022
+Kış günü ormanda bekliyor.
+
+1106
+01:06:41.438 --> 01:06:43.605
+Çok üşüyor.
+
+1107
+01:06:43.938 --> 01:06:45.813
+Ama sabırlı olması gerek.
+
+1108
+01:06:46.105 --> 01:06:50.563
+Ama o an gelince, çıkıp saldırıyor.
+
+1109
+01:06:51.813 --> 01:06:54.438
+- Bu oyunun kırılma noktası.
+
+1110
+01:06:54.438 --> 01:06:56.272
+- Ah, şu hamleye bak.
+
+1111
+01:06:56.313 --> 01:06:57.813
+Bu heyecan verici bir hamle.
+
+1112
+01:06:57.855 --> 01:07:00.313
+- Gördün mü?
+- Ah, sıkıştıracak yeri buldu.
+
+
+1113
+01:07:00.355 --> 01:07:01.522
+- Ohaaa.
+
+1114
+01:07:01.563 --> 01:07:03.772
+- Bu dengeleri değiştirecek
+
+1115
+01:07:03.813 --> 01:07:05.688
+çünkü siyah şimdi kaçamaz.
+
+1116
+01:07:05.688 --> 01:07:08.688
+- Bu işe yarasa çok havalı olur.
+
+1117
+01:07:11.522 --> 01:07:12.355
+- Aah!
+
+1118
+01:07:14.563 --> 01:07:15.897
+- AlphaGo az önce olağandışı
+
+1119
+01:07:15.938 --> 01:07:18.397
+olabilecek bir şey oynadı.
+
+1120
+01:07:18.397 --> 01:07:19.730
+- Bilirsin, AlphaGo
+burada aslında
+
+
+1121
+01:07:19.730 --> 01:07:21.855
+tam ne yapmaya çalışıyor emin değilim.
+
+1122
+01:07:21.897 --> 01:07:23.272
+- Nasıl yani?
+
+1123
+01:07:23.313 --> 01:07:24.730
+- Bunu gerçekten
+anlayamıyorum.
+
+
+1124
+01:07:24.772 --> 01:07:25.647
+- Evet, pekala.
+
+1125
+01:07:25.772 --> 01:07:28.480
+Kazanma olasılığında
+keskin bir düşüş oldu.
+
+
+1126
+01:07:28.688 --> 01:07:31.355
+Bu şu ana kadar gördüğümüz
+en keskin düşüştü.
+
+
+1127
+01:07:31.772 --> 01:07:33.563
+Yüzde sekiz düştü.
+
+1128
+01:07:35.980 --> 01:07:39.397
+- Bu ancak şu olabilir aradan
+kaçabileceği bir yol bulamıyor.
+
+
+1129
+01:07:39.438 --> 01:07:42.397
+Sanırım işe yaramadığını
+görmek için yeterince
+
+
+1130
+01:07:42.438 --> 01:07:44.480
+ileriye baktı ve şimdi de
+kararsız durumda?
+
+
+1131
+01:07:44.522 --> 01:07:45.813
+Bilemiyorum.
+
+1132
+01:07:45.855 --> 01:07:47.438
+- İşte geliyor.
+
+1133
+01:07:49.272 --> 01:07:52.647
+- Bir uçurumdan düşmüş gibi.
+
+1134
+01:07:52.688 --> 01:07:54.730
+Evet, bir hata yaptı.
+
+1135
+01:07:54.772 --> 01:07:56.980
+- Garip bir şey oldu mu...?
+
+1136
+01:07:57.022 --> 01:07:58.647
+- Hayır, herşey
+normal görünüyordu.
+
+
+1137
+01:07:58.688 --> 01:08:01.813
+-Yani, kesinlikle söyleyebiliriz,
+evet, bir zayıf nokta var.
+
+
+1138
+01:08:01.855 --> 01:08:04.813
+Evet, kesinlikle bu bir hata diyoruz.
+
+1139
+01:08:04.813 --> 01:08:08.522
+- AlphaGo'nun bu durumda
+
+1140
+01:08:08.563 --> 01:08:10.688
+sanrısal olup olmadığını merak ettiğim,
+
+1141
+01:08:10.730 --> 01:08:13.022
+garip şekilde oynamaya başladığını
+görebildiğim,
+
+
+1142
+01:08:13.063 --> 01:08:15.438
+mideme doğru inen o hissi hissettim.
+
+1143
+01:08:15.480 --> 01:08:17.355
+Ve, aynı zamanda, Lee Sedol'ün
+tekrar bir şansı
+
+
+1144
+01:08:17.355 --> 01:08:20.855
+olduğunu görünce bir rahatlama da geldi.
+
+1145
+01:08:21.647 --> 01:08:24.438
+Aja dehşete kapılmamış gibi
+görünmeye çalışıyor.
+
+
+1146
+01:08:26.063 --> 01:08:30.730
+- 78inci hamleden sonra,
+yaklaşık 10 ya da 20 hamle sonra,
+
+
+1147
+01:08:30.730 --> 01:08:33.272
+AlphaGo'nun garip hamleler
+yaptığını gördüm.
+
+
+1148
+01:08:34.563 --> 01:08:36.772
+AlphaGo'nun bir şekilde
+çıldırdığını biliyorum,
+
+
+1149
+01:08:36.772 --> 01:08:38.563
+ama neden olduğunu anlayamadım.
+
+1150
+01:08:38.605 --> 01:08:39.438
+- Ooof!
+
+1151
+01:08:40.313 --> 01:08:42.438
+95'ten aşağı düştük.
+
+1152
+01:08:43.605 --> 01:08:45.688
+- Bu noktada, nerede hata yaptık?
+
+1153
+01:08:45.730 --> 01:08:47.522
+Bence bir şey yanlış gitti.
+
+1154
+01:08:47.563 --> 01:08:50.522
+Bu tüm oyun boyunca
+aradığımızın en uzun süreniydi.
+
+
+1155
+01:08:50.522 --> 01:08:55.355
+Bence çok derin arama yaptı
+ve kafası karıştı.
+
+
+1156
+01:08:55.397 --> 01:08:56.813
+- AlphaGo konudan saptı
+
+1157
+01:08:56.855 --> 01:08:58.980
+izlenimini ediniyorum.
+
+1158
+01:08:59.022 --> 01:09:00.563
+- Şimdi ne yapıyorsun.
+
+1159
+01:09:00.563 --> 01:09:01.897
+- Belki bir ana planı vardır.
+
+1160
+01:09:01.897 --> 01:09:04.772
+- Hayır, olduğunu düşünmüyor bile,
+düşünüyor mu?
+
+
+1161
+01:09:04.772 --> 01:09:06.105
+Yani, bir hata yaptığını
+kendisi de biliyor.
+
+
+1162
+01:09:06.105 --> 01:09:08.772
+Başka bir yönden hesaplamaya başlıyor.
+
+1163
+01:09:08.772 --> 01:09:10.522
+Bak, bak, Lee'nin kafası çok karışık.
+
+1164
+01:09:10.563 --> 01:09:11.522
+Ne yapıyor bu der gibi.
+
+1165
+01:09:11.563 --> 01:09:12.813
+Korkuyorum gibi bir kafa
+karışıklığı değil.
+
+
+1166
+01:09:12.855 --> 01:09:15.772
+Daha çok ne yapıyor bu gibi.
+
+1167
+01:09:15.813 --> 01:09:17.730
+- Bilirsin, bu bir hata mı
+diye sormuştun ya.
+
+
+1168
+01:09:17.772 --> 01:09:21.855
+Daha önce de söylediğim gibi
+eğer DeepMind
+
+
+1169
+01:09:23.438 --> 01:09:26.063
+içinde hata olmayan böylesi bir
+kod yazmayı becerirse
+
+
+1170
+01:09:26.105 --> 01:09:28.730
+bu, AlphaGo'dan daha
+büyük bir haber olur
+
+
+1171
+01:09:28.730 --> 01:09:30.730
+- Ah, şaka yapıyor olmalısın.
+
+1172
+01:09:30.772 --> 01:09:33.647
+Yapacağım bu bir sonraki hamle,
+
+1173
+01:09:34.980 --> 01:09:36.897
+bence buna gülecekler.
+
+1174
+01:09:36.897 --> 01:09:38.938
+Herkes buna gülecek.
+
+1175
+01:09:46.147 --> 01:09:47.313
+- A, a, a!
+
+1176
+01:09:47.522 --> 01:09:48.730
+Bu da ne?
+
+1177
+01:09:50.022 --> 01:09:52.855
+Bu çok gülünç. 
+O ne düşünüyor?
+
+1178
+01:09:53.647 --> 01:09:54.855
+- AlphaGo burada gerçekten
+
+1179
+01:09:54.897 --> 01:09:57.105
+ne yapmak istiyor bilmiyorum.
+
+1180
+01:09:57.105 --> 01:09:59.438
+- Bu yılın, en yetersiz kalan
+ifadesi bu olsa gerek.
+
+
+1181
+01:09:59.605 --> 01:10:00.605
+Aja acaba yanlış mı tıkladı?
+
+1182
+01:10:00.855 --> 01:10:02.022
+- Hayır, hayır, işte hamle bu.
+
+1183
+01:10:02.063 --> 01:10:04.813
+Aja Huang yanlış tuşa basmamış.
+
+1184
+01:10:04.855 --> 01:10:06.897
+Lee Sedol'ün kafası
+gerçekten karışık.
+
+
+1185
+01:10:06.897 --> 01:10:08.813
+Bunlar insanın yapacağı hamleler değil.
+
+1186
+01:10:08.855 --> 01:10:12.063
+- Bu hamle de, açıklanamaz görünüyor.
+
+1187
+01:10:12.105 --> 01:10:15.855
+- Demek istediğim, bunlara
+açıkca hata diyebilirsin.
+
+
+1188
+01:10:15.897 --> 01:10:17.063
+- Evet, tabi ki.
+
+1189
+01:10:17.105 --> 01:10:18.938
+- Ama dört maç boyunca ilk kez
+
+1190
+01:10:18.980 --> 01:10:20.938
+bu tarz hamleler görüyoruz.
+
+1191
+01:10:20.980 --> 01:10:23.647
+- Ah, değer iyice düştü.
+
+1192
+01:10:23.647 --> 01:10:24.938
+- Bu çok garip.
+
+1193
+01:10:25.147 --> 01:10:27.105
+-Yüzde 45'teyiz.
+
+1194
+01:10:28.522 --> 01:10:31.563
+Beyaz. Sanırım beyaz kazanıyor.
+
+1195
+01:10:32.188 --> 01:10:34.105
+- Hadi, Lee Sedol.
+
+1196
+01:10:34.188 --> 01:10:35.980
+- Bu inanılmaz.
+
+1197
+01:10:36.022 --> 01:10:36.855
+- Pekala!
+
+1198
+01:10:37.772 --> 01:10:39.897
+- Siyah alanın siyah taşlarla
+
+1199
+01:10:39.897 --> 01:10:41.938
+dolacağından o kadar emindim ki
+
+1200
+01:10:41.980 --> 01:10:43.105
+ve şimdi orada hiçbir şey yok.
+
+1201
+01:10:43.147 --> 01:10:46.438
+Ve, bir şekilde, O hepsini sildi,
+hepsi gitti.
+
+
+1202
+01:10:46.480 --> 01:10:47.897
+- Yani onun zayıf noktasını buldu?
+
+1203
+01:10:47.938 --> 01:10:51.813
+O sıkıştırma hareketi AlphaGo için
+muhtemelen sürpriz oldu.
+
+
+1204
+01:10:51.855 --> 01:10:53.647
+- AlphaGo iyi bir oyun götürüyor
+gibi görünüyordu
+
+
+1205
+01:10:53.688 --> 01:10:56.855
+ve sonra merkezdeki tüm bu oyun dizisi
+
+1206
+01:10:56.897 --> 01:10:57.980
+olanı biteni değiştirdi.
+
+1207
+01:10:58.022 --> 01:11:00.063
+- Bir mucize yarattı.
+
+1208
+01:11:00.105 --> 01:11:01.980
+O kadar karmaşık duruma getirmeyi
+başardı ki
+
+
+1209
+01:11:02.022 --> 01:11:05.522
+yapay zeka onu hesaplayamadı.
+
+1210
+01:11:05.563 --> 01:11:07.897
+Orada oturan Aja Huang bile bence
+
+1211
+01:11:07.938 --> 01:11:09.980
+oyunun bittiğinin farkında.
+
+1212
+01:11:10.522 --> 01:11:13.105
+Gülümsemeden edemiyorum.
+
+1213
+01:11:13.313 --> 01:11:14.647
+O gülümsedi mi?
+
+1214
+01:11:15.063 --> 01:11:19.188
+- Hayır, onu gülerken görmedim
+henüz.
+
+
+1215
+01:11:19.230 --> 01:11:20.813
+- Hala çok ciddi.
+
+1216
+01:11:20.855 --> 01:11:22.772
+Dikkatli olmak istiyor.
+
+1217
+01:11:23.105 --> 01:11:26.813
+Çok endişeli.
+Elinden geleni yapıyor.
+
+
+1218
+01:11:27.688 --> 01:11:34.063
+Sanırım kendini borçlu hissediyor.
+
+1219
+01:11:34.438 --> 01:11:36.647
+Sanırım bitmek üzere.
+
+1220
+01:11:46.938 --> 01:11:50.188
+- İşte böyle, AlphaGo
+oyundan çekildi.
+
+
+1221
+01:11:51.980 --> 01:11:53.897
+- AlphaGo oyundan çekilmiş
+gibi görünüyor.
+
+
+1222
+01:11:53.938 --> 01:11:55.647
+- Vay anasına.
+
+1223
+01:11:55.688 --> 01:11:57.688
+- En muhteşem karşılaşma,
+
+1224
+01:11:59.105 --> 01:12:00.522
+neredeyse ağlayacaktım,
+
+1225
+01:12:00.563 --> 01:12:05.022
+geriden gelip kazandığı
+dördüncü oyundu.
+
+
+1226
+01:12:17.438 --> 01:12:22.355
+AlphaGo oyunu kaybettiğinde
+insanların neşeyle bağırdığını duydum.
+
+
+1227
+01:12:22.813 --> 01:12:24.563
+Bence bunun nedeni açık.
+
+1228
+01:12:26.147 --> 01:12:28.188
+İnsanlar acizlik ve
+korku hislerine kapıldı.
+
+
+1229
+01:12:29.063 --> 01:12:31.772
+İnsanlar çok zayıf ve
+kırılgan gözüküyordu.
+
+
+1230
+01:12:33.105 --> 01:12:40.313
+Bu galibiyet hâlâ
+dayanabildiğimizi gösterdi.
+
+
+1231
+01:12:40.605 --> 01:12:43.688
+Zaman geçtikçe muhtemelen A.I.'ı
+yenmek çok zorlaşacak.
+
+
+1232
+01:12:44.438 --> 01:12:49.813
+Ancak bir kez kazanmak yeterli
+gelmişti.
+
+
+1233
+01:12:51.063 --> 01:12:52.480
+Tek sefer yeterliydi.
+
+1234
+01:12:53.313 --> 01:12:54.980
+- Birçok kişiden duydum ki
+
+1235
+01:12:55.022 --> 01:12:58.688
+insanlar sokakta koşuyormuş.
+
+1236
+01:12:58.730 --> 01:13:00.272
+Çok mutlulardı.
+
+1237
+01:13:00.272 --> 01:13:02.105
+Tezahürat edip, kutluyorlarmış.
+
+1238
+01:13:02.105 --> 01:13:06.313
+- Özellikle sıfıra karşı üçlük
+bir yenilgiden sonra,
+
+
+1239
+01:13:06.313 --> 01:13:10.647
+o zaman, ümitsiz görünüyordu
+sanki dünyanın sonu geliyordu,
+
+
+1240
+01:13:10.647 --> 01:13:12.105
+ancak ışığı gördük.
+
+1241
+01:13:12.105 --> 01:13:16.063
+- Genellikle, kazandığım zaman
+mutlu olurum ama bir arkadaşım kazanınca
+o kadar değil.
+
+
+1242
+01:13:18.105 --> 01:13:21.105
+Ancak bu sefer sanki ben
+kazanmışım gibi hissettim.
+
+
+1243
+01:13:22.022 --> 01:13:24.730
+AlphaGo'nun tahmin edebileceği tek
+bir hamle bile yapmak istemedim.
+
+
+1244
+01:13:26.022 --> 01:13:28.897
+Sıkıştırma hamlesini öngöremedi.
+
+1245
+01:13:29.813 --> 01:13:31.813
+En azından bir oyun kazandım.
+
+1246
+01:13:32.022 --> 01:13:34.063
+İyi işti.
+
+1247
+01:14:01.980 --> 01:14:04.938
+-Böyle olmasını beklemiyordum.
+
+1248
+01:14:06.272 --> 01:14:10.147
+İnanılmazdı, inanılmaz!
+
+1249
+01:14:11.355 --> 01:14:14.105
+-Çok teşekkür ederim.
+
+1250
+01:14:14.647 --> 01:14:18.188
+Daha önce bir oyun kazandığım için
+hiç bu kadar tebrik almamıştım.
+
+
+1251
+01:14:18.480 --> 01:14:22.647
+Arka arkaya üç oyun kaybettikten
+sonra, daha mutlu olamazdım.
+
+
+1252
+01:14:25.022 --> 01:14:32.563
+Bunu dünyadaki hiçbir şeyle
+değişmem.
+
+
+1253
+01:14:33.313 --> 01:14:36.772
+- Benim sorum 78inci hamleyle
+ilgili olacak,
+
+
+1254
+01:14:36.813 --> 01:14:40.188
+en iyi Çinli oyunculardan biri
+bunun mükemmel bir hamle olduğunu
+
+
+1255
+01:14:40.230 --> 01:14:42.105
+söylüyor, o hamleyi yaparken
+neler hissettiniz?
+
+
+1256
+01:14:42.147 --> 01:14:43.188
+Teşekkürler.
+
+1257
+01:14:43.438 --> 01:14:47.605
+Oyunun o bölümünde 78. hamle
+görebildiğim tek hamleydi.
+
+
+1258
+01:14:47.980 --> 01:14:53.022
+Başka bir hamle yoktu. Tek seçeneğim
+orasıydı. Ben de taşı oraya koydum.
+
+
+1259
+01:14:53.438 --> 01:14:57.647
+Aldığım övgülerden dolayı
+çok onur duydum.
+
+
+1260
+01:14:58.813 --> 01:15:00.230
+- İnsan beyninin gücüyle ilgili
+
+1261
+01:15:00.272 --> 01:15:02.063
+beni biraz korkuttu, özellikle,
+
+1262
+01:15:02.063 --> 01:15:05.438
+Lee'nin AlphaGo'ya sorunlar
+yaratan yeteneği
+
+
+1263
+01:15:05.480 --> 01:15:08.230
+ve neredeyse yoktan
+birşeyler var etmesi.
+
+
+1264
+01:15:08.272 --> 01:15:11.063
+Ve böylece biz gerçekten neler
+olduğunu anlamak istiyoruz.
+
+
+1265
+01:15:11.230 --> 01:15:12.522
+Lee'nin hamlesi yüzünden miydi?
+
+1266
+01:15:12.855 --> 01:15:15.980
+Kilit nokta merkezdi. Merkezi
+kaybettiğinde şansı kalmadı.
+
+
+1267
+01:15:16.855 --> 01:15:18.605
+Bundan önce kazanıyorduk.
+
+1268
+01:15:18.772 --> 01:15:21.355
+Ancak AlphaGo kazandığını
+sanıyorduysa ve kazanamadıysa,
+
+
+1269
+01:15:21.480 --> 01:15:23.522
+bu aslında kazanmıyor olduğu
+anlamına geliyor.
+
+
+1270
+01:15:23.980 --> 01:15:25.605
+Yoksa doğru cevapları vermeliydi.
+
+1271
+01:15:25.855 --> 01:15:30.022
+Bunu biz oynar mıydık? Beyaza yüzde
+kaç kazanma şansı veriyor?
+
+
+1272
+01:15:32.897 --> 01:15:36.063
+%0.007
+
+1273
+01:15:36.272 --> 01:15:38.397
+O noktaya mı hamle yaptığında mı?
+
+1274
+01:15:38.563 --> 01:15:39.938
+Evet, hamleden sonra.
+
+1275
+01:15:40.063 --> 01:15:42.730
+Bunun 10.000'de 1'lik bir hamle
+olduğunu sandık.
+
+
+1276
+01:15:45.605 --> 01:15:48.022
+Kelimenin tam anlamıyla
+Tanrı hamlesi yaptı.
+
+
+1277
+01:15:48.272 --> 01:15:52.272
+Çünkü bu hamleyi 10.000'de 1 kişi
+yapar diye hesaplamıştık.
+
+
+1278
+01:15:52.438 --> 01:15:57.563
+Akla gelen ilk beş hamleden biri
+gibi görünmüyor.
+
+
+1279
+01:15:57.688 --> 01:15:59.563
+Tabii Lee Sedol değilsen, o sadece
+tek hamle gördüğünü söyledi.
+
+
+1280
+01:15:59.813 --> 01:16:02.897
+Tek hamle gördüğünü söyledi.
+İnanılmaz, değil mi?
+
+
+1281
+01:16:06.438 --> 01:16:08.938
+- Four Seasons Otel'e
+yeniden hoş geldiniz.
+
+
+1282
+01:16:08.980 --> 01:16:11.897
+Dünya şampiyonu, Lee Sedol,
+dördüncü oyunda
+
+
+1283
+01:16:11.938 --> 01:16:16.272
+AlphaGo'nun zayıf noktasını
+aradı ve buldu.
+
+
+1284
+01:16:16.313 --> 01:16:19.230
+Bugün, son raundda, bunu
+
+1285
+01:16:19.272 --> 01:16:20.938
+tekrarlamayı hedefliyor.
+
+1286
+01:16:20.938 --> 01:16:22.063
+Neler olacağını göreceğiz.
+
+1287
+01:16:22.105 --> 01:16:23.980
+- Aşağısı tımarhane gibi.
+
+1288
+01:16:24.022 --> 01:16:26.813
+Hiç olmasa en az birinci karşılaşma için
+
+1289
+01:16:26.855 --> 01:16:29.438
+gelen gazeteci kadar gazeteci var.
+
+1290
+01:16:29.480 --> 01:16:32.230
+- Beşinci maçta neler olacağını
+
+1291
+01:16:32.272 --> 01:16:33.480
+görmek için gerçekten çok heyecanlıyız.
+
+1292
+01:16:33.480 --> 01:16:35.188
+Üç-ikilik bir sonuç mu yoksa
+
+1293
+01:16:35.230 --> 01:16:37.188
+dört-birlik bir sonuç mu olacak?
+
+1294
+01:16:37.230 --> 01:16:38.522
+Ve, biliyorsunuz, bu ikisinin
+
+1295
+01:16:38.522 --> 01:16:40.313
+verdiği mesaj çok farklı.
+
+1296
+01:16:41.647 --> 01:16:44.813
+Bence AlphaGo tekrar
+hata yapmayacak.
+
+
+1297
+01:16:46.022 --> 01:16:49.147
+Ama kim bilir. 
+Belki de yapar.
+
+1298
+01:16:49.688 --> 01:16:53.480
+Lee Sedol artık kendine
+daha çok güveniyor.
+
+
+1299
+01:16:53.730 --> 01:16:59.188
+Belki de Lee Sedol, AlphaGo'yu
+açacak anahtarı buldu.
+
+
+1300
+01:16:59.938 --> 01:17:01.605
+Oh, işe yaradı.
+
+1301
+01:17:03.647 --> 01:17:06.147
+AlphaGo bir hata yaptı
+diyebilir miyiz?
+
+
+1302
+01:17:06.855 --> 01:17:08.438
+Bugün bir zafer daha kazanabiliriz.
+
+1303
+01:17:08.938 --> 01:17:12.105
+- Bu hamlenin zamanlaması sence iyi
+miydi?
+
+
+1304
+01:17:12.188 --> 01:17:13.355
+- Hayır aslında.
+
+1305
+01:17:13.355 --> 01:17:15.855
+- Ve şimdi, bunu da onaylamıyorsun?
+
+1306
+01:17:15.855 --> 01:17:18.313
+- Yani, düşünüyorum da AlphaGo
+
+1307
+01:17:18.355 --> 01:17:20.355
+belki dördüncü maçtan sonra
+hâlâ kendine gelemedi sanırım.
+
+
+1308
+01:17:20.688 --> 01:17:22.147
+Hâlâ kafası karışık mı?
+
+1309
+01:17:22.647 --> 01:17:23.688
+Bilmiyoruz.
+
+1310
+01:17:24.855 --> 01:17:25.563
+- Ah hayır, umarım gelememiştir...
+
+1311
+01:17:25.605 --> 01:17:28.272
+Ah hayır, onun böyle oynaması gerekir...
+
+1312
+01:17:29.772 --> 01:17:37.355
+Bazı hamleler yaptı. Kötü hamleler.
+Belki zayıflığı tekrar ortaya çıkmıştır dedim.
+
+
+1313
+01:17:38.105 --> 01:17:40.980
+- Yine bir kısa devre mi
+görüyoruz,
+
+
+1314
+01:17:40.980 --> 01:17:43.022
+yoksa, bu nasıl...
+
+1315
+01:17:43.063 --> 01:17:46.022
+- Bu bence bir çeşit
+yanlış okuma olabilir.
+
+
+1316
+01:17:46.063 --> 01:17:48.105
+- Bunu söylediğin
+için kendini
+
+
+1317
+01:17:48.105 --> 01:17:49.188
+rahat hissediyor musun?
+
+1318
+01:17:49.188 --> 01:17:51.022
+- Bu sence Lee Sedol
+için iyi mi görünüyor?
+
+
+1319
+01:17:51.063 --> 01:17:53.438
+- Lee Sedol için iyi.
+
+1320
+01:17:55.397 --> 01:17:56.522
+- Neden oraya oynuyor?
+
+1321
+01:17:56.563 --> 01:17:59.272
+- Beyazın o hamleyi yapması
+için hiç bir neden yok.
+
+
+1322
+01:17:59.313 --> 01:18:01.313
+Bu kötü bir hamle ve, bazı durumlarda,
+
+1323
+01:18:01.355 --> 01:18:03.938
+bir puan bile kaybeder.
+
+1324
+01:18:05.188 --> 01:18:07.813
+Şu anda %91 olasılıkta.
+
+1325
+01:18:08.730 --> 01:18:11.813
+Evet, çünkü yine yanılıyor.
+
+1326
+01:18:12.522 --> 01:18:14.730
+- Bütün oyun boyunca AlphaGo'nun
+tahta pozisyonu açısından
+
+
+1327
+01:18:14.772 --> 01:18:16.897
+yanlış yaptığını düşündük ve
+yine çöp gibi oynayacağı için
+
+
+1328
+01:18:16.938 --> 01:18:18.813
+gerçekten endişelendik.
+
+1329
+01:18:18.855 --> 01:18:20.855
+Çok utanç verici bir şekilde
+kaybedecek gibi.
+
+
+1330
+01:18:20.855 --> 01:18:22.980
+Ve bu tüm oyun boyunca devam etti.
+
+1331
+01:18:23.605 --> 01:18:24.938
+Bu çok garip.
+
+1332
+01:18:25.355 --> 01:18:28.355
+-Bunu ne zaman oynadı?
+-Biraz önce.
+
+
+1333
+01:18:28.855 --> 01:18:30.605
+- İyi, ama bunu bilemeyiz,
+bunu bilmek için
+
+
+1334
+01:18:30.605 --> 01:18:31.647
+yeterli derecede iyi Go oyuncuları
+değiliz, değil mi?
+
+
+1335
+01:18:31.688 --> 01:18:32.730
+- Evet.
+
+1336
+01:18:32.772 --> 01:18:34.980
+Ortaya çıktığı gibi, hiçbirimiz
+AlphaGo'nun ne yaptığını
+
+
+1337
+01:18:35.022 --> 01:18:37.188
+yorumlayacak kadar iyi Go bilmiyoruz.
+
+1338
+01:18:37.397 --> 01:18:38.688
+Beyaz kazanmaya başladı.
+
+1339
+01:18:38.938 --> 01:18:41.897
+- Bu beyaz kazanıyor gibi görünüyor.
+
+1340
+01:18:41.938 --> 01:18:43.480
+Aah!
+
+1341
+01:18:43.522 --> 01:18:46.563
+- Hepimiz AlphaGo'nun bazı
+hamlelerinin çok garip ve
+
+
+1342
+01:18:46.605 --> 01:18:49.105
+acayip olduğunu ve hatta belki
+hata olduğunu söyledik.
+
+
+1343
+01:18:49.147 --> 01:18:51.855
+Fakat, oyun bittiğinde,
+kendimizle ilgili
+
+
+1344
+01:18:52.897 --> 01:18:56.813
+şüphe etmeliydik, verdiğimiz kararlarla.
+
+1345
+01:18:56.855 --> 01:19:00.605
+- AlphaGo yine başka bir
+çeşit anlamsız atış yapıyor.
+
+
+1346
+01:19:00.647 --> 01:19:01.730
+Bunun ne olduğuyla ilgili
+gerçekten emin değiliz.
+
+
+1347
+01:19:01.730 --> 01:19:04.563
+- Bu 10 dan ya da belki 11 dan
+oyunu gibi görünüyor.
+
+
+1348
+01:19:04.605 --> 01:19:07.147
+Çok garip görünüyor ve
+pek bir şey anlamıyoruz.
+
+
+1349
+01:19:07.188 --> 01:19:10.688
+- AlphaGo'nun hata gibi
+görünen hamleleri
+
+
+1350
+01:19:10.730 --> 01:19:14.188
+üzerinde çalışmak bence çok önemli.
+
+1351
+01:19:14.230 --> 01:19:18.480
+Ve belki, bundan ders çıkarıp
+kendi bilgilerimizi değiştiririz.
+
+
+1352
+01:19:18.522 --> 01:19:19.980
+- AlphaGo'yu oynarken izlemenin
+bir sonucu olarak,
+
+
+1353
+01:19:20.022 --> 01:19:22.855
+Go ile anlayışımda ortaya çıkan
+en muhteşem şey,
+
+
+1354
+01:19:22.855 --> 01:19:26.605
+meşhur gevşek hamleleri.
+
+1355
+01:19:26.688 --> 01:19:28.855
+- Yani, oynamaya tarzıyla ilgili
+farklı bir şey var
+
+
+1356
+01:19:28.897 --> 01:19:30.688
+çünkü gerçekten gerekli olmayan
+
+1357
+01:19:30.730 --> 01:19:32.605
+bazı hamleler yapıyor.
+
+1358
+01:19:32.605 --> 01:19:33.855
+- Doğru.
+
+1359
+01:19:33.897 --> 01:19:36.730
+- Gevşek hamle, tembelce görünen
+bir hamleye denir.
+
+
+1360
+01:19:36.772 --> 01:19:38.813
+Siz daha iyi başka hareketler görürken
+
+1361
+01:19:38.855 --> 01:19:40.522
+AlphaGo onları reddediyor.
+
+1362
+01:19:40.563 --> 01:19:43.772
+Ancak bence AlphaGo'nun
+bize öğrettiği şu ki,
+
+
+1363
+01:19:43.813 --> 01:19:47.063
+skoru kazanma şansı için bir
+
+1364
+01:19:48.022 --> 01:19:49.897
+gösterge olarak kullanıyorduk.
+
+1365
+01:19:49.938 --> 01:19:52.855
+Yani alanımdaki fark rakibimden
+ne kadar büyük olursa,
+
+
+1366
+01:19:52.897 --> 01:19:55.022
+oyunu kazanacağımdan da
+o kadar emin oluyordum.
+
+
+1367
+01:19:55.063 --> 01:19:56.938
+Ve AlphaGo buna hayır,
+hayır, hayır diyor.
+
+
+1368
+01:19:56.980 --> 01:19:58.772
+Ne kadar farkla kazandığının
+bir önemi yok.
+
+
+1369
+01:19:58.813 --> 01:20:00.855
+Sadece bir puan farkla kazanman yeterli.
+
+1370
+01:20:00.897 --> 01:20:03.063
+Benim için gereği yokken neden bu kadar
+
+1371
+01:20:03.063 --> 01:20:03.938
+geniş bir alana sahip olayım ki.
+
+1372
+01:20:03.980 --> 01:20:06.563
+AlphaGo'nun bizlere öğrettiği bu dersler
+
+1373
+01:20:06.605 --> 01:20:10.480
+önümüzdeki bin yıl boyunca
+
+1374
+01:20:10.522 --> 01:20:12.397
+Go'nun nasıl oynandığına şekil verecek.
+
+1375
+01:20:12.605 --> 01:20:14.938
+Sayımlarıma göre, beyaz oyunu
+kazandı.
+
+
+1376
+01:20:15.897 --> 01:20:17.938
+- Ne kadar farktan bahsediyoruz?
+
+1377
+01:20:17.938 --> 01:20:18.980
+İki puan?
+- Bir buçuk.
+
+
+1378
+01:20:19.022 --> 01:20:20.063
+- Bir buçuk puan.
+
+1379
+01:20:20.438 --> 01:20:22.438
+Evet, belki bir buçuk.
+
+1380
+01:20:22.938 --> 01:20:24.147
+- Tabi ki, Go sadece bir oyun.
+
+1381
+01:20:24.188 --> 01:20:26.230
+Fakat biz, Go'da bu derece başarılı olan
+
+1382
+01:20:26.272 --> 01:20:28.980
+bir bilgisayardan
+önemli dersler alabiliriz.
+
+
+1383
+01:20:29.022 --> 01:20:31.022
+Makinalar, sadece bu kadar
+büyük bir veri arasından
+
+
+1384
+01:20:31.063 --> 01:20:34.272
+çıkma kabiliyetine değil
+aynı zamanda onu zekice
+
+
+1385
+01:20:34.313 --> 01:20:37.022
+analiz etme kabiliyetine de sahip.
+
+1386
+01:20:37.063 --> 01:20:39.772
+Go oyunlarında olduğu gibi, makina,
+
+1387
+01:20:39.813 --> 01:20:43.230
+uzmanları bile şaşırtacak
+hamleler yaptı.
+
+
+1388
+01:20:43.230 --> 01:20:46.105
+Ve, akabinde, makinalar
+bizim güvenimizi kazanacaklar
+
+
+1389
+01:20:46.105 --> 01:20:48.272
+çünkü çok çok sıklıkla biz insanların
+almış olduğu kararlardan
+
+
+1390
+01:20:48.272 --> 01:20:52.647
+çok daha iyi tahminler
+yaptıklarını göreceğiz.
+
+
+1391
+01:20:54.147 --> 01:20:56.313
+AlphaGo'nun güçlü bir temeli var.
+
+1392
+01:21:02.022 --> 01:21:03.730
+Beni en çok şaşırtan şey şu.
+
+1393
+01:21:03.938 --> 01:21:07.563
+AlphaGo bize, insanların yaratıcı
+olarak düşündüğü hamlelerin,
+
+
+1394
+01:21:07.688 --> 01:21:09.480
+aslında geleneksel olduğunu gösterdi.
+
+1395
+01:21:10.188 --> 01:21:14.730
+Bence bu Go'ya
+yeni bir paradigma getirecek.
+
+
+1396
+01:21:15.313 --> 01:21:18.272
+Oh, AlphaGo bu bölgeyi de kazandı.
+Tanrım!
+
+
+1397
+01:21:18.397 --> 01:21:20.105
+Bu oldukça can sıkıcı.
+
+1398
+01:21:23.063 --> 01:21:26.188
+- Lee Sedol için büyük şanssızlık,
+
+1399
+01:21:26.230 --> 01:21:29.147
+bence beyazın burada
+az da olsa bir avantajı var.
+
+
+1400
+01:21:32.063 --> 01:21:36.063
+Kore odasının sonucu açıkladığını
+nereden biliyorsun?
+
+
+1401
+01:21:36.605 --> 01:21:37.772
+- Bunu bize kim söyledi.
+
+1402
+01:21:37.980 --> 01:21:39.063
+- Birileri, bilemiyorum.
+
+1403
+01:21:39.355 --> 01:21:45.313
+Biri Kore odasının AlphaGo'yu galip
+ilan ettiğini söyledi.
+
+
+1404
+01:21:49.105 --> 01:21:51.397
+Kore odası AlphaGo'nun
+kazandığını düşünüyor.
+
+
+1405
+01:21:52.105 --> 01:21:54.063
+- Kazanıyor, tamam, ama henüz kazanmadı.
+
+1406
+01:21:54.105 --> 01:21:56.188
+- Bunu o söyledi.
+
+1407
+01:22:01.730 --> 01:22:04.272
+AlphaGo çekileceğini söylüyor.
+
+1408
+01:22:08.188 --> 01:22:11.605
+Dave bunu yapma. 
+Bizi korkuttun.
+
+1409
+01:22:11.938 --> 01:22:13.272
+Harika bir şakaydı.
+
+1410
+01:22:13.480 --> 01:22:14.772
+Bravo. Bravo.
+
+1411
+01:22:15.855 --> 01:22:17.063
+- Hayır, henüz değil.
+
+1412
+01:22:19.605 --> 01:22:22.605
+Dave iki senedir bu şakayı yapmak
+için mi bekledin?
+
+
+1413
+01:22:24.188 --> 01:22:25.313
+- Skoru bilmiyoruz.
+
+1414
+01:22:25.355 --> 01:22:27.355
+Neler olup bittiğinden en ufak bir
+fikrimiz yok, değil mi.
+
+
+1415
+01:22:27.647 --> 01:22:30.063
+Lee en az iki buçuk puan geride.
+
+1416
+01:22:35.313 --> 01:22:40.438
+Lee kavanoza dokunuyor.
+Sanırım çekilmeyi düşünüyor.
+
+
+1417
+01:22:52.563 --> 01:22:54.272
+Çekildi.
+
+1418
+01:22:55.897 --> 01:22:57.230
+Sanırım çekildi.
+
+1419
+01:23:04.772 --> 01:23:06.355
+Aja rahatlamış görünüyor.
+
+1420
+01:23:08.313 --> 01:23:12.480
+Evet, pes etti. Buraya kadar.
+
+1421
+01:23:24.730 --> 01:23:28.772
+- Bence bu gerçekten tüm hayatın boyunca
+bir kez şahit olabileceğin bir şey.
+
+
+1422
+01:23:28.813 --> 01:23:33.355
+Bu bence deneyimlediğim
+en muhteşem şeydi.
+
+
+1423
+01:23:33.397 --> 01:23:36.522
+Biliyorsunuz, bizim için bu
+
+1424
+01:23:36.563 --> 01:23:39.938
+- Bu sâfi bir araştırma
+girişimi olarak başladı.
+
+
+1425
+01:23:39.980 --> 01:23:41.397
+Biz sadece nöral ağların Go oyununu
+
+1426
+01:23:41.438 --> 01:23:43.480
+oynayıp oynayamayacağını
+anlamak istedik.
+
+
+1427
+01:23:43.480 --> 01:23:44.813
+Ve, oradan, hiç ummadığım
+
+1428
+01:23:44.813 --> 01:23:47.772
+bir seviyeye ulaştı.
+
+1429
+01:23:49.522 --> 01:23:52.730
+Ve ben takımla inanılmaz
+derecede gururluyum.
+
+
+1430
+01:23:53.855 --> 01:23:56.522
+- Yapay zeka ile çalışmaya
+başladığımda,
+
+
+1431
+01:23:56.563 --> 01:23:58.688
+bundan dört ya da beş yıl önceydi
+
+1432
+01:23:58.730 --> 01:24:00.772
+ve ben bununla gerçekten ilgiliydim.
+
+1433
+01:24:00.813 --> 01:24:02.772
+Ama birçok kişi beni
+yolumdan etmeye çalıştı.
+
+
+1434
+01:24:02.813 --> 01:24:04.647
+Bu alanda gelecek
+olmadığını söylediler.
+
+
+1435
+01:24:04.688 --> 01:24:08.272
+Yani aslında beş yıl içinde bu noktada
+
+1436
+01:24:08.272 --> 01:24:11.772
+olduğumuzu görmek gerçekten
+kendi başına inanılmaz.
+
+
+1437
+01:24:11.813 --> 01:24:16.188
+- Herkes söylesin,
+
+1438
+01:24:17.022 --> 01:24:19.022
+- İnsanların yapabileceklerinden
+farklı bir boyuttaki yaratıcılığın,
+
+
+1439
+01:24:19.063 --> 01:24:22.355
+bizim için son derece
+değerli olabileceği
+
+
+1440
+01:24:22.355 --> 01:24:25.188
+pek çok olası uygulama alanı vardır.
+
+1441
+01:24:25.230 --> 01:24:27.188
+Ve bu anlardan payıma düşen
+daha fazlasını yaşamayı isterim
+
+
+1442
+01:24:27.188 --> 01:24:28.772
+öyle ki geriye dönüp baktığımızda
+evet, bu
+
+
+1443
+01:24:28.813 --> 01:24:30.230
+tam anlamıyla 37inci hamle
+gibiydi diyelim.
+
+
+1444
+01:24:30.230 --> 01:24:32.522
+Orada çok güzel birşey gerçekleşti.
+
+1445
+01:24:32.563 --> 01:24:36.188
+- En azından kabaca, 37inci hamle
+
+1446
+01:24:36.230 --> 01:24:39.438
+bu Lee Sedol'e yeni bir
+bakış açıcı kazandırdı,
+
+
+1447
+01:24:39.480 --> 01:24:42.230
+oyunu yeni bir şekilde
+görmesini sağladı.
+
+
+1448
+01:24:42.272 --> 01:24:45.188
+Bu makina ile kendini geliştirdi.
+
+1449
+01:24:46.313 --> 01:24:49.022
+Bu cansız yaratıkla oynadıktan sonra
+
+1450
+01:24:49.063 --> 01:24:51.813
+bir anlamda insanlığı genişledi.
+
+1451
+01:24:51.855 --> 01:24:55.188
+Ve umudumuz şudur ki bu makina,
+
+1452
+01:24:55.230 --> 01:24:58.272
+özelinde, arkasındaki teknoloji,
+
+1453
+01:24:58.313 --> 01:24:59.772
+her birimiz için aynı
+etkiyi sağlayacaktır.
+
+
+1454
+01:25:00.938 --> 01:25:03.188
+- Kasparov'un bir konuşmasında şöyle
+
+1455
+01:25:03.230 --> 01:25:04.730
+dediğini anımsıyorum,
+
+1456
+01:25:05.063 --> 01:25:09.397
+"İyi bir insan, artı bir makina
+en iyi kombinasyondur."
+
+
+1457
+01:25:10.355 --> 01:25:12.522
+Bu eşsiz bir deneyim.
+
+1458
+01:25:13.813 --> 01:25:17.897
+AlphaGo'yle böyle beş oyun oynamayı
+başka kimse deneyimleyemeyecek.
+
+
+1459
+01:25:18.272 --> 01:25:23.647
+Umarım Lee Sedol bu beş oyundan
+kendine bir şeyler katmıştır.
+
+
+1460
+01:25:23.938 --> 01:25:25.897
+Belki oyununu geliştirmiştir.
+
+1461
+01:25:27.105 --> 01:25:29.897
+Bugün ona baktığımda sürekli
+savaşıyordu.
+
+
+1462
+01:25:31.522 --> 01:25:34.772
+O çok iyi. Büyük bir usta.
+
+1463
+01:25:36.938 --> 01:25:40.688
+Bu deneyim beni geliştirdi.
+
+1464
+01:25:40.855 --> 01:25:45.147
+Buradan bazı dersler çıkaracağım.
+
+1465
+01:25:46.313 --> 01:25:54.022
+Minettar hissediyorum. Sanki yeniden
+Go oynamak için bir sebep bulmuş gibiyim.
+
+
+1466
+01:25:55.272 --> 01:26:00.772
+Go oynamayı öğrenmenin doğru bir
+karar olduğunu fark ettim.
+
+
+1467
+01:26:01.105 --> 01:26:06.813
+Unutulmaz bir deneyimdi.
+
+1468
+01:26:10.438 --> 01:26:16.230
+Bu etkinlik bitti. Ama bildiğimiz
+kadarıyla, bu sadece bir başlangıç olabilir.
+
+
+1469
+01:26:20.855 --> 01:26:26.105
+AlphaGo'yla oynadığımda bana bir şey
+gösterince, çok iyi hissediyorum.
+
+
+1470
+01:26:27.647 --> 01:26:31.647
+Her şeyden önce dünyaya
+farklı gözle bakıyorum.
+
+
+1471
+01:26:33.272 --> 01:26:36.688
+Go oyununun içindeki
+gerçek şey nedir?
+
+
+1472
+01:26:37.397 --> 01:26:40.355
+Bununla beraber, oyunumda bazı
+değişiklikler yapacağım.
+
+
+1473
+01:26:43.938 --> 01:26:47.897
+Belki de insanlara daha önce
+görmediğimiz bir şey gösterir.
+
+
+1474
+01:26:49.647 --> 01:26:51.563
+Belki de o şey çok güzeldir.
+
+1475
+01:27:01.313 --> 01:27:10.605
+Maçtan iki ay sonra, Lee Sedol
+oynadığı tüm turnuvaları kazandı.
+
+
+1476
+01:27:12.105 --> 01:27:17.855
+AlphaGo'yla çalıştıktan sonra, Fan
+Hui 2016 Avrupa Profesyonel Go şampiyonu oldu.
+
+
+1477
+01:27:20.188 --> 01:27:26.188
+Yeni oyuncular bu oyunu keşfedince,
+Go tahtaları dünya çapında tükendi.

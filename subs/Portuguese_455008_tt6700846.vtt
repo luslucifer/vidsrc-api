@@ -1,0 +1,7705 @@
+WEBVTT
+
+1
+00:00:18.874 --> 00:00:22.461
+<i>É intensamente contemplativo.</i>
+
+2
+00:00:26.214 --> 00:00:29.009
+<i>É quase hipnótico.</i>
+
+3
+00:00:32.888 --> 00:00:38.393
+<i>É como pôr a mão
+no terceiro carril do universo.</i>
+
+
+4
+00:00:39.853 --> 00:00:41.104
+Se jogarem Go de forma séria...
+
+5
+00:00:41.188 --> 00:00:42.689
+DIRETOR, CENTRO DE JOGOS NYU
+
+6
+00:00:42.772 --> 00:00:46.193
+... é possível que sejam expostos
+
+7
+00:00:46.276 --> 00:00:50.238
+a esta experiência que...
+
+8
+00:00:51.156 --> 00:00:53.992
+<i>... é distinta de
+tudo o resto no planeta.</i>
+
+9
+00:00:54.868 --> 00:00:56.828
+<i>Go coloca-nos numa situação</i>
+
+10
+00:00:56.912 --> 00:01:01.291
+<i>em que estamos sempre
+nos confins mais distantes</i>
+
+
+11
+00:01:01.374 --> 00:01:02.667
+<i>das nossas capacidades.</i>
+
+12
+00:01:04.419 --> 00:01:06.505
+<i>Há uma razão para as pessoas jogarem Go</i>
+
+13
+00:01:06.588 --> 00:01:08.298
+<i>há muitos milhares de anos, certo?</i>
+
+14
+00:01:09.633 --> 00:01:11.760
+<i>Não querem apenas compreender o Go.</i>
+
+15
+00:01:13.011 --> 00:01:16.473
+<i>Querem compreender o que é a compreensão.</i>
+
+16
+00:01:18.141 --> 00:01:21.770
+<i>E talvez esse seja verdadeiramente
+o significado de ser humano.</i>
+
+
+17
+00:01:24.147 --> 00:01:26.691
+COFUNDADOR E CEO, DEEPMIND
+
+18
+00:01:26.775 --> 00:01:29.319
+<i>Em miúdo, adorava jogar.</i>
+
+19
+00:01:30.403 --> 00:01:33.114
+<i>Comecei com jogos como xadrez.</i>
+
+20
+00:01:33.198 --> 00:01:34.074
+UNIVERSIDADE DE OXFORD
+
+21
+00:01:34.157 --> 00:01:36.701
+<i>E comprei o meu primeiro computador
+quando tinha oito anos,</i>
+
+
+22
+00:01:36.785 --> 00:01:38.495
+<i>com dinheiro de um torneio de xadrez.</i>
+
+23
+00:01:39.788 --> 00:01:42.415
+<i>Desde então, senti que os computadores</i>
+
+24
+00:01:42.499 --> 00:01:46.711
+<i>eram aparelhos mágicos
+que podiam expandir o poder da mente.</i>
+
+
+25
+00:01:49.130 --> 00:01:51.049
+<i>Achamos que ambientes virtuais e jogos</i>
+
+26
+00:01:51.591 --> 00:01:55.345
+<i>são a plataforma perfeita
+para criar e testar algoritmos de IA.</i>
+
+
+27
+00:01:56.137 --> 00:01:59.641
+Os jogos são muito convenientes,
+já que muitos têm pontuações
+
+
+28
+00:01:59.724 --> 00:02:02.727
+e é muito fácil medir a progressão.
+
+29
+00:02:03.103 --> 00:02:07.107
+Vou mostrar-vos alguns vídeos
+do sistema multiagente, a IA.
+
+
+30
+00:02:07.190 --> 00:02:08.733
+Vamos começar pelo <i>Breakout.</i>
+
+31
+00:02:09.150 --> 00:02:11.111
+Controlamos o taco e a bola
+
+32
+00:02:11.194 --> 00:02:13.405
+e tentamos abrir caminho
+por entre a parede colorida.
+
+
+33
+00:02:14.030 --> 00:02:16.741
+O sistema multiagente
+tem de aprender tudo sozinho
+
+
+34
+00:02:16.825 --> 00:02:18.285
+a partir de pixels em bruto.
+
+35
+00:02:18.368 --> 00:02:20.036
+Não sabe o que está a controlar.
+
+36
+00:02:20.120 --> 00:02:22.747
+Nem sabe qual é o objetivo do jogo.
+
+37
+00:02:22.831 --> 00:02:26.710
+Ao fim de 100 jogos,
+vê-se que o agente não é muito bom.
+
+
+38
+00:02:26.793 --> 00:02:28.211
+Perde quase sempre a bola.
+
+39
+00:02:28.295 --> 00:02:30.463
+Mas começa a perceber a ideia
+
+40
+00:02:30.672 --> 00:02:32.382
+de que o taco
+vai na direção da bola.
+
+41
+00:02:33.258 --> 00:02:34.843
+Ao fim de 300 jogos,
+
+42
+00:02:34.926 --> 00:02:37.220
+é tão bom como qualquer humano
+
+43
+00:02:37.304 --> 00:02:39.389
+e acerta quase sempre na bola.
+
+44
+00:02:39.472 --> 00:02:40.891
+Pensámos: "É muito interessante."
+
+45
+00:02:40.974 --> 00:02:43.727
+Mas deixámos o sistema fazer
+mais 200 jogos
+
+
+46
+00:02:43.810 --> 00:02:45.020
+e ele fez isto.
+
+47
+00:02:45.103 --> 00:02:48.440
+Descobriu que a melhor estratégia
+era abrir um túnel de lado
+
+
+48
+00:02:48.523 --> 00:02:50.859
+e colocar a bola atrás da parede.
+
+49
+00:02:50.942 --> 00:02:53.778
+Os investigadores que trabalham nisto,
+os criadores incríveis de IA,
+
+
+50
+00:02:53.862 --> 00:02:57.073
+não são bons a jogar <i>Breakout</i>
+e não sabiam desta estratégia.
+
+
+51
+00:02:57.157 --> 00:02:58.950
+Aprenderam algo com o seu próprio sistema,
+
+52
+00:02:59.034 --> 00:03:01.578
+o que é muito engraçado e instrutivo
+
+53
+00:03:01.661 --> 00:03:04.414
+sobre o potencial da IA em geral.
+
+54
+00:03:04.873 --> 00:03:07.125
+E qual é o próximo passo para nós?
+
+55
+00:03:07.208 --> 00:03:10.712
+Go é o jogo mais complexo
+que foi inventado até hoje.
+
+
+56
+00:03:10.795 --> 00:03:12.631
+Vencer um jogador profissional de Go
+
+57
+00:03:12.714 --> 00:03:16.134
+é um longo desafio de pesquisa em IA.
+
+58
+00:03:27.646 --> 00:03:31.274
+CAMPEÃO EUROPEU DE GO
+
+59
+00:03:33.193 --> 00:03:36.529
+BORDÉUS, FRANÇA
+
+60
+00:03:39.824 --> 00:03:41.618
+Queres mesmo matar-me?
+
+61
+00:03:42.160 --> 00:03:44.829
+Não quero, mas estou a tentar sobreviver.
+
+62
+00:03:44.913 --> 00:03:46.289
+Sim, é isso.
+
+63
+00:03:46.373 --> 00:03:48.124
+<i>Sou jogador profissional de Go.</i>
+
+64
+00:03:48.208 --> 00:03:49.834
+<i>E também sou campeão europeu.</i>
+
+65
+00:03:50.460 --> 00:03:53.546
+Com essa jogada, vais morrer de certeza.
+
+66
+00:03:53.630 --> 00:03:56.341
+Querias vencer-me,
+mas depois entraste em pânico.
+
+
+67
+00:03:56.841 --> 00:04:00.053
+Tens medo que a vitória te fuja.
+
+68
+00:04:00.136 --> 00:04:03.723
+Por regra, quando tens medo,
+a vitória foge-te sempre.
+
+
+69
+00:04:05.976 --> 00:04:07.227
+<i>Eu nasci na China.</i>
+
+70
+00:04:07.894 --> 00:04:11.106
+<i>Aos 18 anos, queria mudar a minha vida.</i>
+
+71
+00:04:11.648 --> 00:04:13.400
+<i>Foi por isso que fui para França.</i>
+
+72
+00:04:14.317 --> 00:04:16.736
+<i>Queria tentar esquecer o Go.</i>
+
+73
+00:04:18.154 --> 00:04:19.531
+<i>Mas era impossível.</i>
+
+74
+00:04:20.115 --> 00:04:24.202
+<i>Porque tudo o que aprendi na vida
+foi através do Go.</i>
+
+
+75
+00:04:25.286 --> 00:04:26.663
+<i>É como um espelho.</i>
+
+76
+00:04:27.455 --> 00:04:30.792
+<i>Quando vejo o Go, vejo-me a mim.</i>
+
+77
+00:04:32.502 --> 00:04:34.629
+<i>Para mim, o Go é a vida real.</i>
+
+78
+00:04:40.468 --> 00:04:41.678
+<i>Caro Sr. Fan.</i>
+
+79
+00:04:42.053 --> 00:04:43.680
+<i>Chamo-me Demis Hassabis.</i>
+
+80
+00:04:44.222 --> 00:04:45.056
+LONDRES, REINO UNIDO
+
+81
+00:04:45.140 --> 00:04:48.643
+<i>Tenho uma empresa de IA
+sedeada em Londres, chamada DeepMind.</i>
+
+
+82
+00:04:49.519 --> 00:04:51.521
+<i>Sendo o melhor jogador de Go da Europa,</i>
+
+83
+00:04:51.604 --> 00:04:54.149
+<i>gostaríamos de o convidar
+para vir a Londres</i>
+
+
+84
+00:04:54.232 --> 00:04:56.651
+<i>para o conhecer pessoalmente
+e para partilhar consigo</i>
+
+
+85
+00:04:56.735 --> 00:04:59.070
+<i>um projeto de Go emocionante
+em que estamos a trabalhar.</i>
+
+
+86
+00:05:00.113 --> 00:05:02.032
+<i>Se estiver interessado em visitar-nos,</i>
+
+87
+00:05:02.115 --> 00:05:03.241
+<i>por favor, informe-nos.</i>
+
+88
+00:05:04.034 --> 00:05:07.037
+<i>Muito obrigado. Cumprimentos, Demis.</i>
+
+89
+00:05:08.496 --> 00:05:10.415
+<i>Quando vi este</i> email,
+
+90
+00:05:10.498 --> 00:05:12.792
+<i>não sabia se era verdade ou não.</i>
+
+91
+00:05:14.169 --> 00:05:16.296
+<i>Vou aceitar. 
+Porque não?</i>
+
+92
+00:05:18.214 --> 00:05:20.133
+<i>Para mim, tudo é uma aventura.</i>
+
+93
+00:05:21.801 --> 00:05:23.428
+<i>Quero ir visitar a DeepMind</i>
+
+94
+00:05:23.511 --> 00:05:27.974
+<i>para saber que projeto de Go é este.</i>
+
+95
+00:05:31.811 --> 00:05:34.773
+<i>Na primeira visita,
+pensei que talvez quisessem</i>
+
+
+96
+00:05:34.856 --> 00:05:36.691
+<i>que me sentasse numa sala especial,</i>
+
+97
+00:05:36.775 --> 00:05:39.402
+<i>com fios ligados à mão</i>
+
+98
+00:05:39.819 --> 00:05:41.279
+<i>e ao corpo,</i>
+
+99
+00:05:41.362 --> 00:05:44.574
+e me deixassem jogar
+para analisarem o meu cérebro.
+
+
+100
+00:05:45.241 --> 00:05:46.284
+Não sei,
+
+101
+00:05:46.993 --> 00:05:48.203
+para investigarem algo.
+
+102
+00:05:49.204 --> 00:05:51.331
+<i>Tínhamos de trazer o Fan Hui à DeepMind</i>
+
+103
+00:05:51.414 --> 00:05:54.834
+para ele ver que era uma empresa séria
+e que éramos pessoas sérias...
+
+
+104
+00:05:55.794 --> 00:05:56.836
+... a fazer investigação.
+
+105
+00:05:58.546 --> 00:06:00.215
+E o tempo de pesquisa está a melhorar
+
+106
+00:06:00.298 --> 00:06:03.218
+quando vamos, por exemplo,
+de um a oito em qualquer um destes,
+
+
+107
+00:06:03.301 --> 00:06:05.053
+sobe sempre.
+
+108
+00:06:05.512 --> 00:06:07.388
+<i>Vemos a DeepMind</i>
+
+109
+00:06:07.472 --> 00:06:10.266
+<i>como uma espécie de programa Apollo
+para a Inteligência Artificial.</i>
+
+
+110
+00:06:11.226 --> 00:06:14.479
+<i>Fundamentalmente, a nossa missão
+é compreender a inteligência</i>
+
+
+111
+00:06:14.562 --> 00:06:16.231
+<i>e recriá-la artificialmente.</i>
+
+112
+00:06:16.564 --> 00:06:17.774
+<i>Depois de fazermos isso,</i>
+
+113
+00:06:17.857 --> 00:06:21.319
+podemos usar essa tecnologia
+para ajudar a sociedade
+
+
+114
+00:06:21.402 --> 00:06:23.404
+<i>a desenvolver todo o tipo de problemas.</i>
+
+115
+00:06:23.488 --> 00:06:24.864
+Se percorrermos o jogo,
+
+116
+00:06:24.948 --> 00:06:27.534
+podemos ver como o AlphaGo pensa,
+
+117
+00:06:27.617 --> 00:06:30.703
+qual é a variação mais provável
+que pensa que vai acontecer.
+
+
+118
+00:06:30.787 --> 00:06:32.622
+<i>Estamos a trabalhar no AlphaGo,</i>
+
+119
+00:06:32.705 --> 00:06:36.000
+<i>o nosso programa para jogar Go,
+há pouco menos de dois anos.</i>
+
+
+120
+00:06:36.543 --> 00:06:38.670
+Os padrões caem em cascata,
+
+121
+00:06:38.753 --> 00:06:40.880
+camada após camada.
+
+122
+00:06:41.631 --> 00:06:44.425
+Comecei a falar sobre o Go com o Demis
+há mais de 20 anos.
+
+
+123
+00:06:44.509 --> 00:06:45.927
+INVESTIGADOR PRINCIPAL
+
+124
+00:06:46.052 --> 00:06:48.555
+<i>E tem sido uma viagem muito longa.</i>
+
+125
+00:06:48.638 --> 00:06:52.058
+<i>Go é o Santo Graal
+da inteligência artificial.</i>
+
+
+126
+00:06:52.141 --> 00:06:54.394
+<i>Durante muitos anos,
+as pessoas olharam para este jogo</i>
+
+
+127
+00:06:54.477 --> 00:06:57.105
+<i>e pensaram: "Isto é demasiado difícil."</i>
+
+128
+00:06:57.188 --> 00:06:59.190
+<i>Tudo o que já tentámos em IA</i>
+
+129
+00:06:59.274 --> 00:07:01.442
+<i>cai simplesmente
+quando tentamos o jogo Go.</i>
+
+
+130
+00:07:01.526 --> 00:07:04.904
+<i>E é por isso que parece
+um teste decisivo de progresso.</i>
+
+
+131
+00:07:04.988 --> 00:07:07.824
+<i>Se decifrarmos o Go,
+sabemos que fizemos algo especial.</i>
+
+
+132
+00:07:09.909 --> 00:07:13.872
+<i>Com o Fan Hui, começámos a falar
+sobre o verdadeiro objetivo da visita.</i>
+
+
+133
+00:07:13.955 --> 00:07:16.624
+<i>Não queríamos apenas
+a ajuda dele no projeto Go.</i>
+
+
+134
+00:07:16.708 --> 00:07:20.211
+Queríamos jogar contra ele
+e tínhamos um programa muito forte.
+
+
+135
+00:07:20.295 --> 00:07:21.921
+Tudo bem, é só um programa.
+
+136
+00:07:22.005 --> 00:07:22.964
+É tão fácil.
+
+137
+00:07:23.590 --> 00:07:24.966
+Será um jogo fácil.
+
+138
+00:07:25.425 --> 00:07:27.802
+<i>Muita gente pensou que faltariam décadas.</i>
+
+139
+00:07:27.886 --> 00:07:29.262
+<i>Outros, que nunca aconteceria.</i>
+
+140
+00:07:29.345 --> 00:07:31.097
+COFUNDADOR E CIENTISTA PRINCIPAL
+
+141
+00:07:31.181 --> 00:07:34.934
+Achavam que, para vencer no Go,
+era necessária a intuição humana.
+
+
+142
+00:07:36.144 --> 00:07:39.355
+Go é o jogo de tabuleiro
+mais antigo do mundo.
+
+
+143
+00:07:39.439 --> 00:07:40.481
+PROFISSIONAL DE GO
+
+144
+00:07:40.565 --> 00:07:41.941
+<i>E, em certa medida,</i>
+
+145
+00:07:42.025 --> 00:07:46.154
+<i>é um dos mais simples e mais abstratos.</i>
+
+146
+00:07:46.863 --> 00:07:49.115
+Só há um tipo de peça,
+só há um tipo de jogada
+
+
+147
+00:07:49.199 --> 00:07:50.783
+e colocamos essa peça no tabuleiro.
+
+148
+00:07:51.284 --> 00:07:56.539
+<i>Depois, o objetivo é criar
+um grupo de peças interligadas</i>
+
+
+149
+00:07:56.623 --> 00:07:58.374
+<i>que rodeiam território vazio.</i>
+
+150
+00:07:59.042 --> 00:08:01.753
+<i>Quando rodeamos peças inimigas,</i>
+
+151
+00:08:01.836 --> 00:08:04.297
+<i>capturamo-las e retiramo-las do tabuleiro.</i>
+
+152
+00:08:05.298 --> 00:08:07.592
+<i>Ganhamos pontos ao rodear territórios.</i>
+
+153
+00:08:07.675 --> 00:08:11.804
+<i>No fim do jogo,
+vence a pessoa com mais territórios.</i>
+
+
+154
+00:08:11.888 --> 00:08:12.805
+183 PONTOS - 181 PONTOS
+
+155
+00:08:12.889 --> 00:08:14.849
+<i>Parece muito simples,</i>
+
+156
+00:08:14.933 --> 00:08:17.810
+<i>mas sentamo-nos a jogar
+e percebemos imediatamente:</i>
+
+
+157
+00:08:17.894 --> 00:08:21.147
+"Eu sei o que posso fazer,
+
+158
+00:08:21.231 --> 00:08:23.024
+<i>mas não faço ideia do que devo fazer."</i>
+
+159
+00:08:23.107 --> 00:08:25.735
+<i>Go é um desafio incrível
+para os computadores</i>
+
+
+160
+00:08:25.818 --> 00:08:27.862
+<i>porque, em comparação ao xadrez,</i>
+
+161
+00:08:27.946 --> 00:08:30.990
+<i>o número de movimentos possíveis
+em cada posição é muito maior.</i>
+
+
+162
+00:08:31.074 --> 00:08:32.533
+<i>No xadrez, são cerca de 20.</i>
+
+163
+00:08:32.617 --> 00:08:34.452
+<i>No Go, são cerca de 200.</i>
+
+164
+00:08:34.535 --> 00:08:37.413
+<i>E o número
+de configurações possíveis do tabuleiro</i>
+
+
+165
+00:08:37.497 --> 00:08:39.958
+<i>é superior
+ao número de átomos no universo.</i>
+
+
+166
+00:08:40.041 --> 00:08:42.543
+<i>Mesmo com todos os computadores do mundo</i>
+
+167
+00:08:42.627 --> 00:08:44.045
+a trabalhar um milhão de anos,
+
+168
+00:08:44.128 --> 00:08:48.049
+não seria possível calcular
+todas as variáveis possíveis.
+
+
+169
+00:08:48.591 --> 00:08:52.178
+<i>Se perguntarem a um jogador
+porque fez determinada jogada,</i>
+
+
+170
+00:08:52.262 --> 00:08:54.847
+<i>por vezes dizem que lhes pareceu
+o mais adequado.</i>
+
+
+171
+00:08:54.931 --> 00:08:57.725
+<i>Temos de criar um algoritmo inteligente</i>
+
+172
+00:08:57.809 --> 00:09:00.561
+<i>para imitar o que as pessoas fazem
+com a intuição.</i>
+
+
+173
+00:09:01.896 --> 00:09:03.815
+<i>- Muito prazer.</i>
+- Olá. Muito prazer.
+
+
+174
+00:09:03.898 --> 00:09:07.068
+<i>Com o Fan Hui, acordámos fazer
+um torneio à melhor de cinco.</i>
+
+
+175
+00:09:07.151 --> 00:09:09.237
+<i>E acordámos que seria filmado.</i>
+
+176
+00:09:09.320 --> 00:09:11.155
+<i>Iríamos tratar aquilo como um jogo sério.</i>
+
+177
+00:09:13.825 --> 00:09:15.576
+<i>Eu joguei contra o AlphaGo.</i>
+
+178
+00:09:15.660 --> 00:09:18.579
+<i>O Aja Huang movia as peças pelo AlphaGo.</i>
+
+179
+00:09:19.122 --> 00:09:22.208
+<i>E é claro que eu pensava
+que venceria o jogo contra o AlphaGo</i>
+
+
+180
+00:09:22.292 --> 00:09:23.793
+<i>porque era só um programa.</i>
+
+181
+00:09:24.919 --> 00:09:25.795
+Bom jogo.
+
+182
+00:09:26.587 --> 00:09:27.463
+Tem um bom jogo.
+
+183
+00:09:31.175 --> 00:09:33.928
+<i>No primeiro jogo, cometi alguns erros</i>
+
+184
+00:09:34.012 --> 00:09:35.805
+<i>e perdi o jogo.</i>
+
+185
+00:09:37.307 --> 00:09:39.600
+Foi um jogo muito estranho.
+
+186
+00:09:40.059 --> 00:09:42.979
+<i>Naquele primeiro jogo,
+creio que ele se apercebeu</i>
+
+
+187
+00:09:43.062 --> 00:09:46.774
+que este não era
+um programa de Go normal.
+
+188
+00:09:46.858 --> 00:09:49.861
+Não estávamos a fazer
+o mesmo que os outros
+
+
+189
+00:09:49.944 --> 00:09:51.446
+e que algo novo estava a acontecer.
+
+190
+00:09:51.529 --> 00:09:54.157
+<i>No segundo jogo,
+tentei mudar o meu estilo.</i>
+
+
+191
+00:09:54.824 --> 00:09:57.994
+<i>Mas o problema
+é que também perdi o segundo jogo.</i>
+
+
+192
+00:09:58.077 --> 00:09:59.912
+<i>E também o terceiro,</i>
+
+193
+00:09:59.996 --> 00:10:01.122
+<i>o quarto</i>
+
+194
+00:10:01.622 --> 00:10:02.749
+<i>e até o último jogo.</i>
+
+195
+00:10:04.167 --> 00:10:06.336
+<i>Perdi cinco a zero.</i>
+
+196
+00:10:08.296 --> 00:10:09.839
+<i>O AlphaGo venceu todos os jogos.</i>
+
+197
+00:10:10.548 --> 00:10:12.216
+<i>Após perder consecutivamente...</i>
+
+198
+00:10:12.300 --> 00:10:13.593
+PROGRAMADOR PRINCIPAL
+
+199
+00:10:13.676 --> 00:10:16.596
+... sentia-se que ele estava a sentir
+cada vez mais pressão.
+
+
+200
+00:10:17.180 --> 00:10:19.182
+<i>E por várias vezes após o jogo,</i>
+
+201
+00:10:19.265 --> 00:10:23.061
+<i>ele disse que queria sair para apanhar ar.</i>
+
+202
+00:10:23.603 --> 00:10:25.855
+Eu disse:
+"Posso ir contigo para conversarmos."
+
+
+203
+00:10:25.938 --> 00:10:27.398
+E ele: "Não, quero ir sozinho."
+
+204
+00:10:30.234 --> 00:10:33.112
+<i>Senti algo muito estranho.</i>
+
+205
+00:10:33.780 --> 00:10:35.073
+<i>Perdi contra um programa.</i>
+
+206
+00:10:35.782 --> 00:10:39.327
+<i>E já não me compreendia.</i>
+
+207
+00:10:43.456 --> 00:10:45.833
+<i>Estava preocupada se ele voltaria.</i>
+
+208
+00:10:45.917 --> 00:10:48.169
+<i>Ele parecia estar muito abatido</i>
+
+209
+00:10:48.252 --> 00:10:50.171
+<i>e esteve fora quase uma hora.</i>
+
+210
+00:10:50.254 --> 00:10:51.589
+GESTORA DE PROGRAMA
+
+211
+00:10:51.672 --> 00:10:52.882
+E voltou totalmente diferente.
+
+212
+00:10:52.965 --> 00:10:56.636
+<i>Disse à Maddy:
+"É a primeira vez na história</i>
+
+
+213
+00:10:56.719 --> 00:11:00.723
+<i>que um jogador profissional de Go
+perde com um programa."</i>
+
+
+214
+00:11:01.224 --> 00:11:03.059
+<i>Ela respondeu: "Sim, nós sabemos.</i>
+
+215
+00:11:03.142 --> 00:11:06.104
+Mas tu estás bem?"
+
+216
+00:11:06.813 --> 00:11:07.897
+Eu respondi:
+
+217
+00:11:09.649 --> 00:11:11.776
+"Não e sim."
+
+218
+00:11:12.443 --> 00:11:15.154
+Não me agrada perder um jogo,
+
+219
+00:11:15.613 --> 00:11:19.826
+mas estou muito feliz
+por jogar para fazer história.
+
+
+220
+00:11:21.994 --> 00:11:26.165
+Os investigadores de IA
+resolveram o jogo Go
+
+
+221
+00:11:26.249 --> 00:11:27.708
+uma década antes do previsto.
+
+222
+00:11:27.792 --> 00:11:29.627
+JORNAL SEMANAL DE CIÊNCIA
+
+223
+00:11:29.710 --> 00:11:30.753
+<i>O computador AlphaGo</i>
+
+224
+00:11:30.837 --> 00:11:32.421
+<i>venceu o campeão humano europeu.</i>
+
+225
+00:11:32.505 --> 00:11:33.381
+AlphaGo vence Fan Hui
+
+226
+00:11:33.464 --> 00:11:34.966
+<i>Investigadores de IA</i>
+
+227
+00:11:35.049 --> 00:11:36.926
+<i>conseguiram um feito significativo.</i>
+
+228
+00:11:37.009 --> 00:11:38.845
+<i>É realmente um grande avanço.</i>
+
+229
+00:11:38.928 --> 00:11:40.638
+ASTRÓNOMO REAL
+UNIVERSIDADE DE CAMBRIDGE
+
+
+230
+00:11:40.721 --> 00:11:44.142
+Há uma grande diferença entre a forma
+como o computador IBM venceu o Kasparov,
+
+
+231
+00:11:44.433 --> 00:11:46.978
+<i>que foi programado
+por jogadores de xadrez profissionais,</i>
+
+
+232
+00:11:47.061 --> 00:11:50.940
+e a forma como o computador de Go
+aprendeu mais ou menos sozinho.
+
+
+233
+00:11:51.023 --> 00:11:53.317
+Começámos a treinar o AlphaGo
+
+234
+00:11:53.401 --> 00:11:57.530
+mostrando-lhe 100 000 jogos
+disputados por amadores experientes
+
+
+235
+00:11:57.613 --> 00:11:59.198
+que descarregámos da Internet.
+
+236
+00:11:59.282 --> 00:12:02.910
+Inicialmente, conseguimos que o AlphaGo
+imitasse o jogador humano.
+
+
+237
+00:12:02.994 --> 00:12:05.246
+E contra ele próprio,
+por aprendizagem de reforço,
+
+
+238
+00:12:05.329 --> 00:12:08.166
+joga milhões de vezes
+contra diferentes versões de si próprio
+
+
+239
+00:12:08.249 --> 00:12:09.917
+e aprende com os erros.
+
+240
+00:12:10.001 --> 00:12:12.962
+As ideias específicas
+que guiam o AlphaGo...
+
+
+241
+00:12:13.045 --> 00:12:14.255
+ESCRITOR SÉNIOR, <i>WIRED</i>
+
+242
+00:12:14.338 --> 00:12:15.715
+... vão guiar o nosso futuro.
+
+243
+00:12:16.090 --> 00:12:18.551
+<i>As tecnologias no centro do AlphaGo</i>
+
+244
+00:12:18.634 --> 00:12:20.928
+<i>são aquilo a que se chama
+redes neurais profundas,</i>
+
+
+245
+00:12:21.012 --> 00:12:22.930
+<i>que basicamente imitam</i>
+
+246
+00:12:23.014 --> 00:12:25.141
+<i>a rede de neurónios no cérebro humano.</i>
+
+247
+00:12:25.224 --> 00:12:26.601
+<i>É uma ideia antiga,</i>
+
+248
+00:12:26.684 --> 00:12:30.438
+<i>mas recentemente,
+graças aos avanços na computação,</i>
+
+
+249
+00:12:30.521 --> 00:12:33.232
+<i>estas redes neurais
+tornaram-se extremamente poderosas</i>
+
+
+250
+00:12:33.316 --> 00:12:34.150
+<i>de repente.</i>
+
+251
+00:12:34.233 --> 00:12:36.068
+Grandes redes neurais...
+
+252
+00:12:36.152 --> 00:12:38.613
+PROFESSOR NO LABORATÓRIO INFORMÁTICO
+UNIVERSIDADE DE CAMBRIDGE
+
+
+253
+00:12:38.696 --> 00:12:39.822
+... fazem coisas admiráveis.
+
+254
+00:12:39.906 --> 00:12:42.033
+<i>O AlphaGo encontrou forma
+de aprender a jogar Go.</i>
+
+
+255
+00:12:42.116 --> 00:12:44.952
+<i>Aprender é o ponto-chave.
+É uma máquina a aprender.</i>
+
+
+256
+00:12:45.036 --> 00:12:47.079
+<i>A beleza deste tipo de algoritmos</i>
+
+257
+00:12:47.163 --> 00:12:48.998
+é que, como estão a aprender sozinhos,
+
+258
+00:12:49.081 --> 00:12:53.002
+<i>podem ir além do que nós,
+os programadores, sabemos fazer,</i>
+
+
+259
+00:12:53.085 --> 00:12:56.839
+<i>e isso permite-nos fazer avanços
+em áreas como a ciência ou a medicina.</i>
+
+
+260
+00:12:56.923 --> 00:13:01.719
+<i>Por isso, o AlphaGo é um passo importante
+na direção desse objetivo.</i>
+
+
+261
+00:13:11.395 --> 00:13:13.022
+<i>A minha esposa ligou-me.</i>
+
+262
+00:13:13.648 --> 00:13:16.609
+<i>Disse: "Não vejas o que está na Internet."</i>
+
+263
+00:13:16.692 --> 00:13:18.110
+<i>Não te ligues à Internet</i>
+
+264
+00:13:18.194 --> 00:13:20.613
+<i>porque estão a dizer coisas horríveis</i>
+
+265
+00:13:20.696 --> 00:13:22.782
+<i>sobre o teu jogo contra o AlphaGo.</i>
+
+266
+00:13:23.282 --> 00:13:26.244
+"O Fan Hui vive
+há tanto tempo na Europa
+
+267
+00:13:26.327 --> 00:13:28.829
+que já não é profissional.
+É só um jogador amador."
+
+
+268
+00:13:29.872 --> 00:13:32.416
+<i>Foi muito difícil para mim.</i>
+
+269
+00:13:34.293 --> 00:13:38.673
+O mundo de Go estava cético
+sobre o verdadeiro valor do AlphaGo
+
+
+270
+00:13:38.756 --> 00:13:42.009
+<i>e quanto mais tinha de melhorar
+para vencer os melhores profissionais.</i>
+
+
+271
+00:13:42.635 --> 00:13:45.304
+<i>O nosso programa
+está a melhorar com o tempo</i>
+
+
+272
+00:13:45.388 --> 00:13:48.182
+<i>e queremos levar
+o algoritmo de IA ao limite</i>
+
+
+273
+00:13:48.266 --> 00:13:51.852
+<i>e ver até que ponto este processo
+de autoaperfeiçoamento pode ir.</i>
+
+
+274
+00:13:52.603 --> 00:13:55.564
+<i>Por isso, precisávamos de procurar
+um desafio ainda maior.</i>
+
+
+275
+00:13:56.649 --> 00:14:00.361
+<i>Um desafio sem igual
+está prestes a acontecer na Coreia do Sul.</i>
+
+
+276
+00:14:00.444 --> 00:14:02.822
+<i>Se-dol Lee,
+campeão mundial de longa data...</i>
+
+
+277
+00:14:02.905 --> 00:14:04.240
+<i>Este tipo é um génio...</i>
+
+278
+00:14:04.323 --> 00:14:07.785
+<i>... que enfrentará
+o programa de IA AlphaGo</i>
+
+
+279
+00:14:07.868 --> 00:14:10.913
+<i>no derradeiro confronto
+homem contra máquina.</i>
+
+
+280
+00:14:10.997 --> 00:14:14.917
+<i>É um grande momento
+para o mundo da inteligência artificial</i>
+
+
+281
+00:14:15.001 --> 00:14:17.086
+<i>e, creio eu, para o mundo de Go.</i>
+
+282
+00:14:17.169 --> 00:14:20.840
+<i>Até agora, o AlphaGo venceu
+todos os desafios que lhe demos.</i>
+
+
+283
+00:14:20.923 --> 00:14:23.968
+<i>Mas só saberemos a sua verdadeira força
+quando jogarmos contra alguém</i>
+
+
+284
+00:14:24.051 --> 00:14:27.013
+<i>que seja o melhor do mundo,
+como o Se-dol Lee.</i>
+
+
+285
+00:14:27.096 --> 00:14:28.514
+<i>Escolhemos o Se-dol Lee</i>
+
+286
+00:14:28.598 --> 00:14:32.143
+<i>porque queríamos um jogador lendário.</i>
+
+287
+00:14:32.226 --> 00:14:35.605
+<i>Alguém que é reconhecido
+como o melhor jogador da última década.</i>
+
+
+288
+00:14:35.813 --> 00:14:39.567
+<i>Não quero parecer arrogante,</i>
+
+289
+00:14:39.650 --> 00:14:42.403
+<i>mas acho que tenho vantagem.</i>
+
+290
+00:14:42.528 --> 00:14:44.739
+<i>Não vou ser arrogante,</i>
+
+291
+00:14:44.822 --> 00:14:48.034
+<i>mas não creio que vá ser renhido.</i>
+
+292
+00:14:48.117 --> 00:14:52.580
+O nível do jogador
+que o AlphaGo defrontou em outubro
+
+
+293
+00:14:52.663 --> 00:14:54.123
+não é igual ao meu.
+
+294
+00:14:54.206 --> 00:14:57.585
+Tendo em conta
+que só passaram alguns meses,
+
+
+295
+00:14:57.668 --> 00:15:01.464
+não creio que tenha havido tempo
+para chegar ao meu nível.
+
+
+296
+00:15:01.547 --> 00:15:06.552
+<i>Conto que o resultado seja 5-0
+a meu favor, ou talvez 4-1.</i>
+
+
+297
+00:15:06.636 --> 00:15:10.473
+O mais importante para mim
+é garantir que não perco um.
+
+
+298
+00:15:11.057 --> 00:15:12.642
+<i>Dê cinco, por favor.</i>
+
+299
+00:15:13.643 --> 00:15:17.521
+<i>Não sabemos como o nosso sistema
+irá jogar contra alguém</i>
+
+
+300
+00:15:17.605 --> 00:15:19.649
+<i>tão criativo como o Se-dol Lee.</i>
+
+301
+00:15:19.732 --> 00:15:20.816
+Ele é famoso
+
+302
+00:15:20.900 --> 00:15:24.236
+pelas jogadas ofensivas muito criativas.
+- Sim.
+
+
+303
+00:15:24.320 --> 00:15:27.531
+Pode ser difícil para nós, mas vamos ver.
+
+304
+00:15:27.615 --> 00:15:28.449
+É possível
+
+305
+00:15:28.532 --> 00:15:30.368
+que ele seja o adversário mais difícil.
+
+306
+00:15:30.451 --> 00:15:31.285
+Sim.
+
+307
+00:15:31.369 --> 00:15:33.746
+<i>Ainda havia a dúvida</i>
+
+308
+00:15:33.829 --> 00:15:37.792
+<i>sobre se conseguiriam vencer
+alguém como o Se-dol Lee.</i>
+
+
+309
+00:15:38.292 --> 00:15:39.627
+<i>Fan Hui é um bom jogador,</i>
+
+310
+00:15:39.710 --> 00:15:42.922
+<i>mas não está ao nível
+dos jogadores de topo.</i>
+
+
+311
+00:15:43.005 --> 00:15:44.715
+<i>O Se-dol Lee é
+um profissional de 9º</i> dan.
+
+312
+00:15:44.799 --> 00:15:46.676
+VP OPERAÇÕES.
+ASSOCIAÇÃO AMERICANA DE GO
+
+
+313
+00:15:46.759 --> 00:15:49.011
+Profissional de nono<i>dan</i>
+é o nível mais alto possível.
+
+
+314
+00:15:49.095 --> 00:15:49.929
+<i>O</i>ranking.
+
+315
+00:15:51.055 --> 00:15:53.683
+<i>Fan Hui, o campeão europeu,
+tem apenas o 2º</i> dan.
+
+
+316
+00:15:54.684 --> 00:15:58.229
+<i>Por outro lado,
+Se-dol Lee é um profissional de 9º</i> dan.
+
+
+317
+00:15:59.230 --> 00:16:01.440
+O Se-dol Lee é no Go
+o que o Roger Federer é no ténis.
+
+
+318
+00:16:01.649 --> 00:16:03.567
+<i>Joga em Wimbledon
+para vencer o Grand Slam.</i>
+
+
+319
+00:16:03.651 --> 00:16:05.528
+<i>Não é apenas este ano.
+Estará lá para o ano</i>
+
+
+320
+00:16:05.611 --> 00:16:08.072
+e nos anos a seguir.
+
+321
+00:16:08.280 --> 00:16:10.825
+É claro que a Internet,
+
+322
+00:16:10.908 --> 00:16:14.078
+toda a comunidade Go, toda a gente,
+
+323
+00:16:15.162 --> 00:16:19.625
+talvez não 100 %, talvez 99,999 %,
+
+324
+00:16:19.709 --> 00:16:23.087
+pense que o Se-dol Lee vencerá facilmente.
+
+325
+00:16:23.170 --> 00:16:24.130
+SEUL, COREIA DO SUL
+
+326
+00:16:24.213 --> 00:16:26.215
+Professora, estou num impasse.
+
+327
+00:16:26.298 --> 00:16:27.591
+Como faço agora?
+
+328
+00:16:30.094 --> 00:16:31.846
+Boa. Segura bem a peça.
+
+329
+00:16:31.929 --> 00:16:34.557
+Pousa bem a peça. 
+Não faças assim.
+
+330
+00:16:34.640 --> 00:16:36.642
+E segura bem, assim.
+
+331
+00:16:37.977 --> 00:16:39.895
+<i>O Go é levado a sério na Coreia.</i>
+
+332
+00:16:40.146 --> 00:16:42.773
+<i>Faz parte da cultura, como respirar,</i>
+
+333
+00:16:42.857 --> 00:16:46.110
+<i>como as aulas de natação ou assim.</i>
+
+334
+00:16:46.777 --> 00:16:48.362
+<i>À superfície, é um jogo,</i>
+
+335
+00:16:48.446 --> 00:16:52.032
+<i>mas, por dentro,
+tem uma filosofia muito profunda.</i>
+
+
+336
+00:16:52.116 --> 00:16:54.869
+O tabuleiro de Go
+reflete a pessoa que está a jogar.
+
+
+337
+00:16:54.952 --> 00:16:55.953
+PROFISSIONAL DE GO
+
+338
+00:16:56.036 --> 00:16:58.164
+<i>A verdade revela-se no tabuleiro.</i>
+
+339
+00:16:58.247 --> 00:16:59.790
+<i>Não a poderão esconder.</i>
+
+340
+00:17:00.666 --> 00:17:03.919
+<i>Na China, Japão e Coreia antigos,</i>
+
+341
+00:17:04.003 --> 00:17:06.213
+<i>o Go é uma de quatro coisas nobres...</i>
+
+342
+00:17:06.297 --> 00:17:08.507
+PROFESSORA DE ESTUDOS BADUK
+UNIVERSIDADE DE MYONGJI
+
+
+343
+00:17:08.591 --> 00:17:11.051
+... quatro realizações para literatos,
+
+344
+00:17:11.469 --> 00:17:15.306
+<i>em conjunto com música, poesia e pintura.</i>
+
+345
+00:17:15.389 --> 00:17:18.976
+As pessoas acham que os jogadores de Go
+
+346
+00:17:19.059 --> 00:17:21.729
+são muito inteligentes e muito nobres.
+
+347
+00:17:21.812 --> 00:17:24.315
+Não faz mal perder,
+desde que dês o teu melhor.
+
+
+348
+00:17:24.398 --> 00:17:27.109
+Faz uma vénia ao adversário.
+
+349
+00:17:27.193 --> 00:17:29.278
+<i>O Mestre Kwon fundou esta escola</i>
+
+350
+00:17:29.361 --> 00:17:30.321
+para produzir...
+
+351
+00:17:30.404 --> 00:17:31.864
+SUBDIRETOR DA ESCOLA DE GO DE KIBA
+
+352
+00:17:31.947 --> 00:17:33.073
+... grandes jogadores.
+
+353
+00:17:33.616 --> 00:17:36.452
+<i>Quando o Se-dol Lee tinha oito anos,</i>
+
+354
+00:17:36.535 --> 00:17:38.788
+<i>tinha aulas aqui</i>
+
+355
+00:17:38.871 --> 00:17:42.082
+<i>das 9h às 21h, todos os dias,</i>
+
+356
+00:17:42.166 --> 00:17:44.335
+<i>e depois ficou com o Mestre Kwon.</i>
+
+357
+00:17:45.127 --> 00:17:47.963
+Lembro-me da cara dele
+e dos olhos castanhos escuros.
+
+
+358
+00:17:48.047 --> 00:17:49.465
+DIRETOS DA ESCOLA DE GO DE KIBA
+
+359
+00:17:50.216 --> 00:17:54.845
+<i>Como ele vinha de uma ilha,
+atraiu facilmente as atenções.</i>
+
+
+360
+00:17:55.346 --> 00:17:59.141
+Mas, ao contrário das outras crianças,
+
+361
+00:17:59.225 --> 00:18:01.894
+<i>os olhos dele brilhavam.</i>
+
+362
+00:18:01.977 --> 00:18:02.937
+7º CAMPEONATO MUNDIAL
+
+363
+00:18:03.020 --> 00:18:06.690
+<i>Lembro-me que o Se-dol Lee era uma criança</i>
+
+364
+00:18:06.774 --> 00:18:09.109
+<i>quando eu estudava o Go.</i>
+
+365
+00:18:09.193 --> 00:18:14.573
+<i>Era muito novo e rural o suficiente
+para pensar que a piza crescia em árvores.</i>
+
+
+366
+00:18:16.116 --> 00:18:17.034
+<i>Quando era pequeno...</i>
+
+367
+00:18:17.117 --> 00:18:18.619
+CAMPEÃO DE GO (18 TÍTULOS MUNDIAIS)
+
+368
+00:18:18.702 --> 00:18:20.412
+... comecei a jogar
+porque achava divertido
+
+
+369
+00:18:20.496 --> 00:18:21.831
+vencer rapazes mais velhos.
+
+370
+00:18:21.914 --> 00:18:25.376
+<i>Desde então, passou a ser
+uma espécie de criação minha.</i>
+
+
+371
+00:18:25.960 --> 00:18:28.087
+Quero que o meu estilo de Go
+seja algo diferente,
+
+
+372
+00:18:28.170 --> 00:18:29.380
+algo novo,
+
+373
+00:18:30.422 --> 00:18:32.049
+que seja meu.
+
+374
+00:18:33.884 --> 00:18:36.220
+Algo em que ninguém pensou antes.
+
+375
+00:18:36.887 --> 00:18:40.432
+<i>Se-dol Lee joga coisas interessantes,</i>
+
+376
+00:18:40.516 --> 00:18:43.185
+em que se sente que está
+para lá de vencer e perder.
+
+
+377
+00:18:43.269 --> 00:18:47.231
+<i>Ele quer fazer algo inovador
+ou que leve ao nível seguinte.</i>
+
+
+378
+00:18:47.314 --> 00:18:49.859
+É claro que cada jogador de Go
+estuda o jogo dele.
+
+
+379
+00:18:49.942 --> 00:18:51.151
+21º CAMPEONATO ASIAN TV
+
+380
+00:18:51.235 --> 00:18:53.988
+<i>Durante cerca de dez anos,
+ele dominou o mundo profissional do Go.</i>
+
+
+381
+00:18:54.071 --> 00:18:56.490
+<i>Venceu 18 campeonatos mundiais.</i>
+
+382
+00:18:56.574 --> 00:18:58.951
+<i>O Se-dol Lee é
+um dos génios do século.</i>
+
+383
+00:18:59.159 --> 00:19:01.620
+CERIMÓNIA DE ENTREGA DE PRÉMIOS
+DO CAMPEONATO DE GO DE 2012
+
+
+384
+00:19:01.704 --> 00:19:03.372
+<i>Olhando em retrospetiva,</i>
+
+385
+00:19:03.455 --> 00:19:05.708
+<i>estou orgulhoso dele.</i>
+
+386
+00:19:05.791 --> 00:19:08.794
+E também estou orgulhoso de mim.
+
+387
+00:19:10.421 --> 00:19:12.423
+<i>Sem dúvida que o Se-dol Lee
+vencerá por cinco a zero.</i>
+
+
+388
+00:19:12.506 --> 00:19:13.799
+SE DESEJARES VENCER, PERDERÁS
+
+389
+00:19:14.174 --> 00:19:15.759
+Sim, todos os jogos.
+
+390
+00:19:16.427 --> 00:19:17.928
+Ele vai vencer todos os jogos.
+
+391
+00:19:18.220 --> 00:19:19.054
+ESCRITÓRIOS
+
+392
+00:19:19.138 --> 00:19:21.849
+<i>Fizemos o jogo de avaliação
+a semana passada.</i>
+
+
+393
+00:19:21.932 --> 00:19:23.809
+Vencemos um jogo e perdemos outro.
+
+394
+00:19:23.893 --> 00:19:25.060
+E perdemos de uma forma
+
+395
+00:19:25.144 --> 00:19:26.729
+que nos teria feito parecer idiotas
+
+396
+00:19:26.812 --> 00:19:28.314
+se tivesse sido em público.
+
+397
+00:19:29.148 --> 00:19:31.358
+Significa que ainda há trabalho a fazer
+
+398
+00:19:31.442 --> 00:19:33.027
+e temos de levar isto muito a sério.
+
+399
+00:19:33.110 --> 00:19:35.404
+Há um risco muito grande
+
+400
+00:19:35.487 --> 00:19:38.157
+de podermos perder.
+
+401
+00:19:38.240 --> 00:19:41.911
+Não só isso, mas podemos perder
+de uma forma bastante ridícula.
+
+
+402
+00:19:41.994 --> 00:19:43.454
+- Sim.
+- Acho que...
+
+
+403
+00:19:44.079 --> 00:19:46.415
+Aja, queres falar
+daquilo que estás a tentar?
+
+
+404
+00:19:46.498 --> 00:19:47.750
+Estou a trabalhar muito.
+
+405
+00:19:51.587 --> 00:19:53.547
+<i>Estamos a trabalhar em permanência,</i>
+
+406
+00:19:53.631 --> 00:19:55.257
+<i>a treinar mais os algoritmos</i>
+
+407
+00:19:55.341 --> 00:19:57.343
+<i>e a tentar continuar a melhorar</i>
+
+408
+00:19:57.426 --> 00:19:59.678
+<i>até ao momento do jogo.</i>
+
+409
+00:19:59.762 --> 00:20:01.138
+<i>Nós reunimos na mesma equipa</i>
+
+410
+00:20:01.221 --> 00:20:03.766
+pessoas com competências distintas.
+
+411
+00:20:03.849 --> 00:20:07.645
+<i>Temos investigadores, engenheiros,
+tipos da avaliação.</i>
+
+
+412
+00:20:08.145 --> 00:20:10.064
+Referes-te ao que acontece
+se criar algo novo
+
+
+413
+00:20:10.147 --> 00:20:11.732
+que não estava no sistema?
+- Sim.
+
+
+414
+00:20:12.274 --> 00:20:13.359
+Não o veremos.
+
+415
+00:20:13.442 --> 00:20:14.443
+Vais ver.
+
+416
+00:20:14.526 --> 00:20:16.028
+- Está bem.
+- A primeira coisa...
+
+
+417
+00:20:16.111 --> 00:20:17.655
+Pensava que tínhamos a solução perfeita,
+
+418
+00:20:17.738 --> 00:20:19.406
+mas não é perfeita.
+- Sim.
+
+
+419
+00:20:20.032 --> 00:20:24.662
+<i>O Aja é o programador principal
+e criou o motor de busca original.</i>
+
+
+420
+00:20:24.745 --> 00:20:26.747
+<i>O Aja tem uma grande responsabilidade.</i>
+
+421
+00:20:26.830 --> 00:20:29.375
+<i>Ele é que estará diante do Se-dol Lee</i>
+
+422
+00:20:29.458 --> 00:20:32.836
+<i>e executará as jogadas do AlphaGo.</i>
+
+423
+00:20:32.920 --> 00:20:34.880
+<i>- Estou entusiasmado.
+- Sim?</i>
+
+
+424
+00:20:36.590 --> 00:20:38.968
+O Se-dol Lee é um grande jogador
+
+425
+00:20:39.051 --> 00:20:42.388
+e é uma honra jogar contra ele.
+
+426
+00:20:43.097 --> 00:20:45.766
+<i>Muitos amigos meus
+estão entusiasmados com o jogo.</i>
+
+
+427
+00:20:45.849 --> 00:20:49.144
+<i>Estão sempre a dizer-me
+que o mundo inteiro está a ver.</i>
+
+
+428
+00:20:49.228 --> 00:20:50.771
+<i>"Prepara o AlphaGo."</i>
+
+429
+00:20:51.772 --> 00:20:52.773
+<i>Olá.</i>
+
+430
+00:20:52.856 --> 00:20:54.316
+<i>Olá, Demis. 
+Consegues ouvir-nos?</i>
+
+431
+00:20:54.400 --> 00:20:55.734
+<i>Sim, consigo.</i>
+
+432
+00:20:55.818 --> 00:20:57.319
+Vocês ouvem-me bem?
+
+433
+00:20:57.403 --> 00:20:58.737
+<i>Sim. Perfeito.</i>
+
+434
+00:20:58.821 --> 00:21:00.739
+<i>Tinha curiosidade em conhecer</i>
+
+435
+00:21:00.823 --> 00:21:05.077
+<i>o criador extraordinário do AlphaGo.</i>
+
+436
+00:21:05.160 --> 00:21:06.537
+<i>É um grande prazer conhecer-te.</i>
+
+437
+00:21:06.620 --> 00:21:09.039
+Obrigado. Igualmente.
+
+438
+00:21:09.123 --> 00:21:11.625
+É um verdadeiro prazer conhecer-te.
+
+439
+00:21:11.709 --> 00:21:14.378
+Eu adoro o jogo Go. 
+Não sou muito bom.
+
+440
+00:21:14.461 --> 00:21:17.006
+Não sei se sabes,
+
+441
+00:21:17.089 --> 00:21:19.341
+mas temos uma coisa em comum.
+
+442
+00:21:19.425 --> 00:21:22.803
+Eu também treinei num jogo
+quando era jovem.
+
+
+443
+00:21:22.886 --> 00:21:26.181
+Quando era novo,
+era jogador profissional de xadrez.
+
+
+444
+00:21:26.265 --> 00:21:29.059
+<i>Ele disse que era
+jogador profissional de xadrez.</i>
+
+
+445
+00:21:29.143 --> 00:21:32.312
+Jogava pela equipa de Inglaterra
+
+446
+00:21:32.396 --> 00:21:36.358
+<i>e deixei de jogar
+quando tinha uns 14 anos. Fui...</i>
+
+
+447
+00:21:36.442 --> 00:21:39.903
+<i>Aos 13 anos, era o segundo jogador
+mais bem classificado do mundo.</i>
+
+
+448
+00:21:39.987 --> 00:21:44.992
+<i>Depois do jogo,
+gostaria de propor dar-te uma lição de Go</i>
+
+
+449
+00:21:45.075 --> 00:21:47.536
+<i>e tu dás-me uma lição de xadrez.</i>
+
+450
+00:21:47.619 --> 00:21:49.246
+- Sim.
+<i>- Que tal?</i>
+
+
+451
+00:21:49.329 --> 00:21:52.791
+Parece-me muito bem. 
+Seria uma honra.
+
+452
+00:21:52.875 --> 00:21:56.754
+<i>Não sei se posso fazer esta pergunta,</i>
+
+453
+00:21:56.837 --> 00:21:59.423
+<i>mas vi os jogos contra o Fan Hui</i>
+
+454
+00:21:59.506 --> 00:22:03.677
+<i>e não creio que tivesse
+o mesmo nível que jogar contra mim,</i>
+
+
+455
+00:22:03.761 --> 00:22:06.930
+<i>mas soube que está a ficar muito forte.</i>
+
+456
+00:22:07.014 --> 00:22:10.517
+<i>Posso perguntar quão mais forte ficou?</i>
+
+457
+00:22:13.604 --> 00:22:16.815
+Sim. É claro que não posso dizer muito,
+
+458
+00:22:16.899 --> 00:22:20.444
+mas ficou significativamente mais forte.
+
+459
+00:22:21.987 --> 00:22:24.948
+Com mais tempo,
+creio que a abordagem lógica
+
+
+460
+00:22:25.032 --> 00:22:28.160
+seria acompanhar a pesquisa local do Aja,
+
+461
+00:22:28.243 --> 00:22:29.995
+executar isso no AlphaGo...
+- Certo.
+
+
+462
+00:22:30.078 --> 00:22:31.497
+... gerar novos dados...
+- Exato.
+
+
+463
+00:22:31.580 --> 00:22:33.332
+... e repetir.
+- Sim.
+
+
+464
+00:22:33.415 --> 00:22:36.126
+Mas não temos tempo para isso.
+Temos de ser realistas.
+
+
+465
+00:22:36.210 --> 00:22:38.879
+<i>Percebemos que, se queríamos preparar-nos</i>
+
+466
+00:22:38.962 --> 00:22:42.299
+<i>para a gigantesca tarefa
+de defrontar o Se-dol Lee,</i>
+
+
+467
+00:22:42.382 --> 00:22:45.636
+<i>o melhor seria falar com um profissional</i>
+
+468
+00:22:45.719 --> 00:22:48.472
+<i>e não podíamos ter escolhido
+alguém melhor do que o Fan Hui.</i>
+
+
+469
+00:22:51.850 --> 00:22:54.561
+<i>Convidámo-lo como consultor</i>
+
+470
+00:22:54.645 --> 00:22:58.440
+<i>porque, durante o jogo,
+percebemos que ele é bem-disposto.</i>
+
+
+471
+00:22:58.524 --> 00:23:00.108
+- Bem-vindo de volta.
+- Muito obrigado.
+
+
+472
+00:23:00.192 --> 00:23:02.694
+<i>É valioso termos o Fan Hui connosco.</i>
+
+473
+00:23:02.778 --> 00:23:03.987
+Vamos por aqui.
+
+474
+00:23:05.614 --> 00:23:07.533
+Ele foi derrotado pelo AlphaGo,
+
+475
+00:23:07.616 --> 00:23:11.036
+mas teve uma atitude muito positiva
+e foi uma grande ajuda para nós.
+
+
+476
+00:23:12.204 --> 00:23:13.497
+<i>Quando o Demis me disse:</i>
+
+477
+00:23:13.580 --> 00:23:16.750
+<i>"Podes voltar para nos ajudares
+a tornar o AlphaGo mais forte?"</i>
+
+
+478
+00:23:17.876 --> 00:23:19.378
+<i>Senti respeito.</i>
+
+479
+00:23:20.254 --> 00:23:22.256
+<i>É claro que aceitei.</i>
+
+480
+00:23:24.383 --> 00:23:26.260
+<i>Joguei contra o AlphaGo</i>
+
+481
+00:23:26.343 --> 00:23:30.430
+<i>para perceber quais eram
+os seus pontos fortes</i>
+
+
+482
+00:23:30.514 --> 00:23:33.642
+<i>e as suas fraquezas.</i>
+
+483
+00:23:34.560 --> 00:23:35.769
+<i>Joguei de manhã,</i>
+
+484
+00:23:36.353 --> 00:23:37.437
+<i>de tarde,</i>
+
+485
+00:23:38.564 --> 00:23:39.523
+<i>a toda a hora.</i>
+
+486
+00:23:40.941 --> 00:23:42.526
+<i>E descobri uma coisa.</i>
+
+487
+00:23:43.569 --> 00:23:46.446
+<i>Descobri a grande fraqueza do AlphaGo.</i>
+
+488
+00:23:47.155 --> 00:23:48.365
+<i>A maior.</i>
+
+489
+00:23:49.157 --> 00:23:52.619
+Os super-heróis têm sempre
+um ponto fraco, não é?
+
+
+490
+00:23:52.703 --> 00:23:54.997
+<i>E o mesmo é válido para o AlphaGo.</i>
+
+491
+00:23:55.080 --> 00:23:59.418
+<i>É incrivelmente sobre-humano, no geral,</i>
+
+492
+00:23:59.501 --> 00:24:03.422
+mas tem fraquezas em algumas situações.
+
+493
+00:24:03.505 --> 00:24:06.508
+<i>Podemos imaginar um espaço
+com as coisas que sabe,</i>
+
+
+494
+00:24:06.592 --> 00:24:08.760
+<i>e sabe muito sobre essas coisas.</i>
+
+495
+00:24:08.844 --> 00:24:11.346
+Depois, há certos nódulos de conhecimento
+
+496
+00:24:11.430 --> 00:24:14.141
+dos quais tem pouca compreensão.
+
+497
+00:24:14.224 --> 00:24:16.310
+<i>E é difícil percebermos</i>
+
+498
+00:24:16.393 --> 00:24:18.437
+<i>quando vai entrar num desses nódulos.</i>
+
+499
+00:24:18.520 --> 00:24:20.772
+<i>Se entrar,
+pode tornar-se completamente delirante,</i>
+
+
+500
+00:24:20.856 --> 00:24:22.691
+<i>pensando que está vivo
+numa parte do tabuleiro,</i>
+
+
+501
+00:24:22.774 --> 00:24:24.818
+<i>quando está morto. 
+Ou vice-versa.</i>
+
+502
+00:24:25.235 --> 00:24:27.905
+Há um risco real de perdermos o jogo.
+
+503
+00:24:27.988 --> 00:24:29.031
+TRÊS DIAS PARA SEUL
+
+504
+00:24:29.114 --> 00:24:30.782
+<i>Toda a gente na equipa</i>
+
+505
+00:24:30.866 --> 00:24:33.744
+<i>tentou trabalhar mais
+para resolver o problema,</i>
+
+
+506
+00:24:33.827 --> 00:24:36.204
+<i>mas eu achei que seria difícil</i>
+
+507
+00:24:36.288 --> 00:24:38.165
+<i>ser resolvido rapidamente.</i>
+
+508
+00:24:38.248 --> 00:24:40.751
+Temos a versão 18 em preparação, certo?
+
+509
+00:24:41.168 --> 00:24:42.878
+Vamos usar a versão 18
+
+510
+00:24:42.961 --> 00:24:44.338
+se tiver melhorias significativas,
+
+511
+00:24:44.421 --> 00:24:45.255
+o que...
+- Se... Sim.
+
+
+512
+00:24:45.881 --> 00:24:49.343
+Temos de repetir os testes
+porque correram mal, infelizmente.
+
+
+513
+00:24:49.426 --> 00:24:52.971
+Estamos com um dia de atraso
+na nossa avaliação por causa disso.
+
+
+514
+00:24:53.639 --> 00:24:55.265
+<i>Se calhar, temos de ser realistas.</i>
+
+515
+00:24:55.349 --> 00:24:57.142
+Tentámos um monte de coisas
+
+516
+00:24:57.225 --> 00:24:59.519
+e chegámos ao ponto
+em que dissemos iríamos
+
+
+517
+00:24:59.603 --> 00:25:02.397
+começar a parar o código e dizer:
+
+518
+00:25:02.481 --> 00:25:06.777
+"Não está a resultar."
+
+519
+00:25:07.277 --> 00:25:11.156
+Estas falhas
+são uma possibilidade no jogo.
+
+
+520
+00:25:11.239 --> 00:25:12.741
+Temos algumas fraquezas
+
+521
+00:25:12.824 --> 00:25:17.496
+que não creio que vamos resolver
+antes do jogo,
+
+
+522
+00:25:17.579 --> 00:25:20.707
+o que nos está a provocar
+alguma inquietação.
+
+
+523
+00:25:21.583 --> 00:25:23.794
+SEUL, COREIA DO SUL
+
+524
+00:25:26.672 --> 00:25:29.424
+<i>Se-dol Lee está a preparar-se.</i>
+
+525
+00:25:29.508 --> 00:25:31.677
+<i>Na quarta-feira, em direto pela Internet,</i>
+
+526
+00:25:31.760 --> 00:25:34.096
+<i>este jogador profissional da Coreia do Sul</i>
+
+527
+00:25:34.179 --> 00:25:37.432
+<i>defrontará o programa de IA AlphaGo.</i>
+
+528
+00:25:37.516 --> 00:25:42.479
+Estou confiante que vencerei 5-0.
+
+529
+00:25:43.689 --> 00:25:46.733
+<i>Amanhã, o Julian e o George
+pegam na versão 18,</i>
+
+
+530
+00:25:46.817 --> 00:25:48.735
+metem-na num portátil e voam para Seul.
+
+531
+00:25:48.819 --> 00:25:49.653
+AlphaGo, Seul
+
+532
+00:25:49.736 --> 00:25:50.612
+EQUIPA ALPHAGO
+
+533
+00:25:53.699 --> 00:25:55.033
+- Vemo-nos na Coreia.
+- Boa viagem.
+
+
+534
+00:25:55.117 --> 00:25:56.243
+- Boa viagem.
+- Até depois.
+
+
+535
+00:26:08.213 --> 00:26:11.675
+Está tudo pronto
+para a vitória contra o Se-dol Lee?
+
+
+536
+00:26:11.758 --> 00:26:12.843
+Acho que está tudo a postos.
+
+537
+00:26:12.926 --> 00:26:15.887
+Mas quando chegar ao hotel,
+vou falar com a equipa.
+
+
+538
+00:26:15.971 --> 00:26:17.556
+<i>O que devíamos fazer no tempo que resta</i>
+
+539
+00:26:17.639 --> 00:26:21.810
+é enumerar as coisas que poderiam
+correr mal com a solidez do sistema.
+
+
+540
+00:26:21.893 --> 00:26:24.730
+Precisamos de um sítio
+para colocar o AlphaGo aqui debaixo.
+
+
+541
+00:26:25.313 --> 00:26:27.649
+Vamos ensaiar. Por favor!
+
+542
+00:26:28.233 --> 00:26:31.153
+<i>Já arranjaste um sítio
+para o Se-dol Lee fumar?</i>
+
+
+543
+00:26:31.236 --> 00:26:33.363
+Quando ele está numa situação difícil,
+gosta de fumar.
+
+
+544
+00:26:33.447 --> 00:26:36.116
+Sim, há um terraço e teremos segurança.
+
+545
+00:26:36.199 --> 00:26:38.243
+Ele poderá ir até lá e estar sozinho.
+
+546
+00:26:38.326 --> 00:26:42.372
+Está a torcer pelo Se-dol Lee
+ou pelo AlphaGo?
+
+
+547
+00:26:43.623 --> 00:26:46.001
+Estou numa posição estranha.
+Como vê, sou árbitro.
+
+
+548
+00:26:46.084 --> 00:26:47.085
+Estou a ver.
+
+549
+00:26:47.169 --> 00:26:48.420
+Sou árbitro.
+
+550
+00:26:49.921 --> 00:26:52.716
+<i>Quando cheguei, não esperava
+toda esta atenção para o jogo.</i>
+
+
+551
+00:26:52.799 --> 00:26:54.718
+<i>Estava literalmente nas primeiras páginas.</i>
+
+552
+00:26:54.801 --> 00:26:58.096
+<i>Cerca de oito milhões de coreanos jogam Go</i>
+
+553
+00:26:58.180 --> 00:27:00.682
+<i>e mesmo os que não jogam,
+reconhecem o Se-dol Lee.</i>
+
+
+554
+00:27:00.766 --> 00:27:02.267
+<i>Ele é uma figura nacional.</i>
+
+555
+00:27:02.934 --> 00:27:05.771
+E há isso.
+Há um orgulho nacional envolvido.
+
+
+556
+00:27:05.854 --> 00:27:07.397
+<i>Mas é mais do que isso.</i>
+
+557
+00:27:07.481 --> 00:27:11.943
+<i>A mera ideia de uma máquina
+defrontar um humano em algo assim</i>
+
+
+558
+00:27:12.027 --> 00:27:14.112
+<i>é algo que intriga as pessoas.</i>
+
+559
+00:27:15.197 --> 00:27:16.198
+Podemos trazê-lo?
+
+560
+00:27:17.282 --> 00:27:18.575
+Vamos entrar? Sim.
+
+561
+00:27:29.252 --> 00:27:31.755
+Estou confiante para o jogo.
+
+562
+00:27:31.838 --> 00:27:36.218
+Acredito que a intuição humana
+continua a ser demasiado avançada
+
+
+563
+00:27:37.094 --> 00:27:41.056
+em relação à IA.
+
+564
+00:27:41.556 --> 00:27:45.894
+Vou dar o meu melhor
+para proteger a inteligência humana.
+
+
+565
+00:27:47.729 --> 00:27:51.274
+<i>O mundo inteiro fez pressão
+sobre o Se-dol Lee.</i>
+
+
+566
+00:27:52.150 --> 00:27:56.279
+Antes, ele disputava os torneios
+pelo seu país, por si próprio,
+
+
+567
+00:27:56.905 --> 00:27:59.157
+<i>mas desta vez, ia jogar pela raça humana.</i>
+
+568
+00:28:05.163 --> 00:28:08.083
+MANHÃ DO JOGO 1
+
+569
+00:28:08.166 --> 00:28:10.127
+<i>Espero que ganhemos este primeiro jogo.</i>
+
+570
+00:28:10.210 --> 00:28:11.211
+<i>Se perdermos o primeiro,</i>
+
+571
+00:28:11.294 --> 00:28:12.921
+teremos de vencer três jogos em quatro.
+
+572
+00:28:13.004 --> 00:28:13.922
+Isso mesmo.
+
+573
+00:28:14.005 --> 00:28:15.173
+- O que é difícil.
+- Sim.
+
+
+574
+00:28:15.257 --> 00:28:16.174
+Onde vais estar?
+
+575
+00:28:16.258 --> 00:28:17.759
+Vou começar na sala do jogo
+
+576
+00:28:17.843 --> 00:28:20.262
+e depois venho para aqui
+para garantir que está tudo bem.
+
+
+577
+00:28:20.345 --> 00:28:23.306
+- Sim, devias estar aqui.
+- Ou algo assim.
+
+
+578
+00:28:25.934 --> 00:28:28.270
+- Sei que estás nervoso.
+- Sim, estou nervoso.
+
+
+579
+00:28:29.062 --> 00:28:30.188
+Estou nervoso.
+
+580
+00:28:31.565 --> 00:28:32.774
+E tu? Não estás nervoso?
+
+581
+00:28:32.858 --> 00:28:34.442
+- Um pouco.
+- Um pouco?
+
+
+582
+00:28:34.526 --> 00:28:36.361
+É bom sentir algum nervosismo.
+
+583
+00:28:38.363 --> 00:28:39.531
+Vai correr tudo bem.
+
+584
+00:28:41.450 --> 00:28:42.701
+Vai correr bem.
+
+585
+00:28:43.201 --> 00:28:46.663
+<i>Olá. Sejam bem-vindos ao Desafio DeepMind,</i>
+
+586
+00:28:46.746 --> 00:28:48.915
+<i>Jogo Um, Primeira Ronda,</i>
+
+587
+00:28:48.999 --> 00:28:52.502
+<i>em direto do Four Seasons
+aqui em Seul, Coreia.</i>
+
+
+588
+00:28:52.586 --> 00:28:55.464
+Sou Chris Garlock,
+do <i>The American Go E-Journal.</i>
+
+
+589
+00:28:55.547 --> 00:28:58.675
+Estou aqui com Michael Redmond,
+profissional de 9º<i>dan.</i>
+
+
+590
+00:28:58.758 --> 00:28:59.593
+Bem-vindo, Michael.
+
+591
+00:28:59.676 --> 00:29:00.510
+SALA DE IMPRENSA
+
+592
+00:29:00.594 --> 00:29:03.972
+Queres mandar cumprimentos
+a quem nos vê em todo o mundo?
+
+
+593
+00:29:04.055 --> 00:29:06.683
+<i>O entusiasmo é palpável aqui no hotel.</i>
+
+594
+00:29:06.766 --> 00:29:10.520
+<i>Nunca tinha visto tanto interesse
+de jornalistas do mundo inteiro.</i>
+
+
+595
+00:29:10.604 --> 00:29:12.105
+<i>- Câmaras...
+- Imprensa avassaladora.</i>
+
+
+596
+00:29:12.189 --> 00:29:17.944
+Não sei o quanto o AlphaGo mudou
+nos últimos cinco meses.
+
+
+597
+00:29:18.069 --> 00:29:19.654
+<i>Muito bem. Estão aqui</i>
+
+598
+00:29:19.738 --> 00:29:21.990
+<i>e vão ver fazer história. 
+Fiquem connosco.</i>
+
+599
+00:29:22.073 --> 00:29:23.325
+Cinco minutos, malta.
+
+600
+00:29:30.081 --> 00:29:32.876
+Não empurrem, por favor.
+
+601
+00:29:32.959 --> 00:29:35.879
+Só achei que nos devíamos reunir
+
+602
+00:29:35.962 --> 00:29:40.091
+e refletir no que vai acontecer.
+
+603
+00:29:40.175 --> 00:29:41.718
+Estou muito contente por estar aqui.
+
+604
+00:29:41.801 --> 00:29:44.804
+Estou muito orgulhoso de todos vocês
+e daquilo que conseguimos.
+
+
+605
+00:29:44.888 --> 00:29:47.432
+Quer ganhemos ou percamos,
+é incrível estarmos aqui.
+
+
+606
+00:29:47.516 --> 00:29:50.977
+Não é estranho o teu pai
+ir defrontar uma máquina?
+
+
+607
+00:29:52.604 --> 00:29:57.108
+Gostaria que a máquina
+ainda não vencesse um humano no Go.
+
+
+608
+00:29:59.236 --> 00:30:00.403
+Falta um minuto.
+
+609
+00:30:39.693 --> 00:30:41.486
+O JOGO COMEÇARÁ DAQUI A DEZ SEGUNDOS
+
+610
+00:30:45.407 --> 00:30:48.493
+Cinco, quatro, três, dois, um.
+
+611
+00:30:54.624 --> 00:30:57.794
+O jogo seguirá as regras chinesas,
+
+612
+00:30:58.211 --> 00:31:01.339
+O tempo limite são duas horas
+e 60 segundos vezes três.
+
+
+613
+00:31:24.404 --> 00:31:26.031
+Escolham as peças, por favor.
+
+614
+00:31:27.407 --> 00:31:29.409
+Se-dol Lee, 9º <i>dan,</i> já escolheu?
+
+615
+00:31:30.869 --> 00:31:31.745
+Pretas.
+
+616
+00:31:32.495 --> 00:31:33.413
+Começa o jogo.
+
+617
+00:31:33.496 --> 00:31:35.957
+DESAFIO 8-15 MARÇO 2016
+
+618
+00:31:59.397 --> 00:32:00.774
+<i>Tínhamos trabalhado tanto</i>
+
+619
+00:32:00.857 --> 00:32:04.569
+<i>para garantir
+que não haveria problemas técnicos.</i>
+
+
+620
+00:32:04.986 --> 00:32:07.572
+<i>Fizemos testes sem conta.</i>
+
+621
+00:32:08.239 --> 00:32:12.869
+<i>Ainda assim, há aquele momento
+em que estamos em direto,</i>
+
+
+622
+00:32:12.952 --> 00:32:16.081
+<i>com as câmaras a transmitir tudo,</i>
+
+623
+00:32:16.164 --> 00:32:19.292
+<i>e tem de fazer
+aquilo para que foi construído.</i>
+
+
+624
+00:32:20.752 --> 00:32:24.547
+O AlphaGo está a pensar
+o que fazer desde a primeira jogada.
+
+
+625
+00:32:24.631 --> 00:32:26.716
+Se olharem para o tempo,
+
+626
+00:32:26.800 --> 00:32:28.593
+passaram mais de 30 segundos.
+- Sim.
+
+
+627
+00:32:28.677 --> 00:32:30.345
+<i>O AlphaGo pensa demasiado
+na segunda jogada.</i>
+
+
+628
+00:32:30.428 --> 00:32:31.262
+<i>Sim.</i>
+
+629
+00:33:08.883 --> 00:33:10.593
+<i>Eu estava um pouco nervoso.</i>
+
+630
+00:33:10.677 --> 00:33:15.724
+<i>Era a primeira vez que me sentava
+diante de um jogador de classe mundial.</i>
+
+
+631
+00:33:16.641 --> 00:33:19.811
+<i>E consegui sentir o espírito e cortesia</i>
+
+632
+00:33:19.894 --> 00:33:22.439
+<i>de um grande jogador como o Se-dol Lee.</i>
+
+633
+00:33:22.981 --> 00:33:27.694
+<i>Acho que era a primeira vez
+que ele defrontava um adversário estranho.</i>
+
+
+634
+00:33:27.777 --> 00:33:31.156
+<i>Não é humano. 
+Não tem emoções. É frio.</i>
+
+635
+00:33:31.740 --> 00:33:33.700
+<i>Mas ele manteve-se muito calmo.</i>
+
+636
+00:33:34.367 --> 00:33:37.620
+<i>Consigo sentir a força mental dele.</i>
+
+637
+00:33:52.177 --> 00:33:53.762
+O AlphaGo atacou.
+
+638
+00:33:55.680 --> 00:33:56.890
+É incrível.
+
+639
+00:33:57.724 --> 00:34:01.728
+<i>É a primeira vez que vejo
+o AlphaGo fazer uma jogada assim.</i>
+
+
+640
+00:34:02.103 --> 00:34:04.689
+<i>O AlphaGo parece estar a jogar
+como um humano.</i>
+
+
+641
+00:34:04.773 --> 00:34:07.150
+Sou Andrew Jackson.
+Comigo está Myung-wan Kim,
+
+
+642
+00:34:07.233 --> 00:34:09.444
+profissional de 9º<i>dan</i>
+da Associação Coreana Baduk,
+
+
+643
+00:34:09.527 --> 00:34:11.070
+em direto do Hotel Four Seasons...
+
+644
+00:34:11.154 --> 00:34:12.530
+SALA DE COMENTADORES
+
+645
+00:34:12.614 --> 00:34:13.490
+... no 21º andar.
+
+646
+00:34:13.573 --> 00:34:15.325
+O que estamos a ver? 
+Como está o jogo?
+
+647
+00:34:16.701 --> 00:34:18.578
+É uma luta desde o início.
+
+648
+00:34:18.661 --> 00:34:20.747
+- Desde o início?
+- Sim.
+
+
+649
+00:34:20.830 --> 00:34:23.249
+- O AlphaGo está a jogar muito bem.
+- Sim?
+
+
+650
+00:34:23.333 --> 00:34:26.336
+- Como um profissional de topo.
+- Um profissional de topo?
+
+
+651
+00:34:26.753 --> 00:34:28.546
+<i>Sim, é muito agressivo.</i>
+
+652
+00:34:30.590 --> 00:34:31.925
+- Bloqueou!
+- Bloqueou?
+
+
+653
+00:34:33.718 --> 00:34:34.844
+<i>Como conseguiu?</i>
+
+654
+00:34:35.678 --> 00:34:38.139
+<i>Não pode ser.</i>
+
+655
+00:34:38.223 --> 00:34:40.099
+Agora, a luta está a ficar
+muito complicada.
+
+
+656
+00:34:40.809 --> 00:34:43.561
+É a primeira vez que vi o AlphaGo
+
+657
+00:34:44.270 --> 00:34:47.398
+<i>a fazer um jogo tão difícil.</i>
+
+658
+00:34:52.278 --> 00:34:55.114
+<i>Isto pode deixar o Se-dol Lee nervoso.</i>
+
+659
+00:34:55.573 --> 00:34:58.451
+<i>O AlphaGo usa um minuto a um minuto e meio
+para qualquer jogada.</i>
+
+
+660
+00:34:59.285 --> 00:35:02.747
+<i>Não é nada como um humano.</i>
+
+661
+00:35:03.790 --> 00:35:05.750
+<i>Por mais complexo que seja o jogo,</i>
+
+662
+00:35:05.834 --> 00:35:07.544
+<i>o AlphaGo joga como se já soubesse tudo.</i>
+
+663
+00:35:10.129 --> 00:35:12.423
+<i>Vi-o a olhar para a cara do adversário.</i>
+
+664
+00:35:12.715 --> 00:35:15.593
+<i>É um hábito. É um instinto</i>
+
+665
+00:35:15.802 --> 00:35:17.720
+<i>de jogador
+olhar para a pessoa à nossa frente.</i>
+
+
+666
+00:35:17.804 --> 00:35:21.891
+<i>Sim, é algo que o Se-dol Lee faria</i>
+
+667
+00:35:21.975 --> 00:35:24.102
+<i>para saber o que sentia o adversário.</i>
+
+668
+00:35:24.185 --> 00:35:26.187
+<i>- Certo.
+- É um hábito.</i>
+
+
+669
+00:35:26.271 --> 00:35:29.774
+<i>Não é que Aja Huang vá revelar algo</i>
+
+670
+00:35:29.858 --> 00:35:32.694
+<i>porque ele não é o AlphaGo, certo?
+- Sim.</i>
+
+
+671
+00:35:41.786 --> 00:35:42.912
+Quase fez uma jogada.
+
+672
+00:35:42.996 --> 00:35:44.664
+Lee sorriu por um instante.
+
+673
+00:35:44.747 --> 00:35:46.958
+<i>- Não. É...
+- O Lee enganou-se?</i>
+
+
+674
+00:35:47.041 --> 00:35:48.710
+<i>Ia fazer uma jogada sem sentido.</i>
+
+675
+00:35:48.793 --> 00:35:49.627
+Aqui está o...
+
+676
+00:35:49.711 --> 00:35:51.296
+O que está ele a fazer?
+
+677
+00:35:52.505 --> 00:35:54.757
+Se ele tivesse jogado para ali,
+teria perdido o jogo hoje.
+
+
+678
+00:35:54.841 --> 00:35:57.594
+- Ia colocar a peça aqui...
+- A mão dele...
+
+
+679
+00:35:57.677 --> 00:35:59.554
+... mas mudou a
+mão para ali sem pensar.
+
+680
+00:35:59.637 --> 00:36:01.890
+- Tem de ponderar tantas coisas.
+- Eu acho...
+
+
+681
+00:36:03.349 --> 00:36:04.976
+Ele está exausto.
+
+682
+00:36:05.310 --> 00:36:06.644
+- Eu acho...
+- Bem...
+
+
+683
+00:36:07.562 --> 00:36:08.813
+Ele parece em pânico.
+
+684
+00:36:10.648 --> 00:36:14.485
+<i>- Era isto que mais temíamos.
+- Sim.</i>
+
+
+685
+00:36:14.903 --> 00:36:16.487
+<i>- Duvidar de si próprio.
+- Duvidar de si.</i>
+
+
+686
+00:36:28.833 --> 00:36:30.335
+<i>Quando se joga com um humano,</i>
+
+687
+00:36:30.418 --> 00:36:32.712
+<i>pode haver uma partilha de sentimentos.</i>
+
+688
+00:36:33.379 --> 00:36:37.216
+<i>Eu olho para ti
+e sei que talvez queiras falar comigo.</i>
+
+
+689
+00:36:37.634 --> 00:36:39.218
+<i>Talvez tenhas medo de mim.</i>
+
+690
+00:36:39.302 --> 00:36:41.012
+<i>É possível sentir muitas coisas.</i>
+
+691
+00:36:41.095 --> 00:36:43.890
+<i>Mas com o AlphaGo, não se sente nada.</i>
+
+692
+00:36:45.391 --> 00:36:48.144
+<i>Quando não sentimos nada quando jogamos,</i>
+
+693
+00:36:48.227 --> 00:36:51.022
+<i>ficamos com mais dúvidas sobre nós mesmos.</i>
+
+694
+00:36:51.648 --> 00:36:53.816
+<i>No início, pensamos: "Joguei bem.</i>
+
+695
+00:36:53.900 --> 00:36:56.819
+<i>Terei jogado assim tão bem?</i>
+
+696
+00:36:57.153 --> 00:36:58.154
+<i>Se calhar, joguei mal.</i>
+
+697
+00:36:58.237 --> 00:36:59.489
+<i>Foi uma péssima jogada!</i>
+
+698
+00:36:59.572 --> 00:37:00.823
+<i>Porque joguei para aqui?"</i>
+
+699
+00:37:01.032 --> 00:37:02.116
+<i>Cada vez mais.</i>
+
+700
+00:37:03.409 --> 00:37:04.494
+É difícil saber onde estar.
+
+701
+00:37:04.577 --> 00:37:07.038
+Todas as salas são emocionantes,
+cada uma à sua maneira.
+
+
+702
+00:37:07.580 --> 00:37:08.539
+Certo.
+
+703
+00:37:08.623 --> 00:37:11.376
+É agradável estar aqui,
+no centro da operação.
+
+
+704
+00:37:11.459 --> 00:37:12.919
+Sim, sinto-me seguro aqui.
+
+705
+00:37:15.213 --> 00:37:18.257
+As brancas pensam fazer uma invasão
+a partir da parede.
+
+
+706
+00:37:19.300 --> 00:37:20.343
+Sim, força.
+
+707
+00:37:21.135 --> 00:37:23.304
+<i>Ele vai avançar.</i>
+
+708
+00:37:23.721 --> 00:37:25.223
+- Olha para a cara dele.
+- Sim.
+
+
+709
+00:37:27.183 --> 00:37:28.643
+<i>Não é uma cara de confiança.</i>
+
+710
+00:37:29.060 --> 00:37:31.270
+Ele está horrorizado.
+
+711
+00:37:31.854 --> 00:37:34.440
+<i>Não posso crer no que estou a ver.</i>
+
+712
+00:37:34.524 --> 00:37:35.733
+<i>Na verdade...</i>
+
+713
+00:37:36.192 --> 00:37:38.945
+O Se-dol está em desvantagem.
+
+714
+00:37:39.445 --> 00:37:41.823
+- E ele fez uma jogada muito agressiva.
+- Certo.
+
+
+715
+00:37:41.906 --> 00:37:43.199
+Complicou muito as coisas.
+
+716
+00:37:43.408 --> 00:37:45.034
+<i>- Está bem.
+- Acho que se o Se-dol Lee</i>
+
+
+717
+00:37:45.118 --> 00:37:49.372
+<i>não responder corretamente, pode perder.</i>
+
+718
+00:37:51.207 --> 00:37:55.378
+<i>Isto é impensável num jogador humano.</i>
+
+719
+00:37:55.753 --> 00:37:57.672
+E se souber tudo
+
+720
+00:37:57.755 --> 00:37:59.424
+sobre o que vai acontecer a seguir?
+
+721
+00:37:59.507 --> 00:38:00.425
+Como estamos?
+
+722
+00:38:00.508 --> 00:38:04.721
+Aqui está a profundidade de busca
+e analisamos 50 ou 60 jogadas à frente.
+
+
+723
+00:38:05.346 --> 00:38:07.598
+É o número máximo de jogadas à frente
+
+724
+00:38:07.682 --> 00:38:11.102
+que o AlphaGo procura
+na situação atual do jogo.
+
+
+725
+00:38:11.185 --> 00:38:15.273
+Costumam ser 50. 
+Por vezes mais de 60.
+
+726
+00:38:15.356 --> 00:38:16.190
+PROFUNDIDADE DE BUSCA
+
+727
+00:38:16.274 --> 00:38:19.819
+Nos jogos que vimos,
+habitualmente perto da jogada 150,
+
+
+728
+00:38:19.902 --> 00:38:21.446
+o AlphaGo tenta a jogada da vitória.
+
+729
+00:38:21.529 --> 00:38:24.949
+Estamos na jogada 150,
+por isso, estamos nesse ponto tático.
+
+
+730
+00:38:28.453 --> 00:38:30.246
+<i>Estamos todos surpreendidos</i>
+
+731
+00:38:30.955 --> 00:38:33.499
+a meio do jogo porque o AlphaGo está...
+
+732
+00:38:33.708 --> 00:38:35.626
+PRESIDENTE
+ASSOCIAÇÃO COREANA DE BADUK
+
+
+733
+00:38:35.835 --> 00:38:39.213
+Parece estar a jogar muito melhor
+do que nós pensávamos que jogaria.
+
+
+734
+00:38:39.672 --> 00:38:44.177
+<i>Eu pensava que o Se-dol Lee
+estaria já com uma vantagem confortável,</i>
+
+
+735
+00:38:44.260 --> 00:38:47.180
+<i>mas está em dificuldades.</i>
+
+736
+00:38:47.513 --> 00:38:50.808
+<i>Mas acho que acabará por vencer.
+Assim espero.</i>
+
+
+737
+00:38:51.350 --> 00:38:54.353
+<i>Eu estava a apostar no 5-0,</i>
+
+738
+00:38:55.271 --> 00:38:57.273
+mas já não estou tão certo disso.
+
+739
+00:39:02.236 --> 00:39:03.362
+<i>O que é isto?</i>
+
+740
+00:39:03.905 --> 00:39:05.198
+<i>O AlphaGo cometeu um erro.</i>
+
+741
+00:39:06.240 --> 00:39:07.241
+<i>O AlphaGo cometeu um erro.</i>
+
+742
+00:39:07.700 --> 00:39:09.327
+E que erro.
+
+743
+00:39:09.410 --> 00:39:11.496
+Talvez seja o primeiro erro,
+
+744
+00:39:11.871 --> 00:39:15.416
+um erro evidente,
+que as brancas cometeram.
+
+
+745
+00:39:15.875 --> 00:39:19.754
+O AlphaGo está a cometer erros ocasionais
+no final do jogo.
+
+
+746
+00:39:20.630 --> 00:39:23.549
+Se o AlphaGo vencer
+com uma pequena vantagem,
+
+
+747
+00:39:24.092 --> 00:39:26.803
+<i>é possível que tenha jogado
+o suficiente para vencer.</i>
+
+
+748
+00:39:27.470 --> 00:39:29.597
+<i>O motivo por que
+parei de falar há pouco</i>
+
+749
+00:39:29.680 --> 00:39:33.476
+foi porque, pelas minhas contas,
+o AlphaGo pode ter mais pontos.
+
+
+750
+00:39:33.559 --> 00:39:35.770
+Não o disse porque não podia acreditar.
+
+751
+00:39:35.853 --> 00:39:37.438
+Parece um erro,
+
+752
+00:39:37.522 --> 00:39:39.899
+mas como se baseia em cálculos,
+não é um erro.
+
+
+753
+00:39:39.982 --> 00:39:41.109
+Sim.
+
+754
+00:39:41.484 --> 00:39:43.820
+Se isto se baseia em cálculos...
+
+755
+00:39:44.821 --> 00:39:46.114
+... é assustador.
+
+756
+00:39:46.948 --> 00:39:50.368
+Significa que está a brincar
+com o adversário.
+
+
+757
+00:39:50.451 --> 00:39:52.120
+Myung-wan, parece haver contagem.
+
+758
+00:39:52.620 --> 00:39:53.704
+Sim.
+
+759
+00:39:53.788 --> 00:39:56.165
+- O que achas? Sim.
+- Está feito. Sim.
+
+
+760
+00:39:56.249 --> 00:39:58.626
+Parece que as brancas venceram por muito.
+
+761
+00:39:58.709 --> 00:40:00.503
+Se for assim,
+as brancas venceram por muito.
+
+
+762
+00:40:00.586 --> 00:40:01.420
+Sim.
+
+763
+00:40:01.504 --> 00:40:03.131
+Dois, três. Não posso crer.
+
+764
+00:40:03.548 --> 00:40:06.342
+Trinta e seis, trinta e sete...
+
+765
+00:40:06.425 --> 00:40:07.426
+Setenta e dois.
+
+766
+00:40:09.011 --> 00:40:10.179
+Ele perdeu.
+
+767
+00:40:11.597 --> 00:40:12.598
+Ele perdeu.
+
+768
+00:40:13.933 --> 00:40:15.268
+É chocante.
+
+769
+00:40:15.768 --> 00:40:19.188
+Esperava que o AlphaGo
+só vencesse um jogo.
+
+
+770
+00:40:24.527 --> 00:40:25.528
+Céus!
+
+771
+00:40:32.827 --> 00:40:36.497
+<i>Consigo sentir a dor dele. 
+Ele estava...</i>
+
+772
+00:40:36.581 --> 00:40:39.333
+<i>Ele não conseguia acreditar.
+Não conseguia aceitar.</i>
+
+
+773
+00:40:39.417 --> 00:40:42.879
+<i>Precisou de tempo
+para aceitar o resultado.</i>
+
+
+774
+00:40:44.964 --> 00:40:47.425
+<i>Talvez o AlphaGo esteja muito forte,</i>
+
+775
+00:40:47.508 --> 00:40:50.219
+<i>mas ele não queria acreditar
+que ia perder.</i>
+
+
+776
+00:40:50.803 --> 00:40:52.430
+<i>Como jogadores profissionais de Go,</i>
+
+777
+00:40:52.513 --> 00:40:54.390
+<i>não conseguimos acreditar</i>
+
+778
+00:40:54.473 --> 00:40:59.437
+<i>porque, para nós, é algo inimaginável.</i>
+
+779
+00:40:59.520 --> 00:41:02.773
+<i>Não é algo que possa acontecer.
+É impossível.</i>
+
+
+780
+00:41:03.316 --> 00:41:05.109
+<i>Mas, na realidade...</i>
+
+781
+00:41:05.943 --> 00:41:06.944
+<i>... está a acontecer.</i>
+
+782
+00:41:08.571 --> 00:41:10.698
+<i>Acho que ele desistiu
+de uma forma muito elegante.</i>
+
+
+783
+00:41:12.200 --> 00:41:14.493
+<i>Se-dol Lee joga com as pretas,
+mas colocou uma peça branca.</i>
+
+
+784
+00:41:23.085 --> 00:41:24.420
+Acho que ele desistiu.
+
+785
+00:41:26.714 --> 00:41:27.757
+Meu Deus!
+
+786
+00:41:30.051 --> 00:41:31.719
+- Olha para o tempo. Parou.
+- Sim.
+
+
+787
+00:41:40.811 --> 00:41:41.771
+Tu consegues.
+
+788
+00:41:42.396 --> 00:41:44.065
+- Parabéns.
+- Olá.
+
+
+789
+00:41:44.565 --> 00:41:45.399
+Como vai isso?
+
+790
+00:41:46.692 --> 00:41:51.239
+<i>Sinto-me muito bem.
+Sinto que acredito muito no AlphaGo.</i>
+
+
+791
+00:41:51.948 --> 00:41:54.200
+<i>É natural os humanos quererem
+que os humanos vençam.</i>
+
+
+792
+00:41:54.450 --> 00:41:56.410
+<i>Creio que é uma resposta natural.</i>
+
+793
+00:41:56.494 --> 00:41:58.246
+<i>Mas o AlphaGo foi criado por humanos</i>
+
+794
+00:41:58.329 --> 00:42:01.832
+<i>e acho que é o derradeiro sinal
+de talento e inteligência humanos.</i>
+
+
+795
+00:42:02.208 --> 00:42:04.043
+<i>Tudo o que o AlphaGo faz,</i>
+
+796
+00:42:04.126 --> 00:42:08.214
+<i>é porque um humano criou os dados
+dos quais ele aprendeu,</i>
+
+
+797
+00:42:08.297 --> 00:42:11.133
+<i>criou o algoritmo
+que aprende com esses dados</i>
+
+
+798
+00:42:11.217 --> 00:42:12.677
+<i>e criou o algoritmo de pesquisa.</i>
+
+799
+00:42:12.760 --> 00:42:15.805
+<i>Tudo isso foi feito por humanos.</i>
+
+800
+00:42:15.888 --> 00:42:18.724
+<i>Por isso, é uma criação humana.</i>
+
+801
+00:42:33.322 --> 00:42:37.159
+<i>Na batalha entre homem e máquina,
+um computador saiu vitorioso.</i>
+
+
+802
+00:42:37.243 --> 00:42:39.996
+<i>A DeepMind colocou o seu programa à prova</i>
+
+803
+00:42:40.079 --> 00:42:42.873
+<i>contra uma das mentes
+mais brilhantes do mundo e venceu.</i>
+
+
+804
+00:42:42.957 --> 00:42:45.251
+<i>O AlphaGo venceu um jogador profissional</i>
+
+805
+00:42:45.334 --> 00:42:48.713
+<i>vencedor de 18 Campeonatos Mundiais.</i>
+
+806
+00:42:48.796 --> 00:42:52.425
+<i>A vitória é considerada um avanço
+na inteligência artificial.</i>
+
+
+807
+00:42:54.343 --> 00:42:55.219
+Muito bem.
+
+808
+00:42:55.344 --> 00:42:58.264
+Antes de mais, queria dizer
+que fiquei muito surpreendido
+
+
+809
+00:42:58.347 --> 00:43:01.809
+porque nunca pensei que perderia o jogo.
+
+810
+00:43:02.935 --> 00:43:05.688
+Acho que os erros que cometi no início
+
+811
+00:43:05.771 --> 00:43:07.606
+duraram até ao fim.
+
+812
+00:43:07.690 --> 00:43:09.650
+Foi por isso que perdi o jogo.
+
+813
+00:43:10.026 --> 00:43:12.361
+Não fui capaz de prever.
+
+814
+00:43:12.445 --> 00:43:15.823
+Nunca pensei que o AlphaGo
+jogasse de forma tão perfeita.
+
+
+815
+00:43:15.906 --> 00:43:22.204
+Já ganhei campeonatos mundiais
+e tenho muita experiência,
+
+
+816
+00:43:22.288 --> 00:43:27.460
+por isso, perder um jogo
+não me afetará no futuro.
+
+
+817
+00:43:27.543 --> 00:43:31.714
+Acho que agora está 50-50.
+
+818
+00:43:32.214 --> 00:43:37.428
+Quero expressar o meu respeito
+para com a equipa
+
+
+819
+00:43:37.511 --> 00:43:41.974
+por terem criado um programa tão incrível
+
+820
+00:43:42.058 --> 00:43:43.684
+como o AlphaGo.
+
+821
+00:43:45.936 --> 00:43:49.940
+<i>Em investigação, costumamos trabalhar
+para produzir um ensaio académico.</i>
+
+
+822
+00:43:50.024 --> 00:43:51.984
+<i>É publicado
+e talvez possamos falar sobre isso</i>
+
+
+823
+00:43:52.068 --> 00:43:53.527
+<i>numa conferência, se tivermos sorte.</i>
+
+824
+00:43:55.446 --> 00:43:57.323
+<i>Isto não é normal numa investigação.</i>
+
+825
+00:43:57.406 --> 00:44:01.994
+<i>Nunca tinha passado por um mediatismo
+remotamente parecido com isto.</i>
+
+
+826
+00:44:02.078 --> 00:44:06.332
+<i>É um momento especial para nós
+e estamos a aproveitar enquanto dura.</i>
+
+
+827
+00:44:06.957 --> 00:44:08.918
+"DEMIS HASSABIS: #AlphaGo vence!
+Aterrámos na lua"
+
+
+828
+00:44:09.001 --> 00:44:11.087
+Orgulhoso da equipa!
+Respeito pelo incrível Se-dol Lee!
+
+
+829
+00:44:11.670 --> 00:44:14.882
+<i>Num confronto entre homem e máquina,
+quem vence?</i>
+
+
+830
+00:44:14.965 --> 00:44:16.258
+<i>Até agora, é a máquina.</i>
+
+831
+00:44:16.467 --> 00:44:20.429
+<i>Em Seul, Coreia do Sul,
+o computador com inteligência artificial</i>
+
+
+832
+00:44:20.513 --> 00:44:25.393
+<i>derrotou o campeão mundial
+no antigo jogo de tabuleiro chinês, Go.</i>
+
+
+833
+00:44:25.768 --> 00:44:30.231
+<i>Se-dol Lee perdeu o primeiro jogo,
+mas tem mais quatro oportunidades.</i>
+
+
+834
+00:44:30.606 --> 00:44:35.861
+Esta é a equipa
+que jogou Go contra o Se-dol Lee.
+
+
+835
+00:44:35.945 --> 00:44:36.987
+Temos os nossos jornais.
+
+836
+00:44:37.071 --> 00:44:39.448
+Os responsáveis não somos nós,
+é o homem do gorro.
+
+
+837
+00:44:42.410 --> 00:44:43.285
+Desculpe.
+
+838
+00:44:43.369 --> 00:44:45.413
+IA DERROTA CÉREBRO HUMANO
+
+839
+00:44:45.496 --> 00:44:47.081
+<i>É um pouco estranho estar na capa</i>
+
+840
+00:44:47.164 --> 00:44:48.582
+como cientista informático.
+
+841
+00:44:48.666 --> 00:44:50.376
+ENGENHEIRO DE SOFTWARE
+
+842
+00:44:50.459 --> 00:44:52.294
+<i>Por norma, estamos a um canto
+a escrever código.</i>
+
+
+843
+00:44:52.378 --> 00:44:53.879
+<i>Ninguém sabe.</i>
+
+844
+00:44:53.963 --> 00:44:55.089
+Talvez tenham ouvido a piada:
+
+845
+00:44:55.172 --> 00:44:59.635
+"Como sabemos se um cientista informático
+é extrovertido e não introvertido?
+
+
+846
+00:45:00.344 --> 00:45:02.471
+Se for extrovertido,
+olha para os nossos sapatos
+
+
+847
+00:45:02.555 --> 00:45:04.765
+quando fala connosco e não para os dele."
+
+848
+00:45:06.600 --> 00:45:11.147
+<i>Se repararem no Aja,
+ele foge das câmaras como o diabo da cruz.</i>
+
+
+849
+00:45:11.480 --> 00:45:14.483
+<i>O jogo terminou e ficou lá atrás</i>
+
+850
+00:45:14.567 --> 00:45:16.152
+<i>e voltou para o quarto.</i>
+
+851
+00:45:16.902 --> 00:45:20.406
+<i>Acho que muitos cientistas informáticos
+são assim.</i>
+
+
+852
+00:45:20.906 --> 00:45:24.368
+<i>Preferimos fazer o nosso trabalho
+do que estar no centro das atenções.</i>
+
+
+853
+00:45:26.078 --> 00:45:30.040
+<i>Olá e sejam bem-vindos
+ao Jogo Dois, Segunda Ronda,</i>
+
+
+854
+00:45:30.124 --> 00:45:32.668
+<i>do Desafio Google DeepMind,</i>
+
+855
+00:45:32.751 --> 00:45:35.504
+<i>disputado entre homem e máquina.</i>
+
+856
+00:45:35.838 --> 00:45:39.300
+<i>No Jogo Um, a máquina venceu.</i>
+
+857
+00:45:39.675 --> 00:45:42.803
+<i>Foi um grande choque.
+Fez manchete no mundo inteiro.</i>
+
+
+858
+00:45:42.887 --> 00:45:46.932
+<i>A reação aqui na Coreia
+foi de grande surpresa.</i>
+
+
+859
+00:45:47.016 --> 00:45:50.519
+<i>Calculam que 60 milhões de pessoas
+viram o jogo só na China.</i>
+
+
+860
+00:45:50.603 --> 00:45:52.938
+<i>No total,
+é provável que 80 milhões de pessoas</i>
+
+
+861
+00:45:53.022 --> 00:45:54.356
+<i>tenham assistido a nível mundial.</i>
+
+862
+00:45:54.440 --> 00:45:55.941
+<i>Foi incrível.</i>
+
+863
+00:45:56.025 --> 00:45:59.612
+<i>Provavelmente,
+hoje a loucura será ainda maior.</i>
+
+
+864
+00:46:00.279 --> 00:46:01.780
+<i>O Se-dol Lee sabe.</i>
+
+865
+00:46:01.864 --> 00:46:04.491
+<i>Ele sabe que este
+é um jogo muito importante.</i>
+
+
+866
+00:46:04.575 --> 00:46:05.534
+<i>Ele tem de vencer.</i>
+
+867
+00:46:09.955 --> 00:46:11.749
+Força, Se-dol Lee!
+
+868
+00:46:11.832 --> 00:46:12.958
+Vai à luta, Lee!
+
+869
+00:46:15.085 --> 00:46:17.087
+<i>Percebes o que o Lee está a pensar
+ao olhar para ele?</i>
+
+
+870
+00:46:17.171 --> 00:46:18.047
+<i>Ele parece nervoso?</i>
+
+871
+00:46:18.130 --> 00:46:20.591
+<i>Sim, o Lee parece muito tenso.</i>
+
+872
+00:46:21.550 --> 00:46:24.762
+<i>Deduzo que não tenha dormido bem.</i>
+
+873
+00:46:24.845 --> 00:46:27.014
+<i>Se-dol Lee a jogar com as brancas,</i>
+
+874
+00:46:27.097 --> 00:46:30.267
+<i>provavelmente à procura de desforra.</i>
+
+875
+00:46:30.684 --> 00:46:33.938
+<i>Parece-me que ele subestimou o AlphaGo</i>
+
+876
+00:46:34.021 --> 00:46:35.689
+<i>e vai mudar de tática.</i>
+
+877
+00:46:37.942 --> 00:46:40.569
+Hoje, o Se-dol Lee
+está a jogar muito mais devagar.
+
+
+878
+00:46:40.653 --> 00:46:41.528
+Sim.
+
+879
+00:46:41.612 --> 00:46:42.988
+- O que nos vai afetar.
+- Sim.
+
+
+880
+00:46:43.405 --> 00:46:45.032
+Está a jogar a metade da velocidade.
+
+881
+00:46:46.533 --> 00:46:49.328
+É difícil dizer
+quem está em vantagem ou melhor.
+
+
+882
+00:46:49.411 --> 00:46:53.499
+As duas últimas jogadas
+fazem-me duvidar da capacidade do AlphaGo.
+
+
+883
+00:46:53.582 --> 00:46:56.335
+<i>- Mas temos de estar alerta.
+- Sim.</i>
+
+
+884
+00:46:56.418 --> 00:46:58.671
+<i>- Sim. É difícil.
+- O AlphaGo é difícil de compreender.</i>
+
+
+885
+00:46:58.754 --> 00:47:01.423
+<i>O que vejo no
+AlphaGo que não é normal</i>
+
+886
+00:47:01.507 --> 00:47:03.676
+<i>é a forma como aborda o jogo</i>
+
+887
+00:47:03.759 --> 00:47:06.053
+<i>quando pensa que está em vantagem.
+- Sim.</i>
+
+
+888
+00:47:06.136 --> 00:47:08.555
+<i>Vamos ter a visita
+de um dos membros da equipa</i>
+
+
+889
+00:47:08.639 --> 00:47:11.225
+<i>e vamos falar desse aspeto.</i>
+
+890
+00:47:11.308 --> 00:47:12.768
+<i>Muito obrigado por vires, Thore.</i>
+
+891
+00:47:12.851 --> 00:47:13.769
+<i>Agradeço imenso.</i>
+
+892
+00:47:13.852 --> 00:47:15.312
+INVESTIGADOR
+
+893
+00:47:15.396 --> 00:47:18.649
+Podes partilhar um pouco
+do que se passa com o AlphaGo?
+
+
+894
+00:47:18.732 --> 00:47:22.027
+O AlphaGo tem três componentes principais.
+
+895
+00:47:22.111 --> 00:47:23.237
+<i>Há a rede de políticas...</i>
+
+896
+00:47:24.238 --> 00:47:28.951
+<i>... treinada em jogos de alto nível
+para imitar esses jogadores.</i>
+
+
+897
+00:47:29.535 --> 00:47:32.454
+<i>Depois, temos o segundo componente.
+Chamamos-lhe rede de valor.</i>
+
+
+898
+00:47:33.455 --> 00:47:35.916
+<i>Consegue avaliar a posição do tabuleiro</i>
+
+899
+00:47:36.000 --> 00:47:40.004
+<i>e aferir a probabilidade de vitória
+numa posição específica.</i>
+
+
+900
+00:47:40.337 --> 00:47:42.381
+<i>O terceiro componente
+é a pesquisa em árvore...</i>
+
+
+901
+00:47:43.382 --> 00:47:47.011
+<i>... em que analisa
+diferentes variações do jogo</i>
+
+
+902
+00:47:47.094 --> 00:47:49.680
+<i>e tenta perceber
+o que acontecerá no futuro.</i>
+
+
+903
+00:47:53.183 --> 00:47:55.144
+<i>Se pegarmos nesta posição,</i>
+
+904
+00:47:55.686 --> 00:47:59.106
+<i>primeiro, a rede de políticas
+analisa a posição,</i>
+
+
+905
+00:47:59.440 --> 00:48:04.069
+<i>define os locais interessantes
+para onde jogar</i>
+
+
+906
+00:48:04.570 --> 00:48:07.489
+<i>e cria uma árvore de variações.</i>
+
+907
+00:48:07.573 --> 00:48:10.284
+<i>De seguida, aplica a rede de valor,</i>
+
+908
+00:48:10.367 --> 00:48:15.205
+<i>que avalia quão promissor é o resultado
+de uma variação específica.</i>
+
+
+909
+00:48:17.875 --> 00:48:22.504
+Por isso, o AlphaGo tenta maximizar
+a probabilidade de vitória,
+
+
+910
+00:48:22.921 --> 00:48:26.675
+mas não quer saber
+qual a margem por que vence.
+
+
+911
+00:48:26.759 --> 00:48:28.886
+Então, quando vemos uma jogada lenta,
+
+912
+00:48:28.969 --> 00:48:32.639
+pode indicar que o AlphaGo pensa
+que tem boas hipóteses de vencer.
+
+
+913
+00:48:32.723 --> 00:48:35.351
+- Sim, é um sinal.
+- Sim.
+
+
+914
+00:48:35.434 --> 00:48:37.519
+- Uma dica. Procuramos uma dica.
+- Sim.
+
+
+915
+00:48:37.603 --> 00:48:42.107
+O Se-dol Lee está a jogar
+com um estilo diferente do habitual.
+
+
+916
+00:48:42.191 --> 00:48:47.279
+Este é um momento histórico.
+O Se-dol Lee está no centro das atenções.
+
+
+917
+00:48:47.363 --> 00:48:49.698
+Deve estar a sentir imensa pressão.
+
+918
+00:48:49.782 --> 00:48:54.495
+<i>Espero que ele supere a pressão
+e desfrute da partida.</i>
+
+
+919
+00:49:07.674 --> 00:49:10.344
+Parece que o Lee vai fazer
+uma pequena pausa.
+
+
+920
+00:49:28.862 --> 00:49:30.572
+<i>Se-dol Lee vai fumar</i>
+
+921
+00:49:31.073 --> 00:49:32.658
+<i>e o AlphaGo joga.</i>
+
+922
+00:49:32.741 --> 00:49:35.661
+<i>Não pensa se o adversário
+está presente ou não.</i>
+
+
+923
+00:49:36.120 --> 00:49:39.915
+<i>Aja vê que o
+AlphaGo faz a jogada 37</i>
+
+924
+00:49:40.707 --> 00:49:42.835
+<i>e coloca a peça no tabuleiro.</i>
+
+925
+00:49:44.920 --> 00:49:46.171
+<i>Ena...</i>
+
+926
+00:49:46.255 --> 00:49:47.089
+JOGADA 37
+
+927
+00:49:48.549 --> 00:49:50.467
+- É uma jogada impensável.
+- Sim.
+
+
+928
+00:49:51.260 --> 00:49:52.302
+O valor...
+
+929
+00:49:54.221 --> 00:49:56.932
+É uma jogada surpreendente.
+
+930
+00:49:57.015 --> 00:50:00.227
+<i>Pensava que tinha sido por engano.</i>
+
+931
+00:50:01.562 --> 00:50:04.857
+<i>Quando vi esta jogada, fiquei em choque.</i>
+
+932
+00:50:04.940 --> 00:50:05.899
+<i>O quê?</i>
+
+933
+00:50:06.859 --> 00:50:08.652
+<i>Os humanos nunca fariam esta jogada</i>
+
+934
+00:50:08.735 --> 00:50:10.279
+<i>porque é má.</i>
+
+935
+00:50:11.530 --> 00:50:13.073
+<i>Não sabemos porquê, mas é má.</i>
+
+936
+00:50:13.824 --> 00:50:15.409
+É um pouco alto.
+
+937
+00:50:15.742 --> 00:50:16.618
+Sim?
+
+938
+00:50:16.702 --> 00:50:17.995
+É na linha cinco.
+
+939
+00:50:18.078 --> 00:50:20.497
+Normalmente não se faz ombro
+na linha cinco.
+
+
+940
+00:50:21.081 --> 00:50:24.376
+Jogar acima da zona da linha cinco
+é muito invulgar.
+
+
+941
+00:50:24.918 --> 00:50:26.503
+Sim, é uma jogada empolgante.
+
+942
+00:50:26.587 --> 00:50:29.256
+Acho que estamos a presenciar
+uma jogada original.
+
+
+943
+00:50:30.007 --> 00:50:34.344
+<i>É o tipo de jogada
+para a qual se joga Go.</i>
+
+944
+00:50:35.888 --> 00:50:36.763
+Olá.
+
+945
+00:50:39.016 --> 00:50:40.434
+Foi interessante.
+
+946
+00:50:40.517 --> 00:50:43.061
+- Este ombro na linha cinco foi bom.
+- Sim.
+
+
+947
+00:50:43.145 --> 00:50:44.480
+<i>Não estava à espera.</i>
+
+948
+00:50:45.481 --> 00:50:48.358
+<i>Nesta fase,
+não sei se é uma boa ou má jogada.</i>
+
+
+949
+00:50:48.442 --> 00:50:51.862
+<i>Os comentadores profissionais
+disseram de forma unânime</i>
+
+
+950
+00:50:51.945 --> 00:50:55.157
+<i>que nenhum jogador humano
+teria feito a jogada 37.</i>
+
+
+951
+00:50:55.741 --> 00:50:57.784
+<i>E eu fui dar uma olhadela ao AlphaGo</i>
+
+952
+00:50:57.868 --> 00:50:59.620
+<i>para ver o que pensou.</i>
+
+953
+00:51:00.120 --> 00:51:02.915
+<i>E o AlphaGo concordava com essa avaliação.</i>
+
+954
+00:51:03.457 --> 00:51:06.752
+<i>O AlphaGo disse que havia
+a probabilidade de um para dez mil</i>
+
+
+955
+00:51:06.835 --> 00:51:10.339
+<i>de um jogador humano fazer a jogada 37.</i>
+
+956
+00:51:10.422 --> 00:51:12.841
+<i>Ele sabia que era uma jogada improvável.</i>
+
+957
+00:51:12.925 --> 00:51:15.969
+<i>Foi além do guia humano</i>
+
+958
+00:51:16.053 --> 00:51:19.264
+<i>e criou algo novo, criativo e diferente.</i>
+
+959
+00:51:20.224 --> 00:51:24.978
+<i>Eu vejo o jogo
+através destes comentadores.</i>
+
+
+960
+00:51:25.062 --> 00:51:26.188
+<i>É assim que funciona.</i>
+
+961
+00:51:26.271 --> 00:51:28.649
+<i>Quando eles estão confusos,
+eu fico confuso.</i>
+
+
+962
+00:51:28.732 --> 00:51:30.484
+<i>Ao mesmo tempo, compreendo o facto</i>
+
+963
+00:51:30.567 --> 00:51:32.152
+<i>de eles estarem confusos, certo?</i>
+
+964
+00:51:32.236 --> 00:51:34.154
+<i>É um momento interessante.</i>
+
+965
+00:51:34.238 --> 00:51:36.865
+Quando todos estão confusos,
+quem é que não fica confuso
+
+
+966
+00:51:36.949 --> 00:51:37.991
+além da máquina?
+
+967
+00:51:42.412 --> 00:51:45.958
+<i>Quero ver o Se-dol Lee
+quando vir esta jogada.</i>
+
+
+968
+00:51:51.338 --> 00:51:52.881
+<i>Ele voltou. 
+O Lee está de volta.</i>
+
+969
+00:52:15.112 --> 00:52:19.324
+<i>Pensava que o AlphaGo se baseava
+no cálculo de probabilidades</i>
+
+
+970
+00:52:19.992 --> 00:52:23.912
+<i>e que era meramente uma máquina.</i>
+
+971
+00:52:24.621 --> 00:52:26.373
+<i>Mas quando vi esta jogada, mudei de ideia.</i>
+
+972
+00:52:27.583 --> 00:52:29.334
+<i>O AlphaGo é seguramente criativo.</i>
+
+973
+00:52:30.711 --> 00:52:36.842
+<i>Esta jogada era criativa e bela.</i>
+
+974
+00:52:40.429 --> 00:52:43.473
+<i>Normalmente, ele pensa
+durante um ou dois minutos, não mais.</i>
+
+
+975
+00:52:43.557 --> 00:52:46.602
+<i>Desta vez, pensou durante 12 minutos.</i>
+
+976
+00:52:55.319 --> 00:52:59.239
+<i>Quando mais olho para esta jogada,
+mais sinto que algo mudou.</i>
+
+
+977
+00:53:00.907 --> 00:53:03.535
+<i>Talvez os humanos pensem que é má,</i>
+
+978
+00:53:03.827 --> 00:53:05.746
+<i>mas para o AlphaGo, porque não?</i>
+
+979
+00:53:07.205 --> 00:53:08.373
+<i>O Go é como geopolítica.</i>
+
+980
+00:53:08.457 --> 00:53:10.208
+Algo pequeno que acontece aqui
+
+981
+00:53:10.292 --> 00:53:11.543
+pode ter um efeito de cascata
+
+982
+00:53:12.169 --> 00:53:15.672
+horas mais adiante,
+numa outra parte do tabuleiro.
+
+
+983
+00:53:16.048 --> 00:53:19.176
+<i>O jogo deu a volta naquele momento.</i>
+
+984
+00:53:19.885 --> 00:53:21.678
+<i>Esta jogada foi muito especial</i>
+
+985
+00:53:21.762 --> 00:53:23.055
+<i>porque, com ela,</i>
+
+986
+00:53:23.430 --> 00:53:25.474
+todas as peças colocadas antes
+
+987
+00:53:25.557 --> 00:53:26.600
+<i>trabalhavam em conjunto.</i>
+
+988
+00:53:26.683 --> 00:53:27.934
+<i>Ficaram ligadas.</i>
+
+989
+00:53:28.018 --> 00:53:30.354
+<i>Parecia uma rede ligada a todo o lado.</i>
+
+990
+00:53:30.812 --> 00:53:32.022
+Foi muito especial.
+
+991
+00:53:32.481 --> 00:53:33.565
+Muito especial.
+
+992
+00:53:35.192 --> 00:53:40.072
+<i>Esta jogada fez-me ver o Go
+de outra forma.</i>
+
+
+993
+00:53:40.906 --> 00:53:44.951
+<i>O que significa a criatividade no Go?</i>
+
+994
+00:53:45.786 --> 00:53:47.913
+<i>Foi uma jogada muito importante.</i>
+
+995
+00:53:51.458 --> 00:53:53.460
+<i>O jogo está difícil para o Se-dol Lee.</i>
+
+996
+00:53:53.543 --> 00:53:55.921
+<i>O AlphaGo não deixa o Se-dol Lee</i>
+
+997
+00:53:56.004 --> 00:53:57.130
+<i>fazer o que pretende.
+- Sim.</i>
+
+
+998
+00:53:57.673 --> 00:54:00.258
+As pretas têm quase 60 pontos. É muito.
+
+999
+00:54:00.926 --> 00:54:02.177
+<i>Não é um bom sinal.</i>
+
+1000
+00:54:04.221 --> 00:54:06.932
+<i>O Se-dol Lee bateu
+com a mão na cabeça.</i>
+
+1001
+00:54:10.352 --> 00:54:11.853
+Creio que as pretas estão em vantagem.
+
+1002
+00:54:13.271 --> 00:54:15.440
+Parece bom, não? Estamos...
+
+1003
+00:54:16.441 --> 00:54:17.609
+... naquele curso firme.
+
+1004
+00:54:19.403 --> 00:54:21.363
+<i>Eu vi o Se-dol Lee...</i>
+
+1005
+00:54:22.364 --> 00:54:23.657
+<i>... perder tanto.</i>
+
+1006
+00:54:23.949 --> 00:54:27.077
+<i>Normalmente, teríamos desistido
+há muito tempo, mas ele queria tentar.</i>
+
+
+1007
+00:54:27.452 --> 00:54:28.912
+<i>Ele continuou a jogar.</i>
+
+1008
+00:54:28.995 --> 00:54:31.289
+<i>Não queria desistir.</i>
+
+1009
+00:54:46.930 --> 00:54:48.807
+Porque as brancas... Ele desistiu.
+
+1010
+00:54:49.558 --> 00:54:52.102
+Parece que o Se-dol Lee desistiu.
+
+1011
+00:54:55.772 --> 00:54:57.649
+Não faz sentido. 
+Não previa aquilo.
+
+1012
+00:54:57.733 --> 00:55:00.110
+- A jogada 37 foi uma maravilha.
+-Sim.
+
+
+1013
+00:55:00.193 --> 00:55:01.778
+Sim, uma maravilha.
+
+1014
+00:55:05.323 --> 00:55:06.324
+Ele está bem?
+
+1015
+00:55:07.576 --> 00:55:10.620
+Trouxe o amigo dele porque ontem reparei
+
+1016
+00:55:10.704 --> 00:55:12.956
+que ele queria analisar o jogo.
+
+1017
+00:55:13.039 --> 00:55:16.042
+Não tinha percebido como estava mal.
+
+1018
+00:55:20.839 --> 00:55:24.593
+<i>Havia uma grande tristeza naquele piso</i>
+
+1019
+00:55:24.676 --> 00:55:26.219
+<i>e sentia-se durante o jogo.</i>
+
+1020
+00:55:26.303 --> 00:55:27.763
+<i>Eu senti-a durante o jogo.</i>
+
+1021
+00:55:27.846 --> 00:55:31.683
+<i>Estava a sair da sala de comentadores
+para ir à conferência de imprensa</i>
+
+
+1022
+00:55:31.767 --> 00:55:34.561
+e fui abordado
+por outro jornalista de tecnologia.
+
+
+1023
+00:55:34.644 --> 00:55:36.438
+No início, ele só queria falar
+
+1024
+00:55:36.521 --> 00:55:38.315
+sobre a tecnologia
+e como isto era espetacular,
+
+
+1025
+00:55:38.398 --> 00:55:42.527
+<i>mas depois até ele entrou
+neste momento de melancolia</i>
+
+
+1026
+00:55:42.611 --> 00:55:44.112
+<i>e ficou perturbado.</i>
+
+1027
+00:55:45.864 --> 00:55:51.369
+Ontem estava surpreendido,
+mas hoje estou sem palavras.
+
+
+1028
+00:55:52.078 --> 00:55:53.914
+"Estou mesmo sem palavras.
+
+1029
+00:55:53.997 --> 00:55:57.083
+Admito que foi
+uma derrota clara da minha parte.
+
+
+1030
+00:55:57.501 --> 00:55:59.336
+Do início ao fim do jogo,
+
+1031
+00:55:59.419 --> 00:56:03.131
+nunca senti estar em vantagem."
+
+1032
+00:56:03.840 --> 00:56:07.385
+<i>Sentimo-nos entusiasmados,
+mas também um pouco assustados.</i>
+
+
+1033
+00:56:07.469 --> 00:56:10.680
+Acho que há algo de assustador
+para as pessoas
+
+
+1034
+00:56:10.764 --> 00:56:12.974
+numa máquina que aprende sozinha.
+
+1035
+00:56:13.600 --> 00:56:16.895
+<i>Para nós, o AlphaGo
+é apenas um programa de computador.</i>
+
+
+1036
+00:56:17.354 --> 00:56:19.898
+<i>Mas ao ver os comentários na Internet,</i>
+
+1037
+00:56:19.981 --> 00:56:22.275
+<i>já vi os comentadores falarem do AlphaGo</i>
+
+1038
+00:56:22.359 --> 00:56:24.444
+como "ele" e "ela" durante os jogos.
+
+1039
+00:56:25.278 --> 00:56:26.571
+De forma totalmente inconsciente.
+
+1040
+00:56:26.655 --> 00:56:28.573
+PRETO, MOTOR, PRIORIDADE,
+OCORRÊNCIAS, ERROS
+
+
+1041
+00:56:28.657 --> 00:56:30.742
+<i>O AlphaGo é um programa muito simples.</i>
+
+1042
+00:56:30.826 --> 00:56:34.329
+<i>Não está perto de ser uma IA completa
+e já vemos isso a acontecer.</i>
+
+
+1043
+00:56:34.412 --> 00:56:35.789
+<i>Acho isso muito interessante.</i>
+
+1044
+00:56:40.877 --> 00:56:43.380
+<i>A tendência para antropomorfizar
+os sistemas de IA</i>
+
+
+1045
+00:56:43.463 --> 00:56:45.632
+<i>é um dos grandes obstáculos</i>
+
+1046
+00:56:45.715 --> 00:56:47.634
+<i>a tentar compreender</i>
+
+1047
+00:56:47.717 --> 00:56:50.345
+<i>o impacto que a IA
+pode ter futuramente no mundo.</i>
+
+
+1048
+00:56:50.428 --> 00:56:51.805
+Por exemplo, fala-se
+
+1049
+00:56:51.888 --> 00:56:53.306
+do que pode correr mal e dos riscos.
+
+1050
+00:56:53.390 --> 00:56:55.475
+PROFESSOR DE FILOSOFIA
+UNIVERSIDADE DE OXFORD
+
+
+1051
+00:56:55.559 --> 00:56:57.269
+E pensa-se sempre
+em <i>Exterminador Implacável.</i>
+
+
+1052
+00:56:57.352 --> 00:56:59.563
+<i>Aparecem sempre
+os olhos vermelhos a brilhar, não é?</i>
+
+
+1053
+00:56:59.646 --> 00:57:01.773
+<i>Estamos mais perto
+de uma máquina de lavar inteligente</i>
+
+
+1054
+00:57:01.857 --> 00:57:03.441
+<i>do que do</i>Exterminador Implacável.
+
+1055
+00:57:03.525 --> 00:57:05.235
+Se olharem para a IA atualmente...
+
+1056
+00:57:05.318 --> 00:57:06.653
+DIRETORA, LAB. 
+DE IA DE STANFORD
+
+1057
+00:57:06.736 --> 00:57:09.281
+... estamos numa fase muito inicial.
+
+1058
+00:57:09.364 --> 00:57:14.244
+<i>Eu estou extremamente animada
+com o potencial da IA.</i>
+
+
+1059
+00:57:14.661 --> 00:57:18.123
+<i>Mas a IA tem um poder muito limitado.</i>
+
+1060
+00:57:18.623 --> 00:57:20.709
+<i>Acho que as pessoas estão certas
+ao pensarem</i>
+
+
+1061
+00:57:21.376 --> 00:57:25.255
+que há o perigo de,
+ao melhorarmos estes sistemas,
+
+
+1062
+00:57:25.338 --> 00:57:30.385
+podermos não ver o limiar
+em que passamos para a parte perigosa.
+
+
+1063
+00:57:30.468 --> 00:57:31.469
+<i>Mas a boa notícia</i>
+
+1064
+00:57:31.553 --> 00:57:33.597
+<i>é que já há
+gente a pensar nesses perigos.</i>
+
+1065
+00:57:33.680 --> 00:57:36.474
+Agora fala-se muito sobre isso
+e estamos a promover o debate
+
+
+1066
+00:57:36.558 --> 00:57:37.934
+de que talvez deva haver
+
+1067
+00:57:38.018 --> 00:57:41.062
+um grupo de trabalho que defina
+melhores práticas ou algo do género.
+
+
+1068
+00:57:41.646 --> 00:57:45.483
+Em que os líderes das equipas
+de pesquisa dessas organizações,
+
+
+1069
+00:57:45.567 --> 00:57:48.778
+as grandes que trabalham em IA,
+a IBM, Microsoft e por aí fora,
+
+
+1070
+00:57:48.862 --> 00:57:52.782
+se unam e garantam que a IA
+é usada de forma ética e responsável.
+
+
+1071
+00:57:53.742 --> 00:57:57.621
+Creio que o importante
+é haver um conjunto de pessoas
+
+
+1072
+00:57:57.704 --> 00:58:01.791
+que lideram a vanguarda da IA,
+
+1073
+00:58:01.875 --> 00:58:04.044
+que interagem com académicos
+
+1074
+00:58:04.127 --> 00:58:07.130
+e que já pensam no longo prazo
+
+1075
+00:58:07.214 --> 00:58:10.884
+e em como se pode garantir
+que a inovação seja responsável
+
+
+1076
+00:58:10.967 --> 00:58:13.011
+<i>com o aumento do poder destas máquinas.</i>
+
+1077
+00:58:13.094 --> 00:58:15.472
+SE
+-DOL PERDEU POR DESISTÊNCIA
+
+1078
+00:58:15.555 --> 00:58:16.598
+<i>É agora.</i>
+
+1079
+00:58:17.307 --> 00:58:21.853
+<i>Dia Três, Terceiro Jogo.
+Se-dol Lee, mestre de Go.</i>
+
+
+1080
+00:58:22.437 --> 00:58:25.857
+<i>De costas para a parede. 
+Perde por 2-0.</i>
+
+1081
+00:58:25.941 --> 00:58:29.319
+<i>Tem de vencer hoje
+para manter a esperança viva.</i>
+
+
+1082
+00:58:29.402 --> 00:58:34.866
+<i>Se-dol Lee tirou um dia
+após perder dois jogos,</i>
+
+
+1083
+00:58:34.950 --> 00:58:39.704
+reuniu com profissionais de Go
+
+1084
+00:58:39.788 --> 00:58:43.416
+e passou a noite a analisar o jogo.
+
+1085
+00:58:43.500 --> 00:58:46.795
+Soube que quatro profissionais
+foram visitá-lo.
+
+
+1086
+00:58:47.254 --> 00:58:50.006
+Para o consolar e rever...
+
+1087
+00:58:50.090 --> 00:58:52.759
+Consolá-lo? Achas que está abalado ou...
+
+1088
+00:58:52.842 --> 00:58:55.011
+<i>Sim, o Se-dol Lee está abalado.</i>
+
+1089
+00:58:55.553 --> 00:58:58.348
+<i>No início, houve uma disputa renhida</i>
+
+1090
+00:58:58.431 --> 00:59:00.684
+<i>e o AlphaGo jogou muito bem.</i>
+
+1091
+00:59:00.767 --> 00:59:02.811
+<i>Conseguiu passar cedo para a liderança.</i>
+
+1092
+00:59:03.228 --> 00:59:06.606
+A partir da jogada 50,
+a taxa de vitória foi muito alta.
+
+
+1093
+00:59:06.690 --> 00:59:08.900
+Estava a chegar aos 100 %.
+
+1094
+00:59:09.359 --> 00:59:10.485
+<i>Foi uma bela jogada.</i>
+
+1095
+00:59:10.568 --> 00:59:12.696
+Qual é a taxa de probabilidade?
+
+1096
+00:59:12.779 --> 00:59:14.197
+- Uns 91?
+- Não.
+
+
+1097
+00:59:15.073 --> 00:59:17.325
+- Setenta, achas?
+- Não.
+
+
+1098
+00:59:17.951 --> 00:59:20.161
+Ele deve querer desesperadamente ganhar.
+
+1099
+00:59:20.245 --> 00:59:21.913
+DESAFIO DE IA
+
+1100
+00:59:21.997 --> 00:59:24.291
+<i>Mas creio que a pressão</i>
+
+1101
+00:59:24.374 --> 00:59:26.918
+<i>e o peso psicológico estão a aumentar.</i>
+
+1102
+00:59:27.002 --> 00:59:30.046
+<i>Hoje deve ser o pior.</i>
+
+1103
+00:59:30.130 --> 00:59:31.840
+<i>Pessoalmente, eu acredito</i>
+
+1104
+00:59:31.923 --> 00:59:36.177
+<i>que quando queremos ganhar, perdemos.</i>
+
+1105
+00:59:36.886 --> 00:59:39.389
+<i>Ele tentou atacar diretamente no jogo,</i>
+
+1106
+00:59:39.472 --> 00:59:40.682
+mas não é o estilo dele.
+
+1107
+00:59:41.391 --> 00:59:44.811
+Quando mudamos o nosso estilo
+para defrontar um adversário,
+
+
+1108
+00:59:44.894 --> 00:59:46.896
+não costuma acabar bem.
+
+1109
+00:59:50.025 --> 00:59:53.737
+<i>É um jogo mais fácil para o AlphaGo.</i>
+
+1110
+00:59:55.071 --> 00:59:56.906
+- Está bom para nós.
+<i>- Eu acho...</i>
+
+
+1111
+00:59:56.990 --> 00:59:59.951
+O grupo das pretas é enorme,
+não tem para onde ir
+
+
+1112
+01:00:00.035 --> 01:00:01.911
+e vai andar às voltas.
+
+1113
+01:00:11.421 --> 01:00:14.382
+<i>Não sei como descrever a situação.</i>
+
+1114
+01:00:14.466 --> 01:00:16.634
+<i>Se eu estivesse com as pretas, desistiria.</i>
+
+1115
+01:00:17.093 --> 01:00:21.848
+<i>Devíamos admitir que estamos
+perante a criação mais forte de sempre</i>
+
+
+1116
+01:00:21.931 --> 01:00:23.475
+<i>na história do Go.</i>
+
+1117
+01:00:23.933 --> 01:00:25.894
+Não adianta jogar até ao fim
+
+1118
+01:00:25.977 --> 01:00:28.396
+se vamos perder, não é? Por isso...
+
+1119
+01:00:31.358 --> 01:00:32.901
+<i>Mesmo que as pretas aguentem...</i>
+
+1120
+01:00:32.984 --> 01:00:34.861
+- Está feito.
+- Ele desistiu. Pronto.
+
+
+1121
+01:00:38.698 --> 01:00:41.326
+<i>Esta noite viram fazer história.</i>
+
+1122
+01:00:41.743 --> 01:00:43.536
+<i>O AlphaGo voltou a ganhar. 
+Três vitórias.</i>
+
+1123
+01:00:43.620 --> 01:00:45.455
+<i>Três vitórias seguidas. 
+Venceu o desafio.</i>
+
+1124
+01:00:46.998 --> 01:00:50.710
+<i>Quando o Se-dol Lee desistiu,
+parecia estar triste.</i>
+
+
+1125
+01:00:50.794 --> 01:00:53.254
+Não foi só por ter perdido o torneio,
+
+1126
+01:00:53.338 --> 01:00:55.632
+foi especialmente por causa deste jogo,
+
+1127
+01:00:55.715 --> 01:00:58.259
+<i>porque não jogou o jogo dele.</i>
+
+1128
+01:00:59.219 --> 01:01:02.389
+Eu fiquei muito triste com isso.
+
+1129
+01:01:03.973 --> 01:01:06.101
+Mas não posso fazer nada.
+
+1130
+01:01:09.187 --> 01:01:11.439
+<i>De repente, senti-me ambivalente,</i>
+
+1131
+01:01:11.523 --> 01:01:13.024
+<i>tendo em conta que sou jogador</i>
+
+1132
+01:01:13.108 --> 01:01:15.777
+<i>e Go é o
+pináculo dos jogos de tabuleiro.</i>
+
+1133
+01:01:15.860 --> 01:01:16.986
+<i>Mas adorei a declaração</i>
+
+1134
+01:01:17.070 --> 01:01:19.739
+<i>de um dos melhores
+profissionais chineses, que disse:</i>
+
+
+1135
+01:01:19.823 --> 01:01:25.370
+<i>"Se o AlphaGo vencer, talvez comecemos
+a ver o que é realmente este jogo."</i>
+
+
+1136
+01:01:27.038 --> 01:01:28.665
+<i>Não consegui comemorar.</i>
+
+1137
+01:01:28.998 --> 01:01:31.501
+<i>Foi fantástico termos vencido,</i>
+
+1138
+01:01:31.584 --> 01:01:33.461
+<i>mas uma grande parte de mim</i>
+
+1139
+01:01:33.545 --> 01:01:37.757
+<i>viu este homem a esforçar-se tanto</i>
+
+1140
+01:01:37.841 --> 01:01:42.095
+<i>e a ficar tão desiludido.</i>
+
+1141
+01:01:58.236 --> 01:02:01.448
+Vi na Internet que muitas pessoas
+falam sobre o Se-dol Lee.
+
+
+1142
+01:02:01.531 --> 01:02:03.158
+Talvez não tenha jogado ao melhor nível.
+
+1143
+01:02:03.450 --> 01:02:05.618
+Nós somos jogadores de Go.
+
+1144
+01:02:05.702 --> 01:02:08.413
+Por vezes, na China, na Coreia, no Japão,
+
+1145
+01:02:08.496 --> 01:02:10.123
+vemos o Go como arte.
+
+1146
+01:02:10.540 --> 01:02:11.916
+Somos artistas.
+
+1147
+01:02:12.000 --> 01:02:15.128
+- Damos o nosso melhor pelo Go.
+- Certo.
+
+
+1148
+01:02:15.211 --> 01:02:17.922
+- Sejam gentis com o Se-dol Lee.
+- Certo.
+
+
+1149
+01:02:18.006 --> 01:02:21.092
+Ele é muito bom jogador.
+É um grande jogador.
+
+
+1150
+01:02:21.634 --> 01:02:24.304
+Eu estava na sala. Vi o Se-dol Lee.
+Ele queria vencer.
+
+
+1151
+01:02:24.387 --> 01:02:26.514
+Tentou tudo.
+
+1152
+01:02:27.348 --> 01:02:30.727
+Mas não conseguimos. É tão...
+
+1153
+01:02:32.979 --> 01:02:35.982
+Primeiro, tenho de apresentar
+as minhas desculpas.
+
+
+1154
+01:02:38.193 --> 01:02:41.154
+Se tivesse jogado melhor
+ou de forma mais inteligente,
+
+
+1155
+01:02:41.237 --> 01:02:43.281
+o resultado podia ter sido diferente.
+
+1156
+01:02:43.364 --> 01:02:46.493
+Acho que, desta vez,
+desiludi muitos de vós.
+
+
+1157
+01:02:46.576 --> 01:02:49.704
+Quero pedir desculpa
+por ser tão impotente.
+
+
+1158
+01:02:50.705 --> 01:02:55.376
+Nunca tinha sentido tanta pressão,
+
+1159
+01:02:56.002 --> 01:02:58.296
+tanto peso.
+
+1160
+01:02:58.379 --> 01:03:02.383
+Acho que fui demasiado fraco
+para superar isso.
+
+
+1161
+01:03:04.052 --> 01:03:07.305
+<i>Não acredito que isto está a acontecer.</i>
+
+1162
+01:03:07.388 --> 01:03:10.266
+<i>Independentemente do nível do adversário,</i>
+
+1163
+01:03:10.350 --> 01:03:12.185
+ser derrotado não por 3-0, mas 5-0?
+
+1164
+01:03:13.853 --> 01:03:18.066
+<i>Perder 5-0 com o AlphaGo</i>
+
+1165
+01:03:18.149 --> 01:03:20.985
+<i>afetaria o meu orgulho.</i>
+
+1166
+01:03:21.069 --> 01:03:26.282
+<i>Também sinto pena
+das pessoas que me apoiaram.</i>
+
+
+1167
+01:03:26.991 --> 01:03:32.372
+Se-dol Lee tem o coração mais forte
+que eu conheço.
+
+
+1168
+01:03:32.747 --> 01:03:39.003
+Está a travar uma luta solitária.
+
+1169
+01:03:39.087 --> 01:03:42.549
+O adversário dele não tem forma física.
+
+1170
+01:03:42.632 --> 01:03:45.009
+Sinto pena dele.
+
+1171
+01:03:45.093 --> 01:03:47.345
+Ainda temos os Jogos Quatro e Cinco
+
+1172
+01:03:47.428 --> 01:03:53.393
+e, se o Se-dol
+Lee jogar ao seu estilo,
+
+1173
+01:03:53.476 --> 01:03:55.645
+penso que podemos vencer a máquina.
+
+1174
+01:03:55.728 --> 01:03:58.356
+MANHÃ DO JOGO 4
+
+1175
+01:04:07.156 --> 01:04:11.286
+<i>Dava para ver que estava mais descontraído
+depois de perder três jogos seguidos.</i>
+
+
+1176
+01:04:11.786 --> 01:04:13.705
+<i>Dito isso, ainda estava muito em jogo.</i>
+
+1177
+01:04:14.038 --> 01:04:17.041
+<i>No final, não é uma questão de orgulho.</i>
+
+1178
+01:04:18.418 --> 01:04:20.420
+<i>Ele não se sentia confiante,</i>
+
+1179
+01:04:20.837 --> 01:04:21.671
+<i>mas estava aliviado.</i>
+
+1180
+01:04:23.214 --> 01:04:27.010
+<i>Conseguirá o Se-dol Lee encontrar
+a fraqueza do AlphaGo?</i>
+
+
+1181
+01:04:27.093 --> 01:04:29.053
+<i>Existe realmente uma fraqueza?</i>
+
+1182
+01:04:29.137 --> 01:04:30.763
+Eu acho que puxava a ficha.
+
+1183
+01:04:30.847 --> 01:04:32.223
+- Puxavas a ficha?
+- Sim.
+
+
+1184
+01:04:32.307 --> 01:04:34.642
+<i>As pessoas continuar a torcer
+pelo Se-dol Lee.</i>
+
+
+1185
+01:04:34.726 --> 01:04:35.852
+<i>E...</i>
+
+1186
+01:04:36.728 --> 01:04:38.313
+Não está a correr bem.
+
+1187
+01:04:38.938 --> 01:04:42.233
+<i>Se-dol Lee optou por jogar
+de forma conservadora.</i>
+
+
+1188
+01:04:42.317 --> 01:04:45.403
+<i>Mas não sei se isso o beneficiará.</i>
+
+1189
+01:04:45.486 --> 01:04:46.446
+Concordo.
+
+1190
+01:04:46.529 --> 01:04:48.573
+Sim, não parece
+uma boa estratégia para ele.
+
+
+1191
+01:04:49.240 --> 01:04:52.160
+As coisas parecem estar boas
+para as pretas.
+
+
+1192
+01:04:52.243 --> 01:04:54.787
+- Parece estar bom para as pretas.
+- Sim, parece.
+
+
+1193
+01:04:54.871 --> 01:04:57.206
+<i>Quero que o Se-dol
+Lee faça o seu jogo.</i>
+
+1194
+01:04:57.749 --> 01:05:00.418
+<i>Porque ele já tentou várias coisas</i>
+
+1195
+01:05:00.501 --> 01:05:03.254
+<i>para jogar contra o AlphaGo,
+para compreender o AlphaGo,</i>
+
+
+1196
+01:05:03.338 --> 01:05:05.465
+<i>mas não tentou fazer o jogo dele.</i>
+
+1197
+01:05:06.549 --> 01:05:07.717
+<i>Já disse muitas vezes</i>
+
+1198
+01:05:07.800 --> 01:05:10.678
+que o AlphaGo é como um espelho.
+
+1199
+01:05:11.220 --> 01:05:12.847
+<i>Quando jogamos contra o AlphaGo,</i>
+
+1200
+01:05:13.431 --> 01:05:15.600
+<i>sentimo-nos muito estranhos.</i>
+
+1201
+01:05:15.975 --> 01:05:18.686
+<i>parece que estamos sempre nus.</i>
+
+1202
+01:05:19.312 --> 01:05:22.231
+<i>Da primeira vez, não queremos ver.</i>
+
+1203
+01:05:22.482 --> 01:05:24.317
+<i>"Serei eu? Mesmo eu?"</i>
+
+1204
+01:05:25.151 --> 01:05:27.528
+<i>E quanto mais vemos, aprendemos a aceitar.</i>
+
+1205
+01:05:27.904 --> 01:05:29.405
+"Sou mesmo eu.
+
+1206
+01:05:29.489 --> 01:05:32.283
+O que faço agora?"
+
+1207
+01:05:36.913 --> 01:05:39.457
+<i>Está a transformar-se
+numa luta muito perigosa.</i>
+
+
+1208
+01:05:40.208 --> 01:05:44.420
+<i>Este é o tipo de jogo do Se-dol Lee.
+Ele gosta deste tipo de luta.</i>
+
+
+1209
+01:05:44.504 --> 01:05:46.756
+<i>As brancas têm de encontrar algo
+no território das pretas.</i>
+
+
+1210
+01:05:46.839 --> 01:05:50.093
+<i>Acho que ele já está
+a planear tentar algo.</i>
+
+
+1211
+01:05:50.176 --> 01:05:53.012
+Acreditas na capacidade do Se-dol Lee
+
+1212
+01:05:53.096 --> 01:05:55.348
+para resistir naquela pequena área?
+
+1213
+01:05:55.431 --> 01:05:56.474
+Sim.
+
+1214
+01:05:56.557 --> 01:05:58.434
+Há ali algum potencial.
+
+1215
+01:05:58.851 --> 01:06:01.104
+E acho que ele talvez vá tentar algo.
+
+1216
+01:06:01.187 --> 01:06:02.689
+<i>- Magia Se-dol Lee!
+- Muito bem.</i>
+
+
+1217
+01:06:03.523 --> 01:06:05.942
+<i>Qual seria a jogada mágica?</i>
+
+1218
+01:06:06.025 --> 01:06:07.902
+O Se-dol Lee está a ficar sem tempo,
+
+1219
+01:06:07.985 --> 01:06:09.779
+<i>mas terá de usar
+todo o tempo que tem.</i>
+
+1220
+01:06:09.862 --> 01:06:12.657
+<i>Sim, já perdeu sete ou oito minutos</i>
+
+1221
+01:06:12.740 --> 01:06:14.117
+<i>só nesta jogada.</i>
+
+1222
+01:06:14.742 --> 01:06:16.160
+<i>Não vejo nada.</i>
+
+1223
+01:06:17.203 --> 01:06:19.080
+Não conseguimos encontrar nada.
+
+1224
+01:06:19.163 --> 01:06:20.456
+Mostra-nos algo.
+
+1225
+01:06:20.915 --> 01:06:22.375
+Não vejo qualquer jogada possível.
+
+1226
+01:06:22.458 --> 01:06:24.293
+O que estará o Se-dol Lee a tramar?
+
+1227
+01:06:24.377 --> 01:06:26.170
+Sim, ele está muito concentrado.
+
+1228
+01:06:26.254 --> 01:06:27.714
+É verdade. Vejam só.
+
+1229
+01:06:28.965 --> 01:06:30.466
+<i>O Se-dol Lee é muito paciente.</i>
+
+1230
+01:06:30.550 --> 01:06:33.094
+<i>Ele espera pelo seu momento.</i>
+
+1231
+01:06:33.886 --> 01:06:36.389
+Por vezes, ele parece um lobo,
+
+1232
+01:06:36.889 --> 01:06:40.351
+à espera na floresta, no inverno.
+
+1233
+01:06:41.644 --> 01:06:43.771
+<i>É frio. Parece muito frio.</i>
+
+1234
+01:06:44.564 --> 01:06:46.065
+<i>Precisa de paciência.</i>
+
+1235
+01:06:46.149 --> 01:06:48.276
+<i>Mas quando chega o momento,</i>
+
+1236
+01:06:48.359 --> 01:06:50.695
+ele ataca.
+
+1237
+01:06:52.071 --> 01:06:53.197
+<i>É o ponto crucial do jogo.</i>
+
+1238
+01:06:55.408 --> 01:06:57.243
+Vejam aquela jogada.
+É uma jogada emocionante.
+
+
+1239
+01:06:57.326 --> 01:06:59.537
+- Acho que, desta vez...
+<i>- Encontrou uma saída.</i>
+
+
+1240
+01:07:00.997 --> 01:07:05.668
+<i>Vai mudar o cenário
+porque, agora, as pretas não podem fugir.</i>
+
+
+1241
+01:07:05.752 --> 01:07:07.420
+Seria muito porreiro se resultasse.
+
+1242
+01:07:14.677 --> 01:07:18.014
+<i>O AlphaGo fez uma jogada invulgar.</i>
+
+1243
+01:07:18.473 --> 01:07:21.893
+<i>Não sei bem o que o AlphaGo
+está a tentar fazer.</i>
+
+
+1244
+01:07:21.976 --> 01:07:23.019
+<i>O que é aquilo?</i>
+
+1245
+01:07:23.102 --> 01:07:24.729
+<i>Não estou a perceber.</i>
+
+1246
+01:07:24.812 --> 01:07:25.688
+Ora bem.
+
+1247
+01:07:25.772 --> 01:07:28.524
+Foi uma queda abrupta na taxa de vitória.
+
+1248
+01:07:28.608 --> 01:07:31.110
+É a queda mais acentuada que já vi.
+
+1249
+01:07:31.944 --> 01:07:32.904
+Caiu 8 %.
+
+1250
+01:07:36.282 --> 01:07:39.410
+<i>Pode ser por não conseguir
+encontrar uma solução.</i>
+
+
+1251
+01:07:39.494 --> 01:07:40.536
+Acho que isto é...
+
+1252
+01:07:40.620 --> 01:07:43.331
+Consegue ver que não tem solução
+
+1253
+01:07:43.414 --> 01:07:45.166
+e talvez esteja em <i>tilt.</i> Não sei.
+
+1254
+01:07:45.958 --> 01:07:47.168
+É agora.
+
+1255
+01:07:47.585 --> 01:07:49.337
+<i>- Houve uma vez.</i>
+- É agora.
+
+
+1256
+01:07:49.420 --> 01:07:51.964
+Parece que caiu do penhasco.
+
+1257
+01:07:52.799 --> 01:07:54.926
+- Sim, cometeu um erro.
+<i>- Sim.</i>
+
+
+1258
+01:07:55.009 --> 01:07:56.803
+Aconteceu algo estranho no...
+
+1259
+01:07:57.220 --> 01:07:58.596
+- Não. Parecia tudo normal.
+- Sim.
+
+
+1260
+01:07:58.679 --> 01:08:01.307
+Podemos dizer claramente
+que tem uma fraqueza.
+
+
+1261
+01:08:01.933 --> 01:08:03.476
+Podemos dizer que há um erro.
+
+1262
+01:08:05.019 --> 01:08:09.398
+<i>Fiquei com uma sensação
+de aperto no estômago,</i>
+
+
+1263
+01:08:09.482 --> 01:08:12.819
+<i>sem saber se o AlphaGo
+estava a delirar nesta situação.</i>
+
+
+1264
+01:08:12.902 --> 01:08:15.196
+<i>Via que estava a jogar de forma estranha.</i>
+
+1265
+01:08:15.571 --> 01:08:17.490
+<i>Ao mesmo tempo,
+senti alívio pelo Se-dol Lee,</i>
+
+
+1266
+01:08:17.573 --> 01:08:20.159
+<i>porque agora tinha uma hipótese.</i>
+
+1267
+01:08:21.828 --> 01:08:24.580
+O Aja tenta não parecer horrorizado.
+
+1268
+01:08:26.374 --> 01:08:30.670
+<i>Eu sabia que após a jogada 78,
+após 10 ou 20 jogadas,</i>
+
+
+1269
+01:08:31.045 --> 01:08:33.840
+<i>via o AlphaGo fazer jogadas estranhas.</i>
+
+1270
+01:08:34.632 --> 01:08:38.469
+Sabia que o AlphaGo tinha enlouquecido,
+mas não percebia porquê.
+
+
+1271
+01:08:40.388 --> 01:08:43.432
+Estamos a pesquisar 95 jogadas à frente?
+
+1272
+01:08:43.516 --> 01:08:44.934
+Na parte em que cometeu o erro?
+
+1273
+01:08:45.852 --> 01:08:47.144
+Acho que algo correu mal.
+
+1274
+01:08:47.228 --> 01:08:49.480
+É a pesquisa mais longa
+que ele fez, não é?
+
+
+1275
+01:08:49.564 --> 01:08:52.400
+- Sim.
+- Acho que pesquisou tanto,
+
+
+1276
+01:08:52.483 --> 01:08:54.443
+que se perdeu.
+- Está cansado.
+
+
+1277
+01:08:55.486 --> 01:08:59.115
+<i>Tenho a impressão que o AlphaGo
+se desviou do objetivo.</i>
+
+
+1278
+01:08:59.198 --> 01:09:02.243
+- O que está a fazer?
+- Talvez tenha um plano.
+
+
+1279
+01:09:02.326 --> 01:09:04.787
+Não, ele não pensa isso, pois não?
+
+1280
+01:09:04.871 --> 01:09:08.457
+Sabe que cometeu um erro
+e começa a avaliar por outro lado.
+
+
+1281
+01:09:09.000 --> 01:09:11.377
+<i>Vejam, o Lee está confuso.
+Está a pensar: "Para onde vai ele?"</i>
+
+
+1282
+01:09:11.460 --> 01:09:14.338
+<i>Não é confusão por estar com medo.
+Não sabe mesmo o que ele está a fazer.</i>
+
+
+1283
+01:09:14.422 --> 01:09:15.673
+O que se passa?
+
+1284
+01:09:16.048 --> 01:09:17.550
+Perguntaste se era um erro.
+
+1285
+01:09:18.050 --> 01:09:20.887
+Eu já disse antes que se...
+
+1286
+01:09:20.970 --> 01:09:23.723
+- Sim. Era o que eu pensava.
+- Se a DeepMind descobriu
+
+
+1287
+01:09:23.806 --> 01:09:26.392
+como escrever código sem erros,
+
+1288
+01:09:26.475 --> 01:09:28.769
+é uma novidade ainda maior
+do que o AlphaGo.
+
+
+1289
+01:09:28.853 --> 01:09:29.896
+Estão a brincar?
+
+1290
+01:09:30.688 --> 01:09:32.940
+Com a próxima jogada que vamos fazer...
+
+1291
+01:09:35.026 --> 01:09:37.945
+... acho que vão rir.
+Acho que o Lee vai rir.
+
+
+1292
+01:09:47.788 --> 01:09:48.873
+O que é isto?
+
+1293
+01:09:50.458 --> 01:09:52.043
+- É ridículo!
+- O que se passa?
+
+
+1294
+01:09:52.126 --> 01:09:53.502
+O que estará a pensar?
+
+1295
+01:09:53.836 --> 01:09:56.088
+<i>Não sei o que o AlphaGo
+está a tentar fazer.</i>
+
+
+1296
+01:09:57.381 --> 01:09:58.966
+É o eufemismo do ano.
+
+1297
+01:09:59.634 --> 01:10:02.261
+<i>- Será um erro do Aja Huang?
+- Não, é essa a jogada.</i>
+
+
+1298
+01:10:02.345 --> 01:10:04.138
+<i>O Aja Huang não se enganou.</i>
+
+1299
+01:10:05.139 --> 01:10:06.766
+<i>O Se-dol Lee está muito confuso.</i>
+
+1300
+01:10:07.224 --> 01:10:08.684
+<i>Isto não são jogadas humanas.</i>
+
+1301
+01:10:08.893 --> 01:10:12.104
+Esta jogada é inexplicável.
+
+1302
+01:10:12.396 --> 01:10:15.858
+<i>Podemos chamar claramente erros
+àquelas jogadas.</i>
+
+
+1303
+01:10:15.942 --> 01:10:16.776
+<i>Sim, claro.</i>
+
+1304
+01:10:16.859 --> 01:10:19.111
+Mas é a primeira vez em quatro partidas
+
+1305
+01:10:19.195 --> 01:10:20.738
+<i>que vimos jogadas assim.
+- Certo.</i>
+
+
+1306
+01:10:21.364 --> 01:10:22.823
+O valor caiu ainda mais.
+
+1307
+01:10:23.616 --> 01:10:24.617
+É estranho.
+
+1308
+01:10:25.451 --> 01:10:26.827
+Estão com 45 %
+
+1309
+01:10:28.829 --> 01:10:29.789
+<i>As brancas.</i>
+
+1310
+01:10:30.206 --> 01:10:31.958
+<i>- As brancas.
+- As brancas estão a vencer.</i>
+
+
+1311
+01:10:32.458 --> 01:10:34.126
+<i>Vamos, Se-dol Lee.</i>
+
+1312
+01:10:34.335 --> 01:10:37.254
+- É inacreditável.
+- Sim.
+
+
+1313
+01:10:37.338 --> 01:10:41.926
+Estava tão confiante de que esta área
+estivesse consolidada para as pretas
+
+
+1314
+01:10:42.009 --> 01:10:43.135
+e de que não tivesse nada.
+
+1315
+01:10:43.219 --> 01:10:46.514
+E apagou tudo. Desapareceu.
+
+1316
+01:10:46.597 --> 01:10:47.974
+<i>Ele encontrou a fraqueza dele.</i>
+
+1317
+01:10:48.057 --> 01:10:50.559
+Aquela jogada de cunha
+deve tê-lo surpreendido.
+
+
+1318
+01:10:50.643 --> 01:10:51.978
+- Sim, a cunha.
+- Sim.
+
+
+1319
+01:10:52.061 --> 01:10:54.605
+O AlphaGo parecia ter
+um jogo muito bom e depois...
+
+
+1320
+01:10:54.689 --> 01:10:58.109
+Esta sequência no centro mudou tudo.
+
+1321
+01:10:58.192 --> 01:11:00.027
+Ele consegue um milagre.
+
+1322
+01:11:00.361 --> 01:11:01.988
+Conseguiu torná-lo tão complicado,
+
+1323
+01:11:02.071 --> 01:11:05.574
+que a IA não avalia corretamente.
+
+1324
+01:11:05.658 --> 01:11:08.285
+<i>Parece que o Aja Huang, ali sentado,</i>
+
+1325
+01:11:08.369 --> 01:11:10.246
+<i>também sabe que o jogo terminou.</i>
+
+1326
+01:11:10.663 --> 01:11:13.249
+Não consigo parar de sorrir.
+
+1327
+01:11:13.833 --> 01:11:15.126
+<i>Ele sorriu?</i>
+
+1328
+01:11:15.209 --> 01:11:16.877
+<i>Ainda não o vi sorrir.</i>
+
+1329
+01:11:17.461 --> 01:11:19.338
+<i>- Ainda está a confirmar.
+- Está tão sério.</i>
+
+
+1330
+01:11:19.422 --> 01:11:20.756
+<i>Está tão sério.</i>
+
+1331
+01:11:20.840 --> 01:11:23.092
+<i>- Quer ter cuidado.
+- Sim.</i>
+
+
+1332
+01:11:23.175 --> 01:11:25.678
+<i>Está muito preocupado.</i>
+
+1333
+01:11:25.761 --> 01:11:27.221
+<i>Ele dá o seu melhor.</i>
+
+1334
+01:11:28.014 --> 01:11:30.433
+<i>Acho que ele sente...</i>
+
+1335
+01:11:31.726 --> 01:11:33.019
+<i>... uma responsabilidade.</i>
+
+1336
+01:11:33.561 --> 01:11:34.520
+<i>Ou um fardo.</i>
+
+1337
+01:11:35.104 --> 01:11:36.772
+Acho que está quase terminado.
+
+1338
+01:11:37.440 --> 01:11:38.649
+<i>Qual é a percentagem?</i>
+
+1339
+01:11:38.733 --> 01:11:40.401
+<i>Mostra 18,2 %.</i>
+
+1340
+01:11:41.068 --> 01:11:42.945
+<i>A próxima jogada deve ser de desistência.</i>
+
+1341
+01:11:47.116 --> 01:11:49.744
+<i>Aí está. O AlphaGo desistiu.</i>
+
+1342
+01:11:52.204 --> 01:11:53.831
+Parece que o AlphaGo desistiu.
+
+1343
+01:11:55.583 --> 01:11:57.543
+<i>O jogo mais incrível...</i>
+
+1344
+01:11:59.211 --> 01:12:03.007
+Quase tenho vontade de chorar.
+Foi o Jogo Quatro,
+
+
+1345
+01:12:04.008 --> 01:12:05.885
+em que ele recupera e vence.
+
+1346
+01:12:05.968 --> 01:12:07.178
+Desistiu!
+
+1347
+01:12:10.014 --> 01:12:11.724
+Estou tão contente!
+
+1348
+01:12:14.268 --> 01:12:15.811
+ALPHAGO DESISTE
+
+1349
+01:12:15.895 --> 01:12:18.105
+O RESULTADO "DESISTE" FOI ADICIONADO
+À INFORMAÇÃO DO JOGO
+
+
+1350
+01:12:18.189 --> 01:12:19.815
+<i>Ouvi pessoas a gritar de alegria</i>
+
+1351
+01:12:20.232 --> 01:12:22.777
+<i>quando ficou claro
+que o AlphaGo tinha perdido.</i>
+
+
+1352
+01:12:23.235 --> 01:12:24.945
+<i>Acho que é evidente porquê.</i>
+
+1353
+01:12:26.489 --> 01:12:28.657
+<i>As pessoas sentiram desamparo e medo.</i>
+
+1354
+01:12:29.450 --> 01:12:32.453
+<i>Parecia que os humanos
+eram tão fracos e frágeis.</i>
+
+
+1355
+01:12:33.496 --> 01:12:36.207
+<i>E esta vitória significava</i>
+
+1356
+01:12:36.999 --> 01:12:41.128
+<i>que podíamos continuar a acreditar em nós.</i>
+
+1357
+01:12:41.212 --> 01:12:44.131
+<i>Com o passar do tempo, será provavelmente
+muito difícil vencer a IA.</i>
+
+
+1358
+01:12:44.799 --> 01:12:50.513
+Vencendo desta vez,
+achei que era suficiente.
+
+
+1359
+01:12:51.597 --> 01:12:52.973
+Uma vez era suficiente.
+
+1360
+01:12:53.599 --> 01:12:58.604
+Ouvi muita gente a dizer
+que saiu à rua a correr.
+
+
+1361
+01:12:58.687 --> 01:13:00.231
+Estavam muito felizes.
+
+1362
+01:13:00.314 --> 01:13:02.441
+Estavam a cantar e a comemorar.
+
+1363
+01:13:02.525 --> 01:13:05.402
+Especialmente após o 0-3,
+
+1364
+01:13:05.778 --> 01:13:10.491
+parecia não haver esperança
+e que o fim do mundo se aproximava,
+
+
+1365
+01:13:10.741 --> 01:13:11.992
+mas vimos a luz.
+
+1366
+01:13:12.076 --> 01:13:12.910
+Normalmente...
+
+1367
+01:13:12.993 --> 01:13:15.204
+SECRETÁRIA GERAL
+FUNDAÇÃO INTERNACIONAL DE GO
+
+
+1368
+01:13:15.287 --> 01:13:17.873
+... fico feliz quando venço
+e não quando um colega vence.
+
+
+1369
+01:13:18.415 --> 01:13:22.211
+Desta vez, parecia que eu tinha vencido.
+
+1370
+01:13:22.294 --> 01:13:24.630
+Não quis fazer uma jogada
+que o AlphaGo pudesse prever.
+
+
+1371
+01:13:24.713 --> 01:13:25.756
+Esta parte...
+
+1372
+01:13:26.715 --> 01:13:29.426
+Não previu esta jogada de cunha.
+
+1373
+01:13:30.386 --> 01:13:31.929
+Pelo menos venci um jogo.
+
+1374
+01:13:33.013 --> 01:13:34.056
+Bom trabalho.
+
+1375
+01:14:02.501 --> 01:14:06.338
+<i>Mas não esperava que fosse assim.</i>
+
+1376
+01:14:06.922 --> 01:14:08.924
+<i>Nem conseguia acreditar que tinha vencido.</i>
+
+1377
+01:14:09.008 --> 01:14:11.552
+Foi incrível.
+
+1378
+01:14:12.136 --> 01:14:13.345
+Muito obrigado.
+
+1379
+01:14:14.388 --> 01:14:18.225
+Nunca tinha sido tão parabenizado
+por vencer um jogo.
+
+
+1380
+01:14:18.976 --> 01:14:22.688
+Após perder três jogos seguidos,
+não podia estar mais feliz.
+
+
+1381
+01:14:25.608 --> 01:14:30.321
+Esta vitória é tão valiosa,
+que eu não a trocaria
+
+
+1382
+01:14:30.404 --> 01:14:33.115
+por nada neste mundo.
+
+1383
+01:14:33.574 --> 01:14:36.827
+A minha pergunta é sobre a jogada 78.
+
+1384
+01:14:36.911 --> 01:14:40.164
+O jogador Gu Li disse
+que tinha sido uma jogada de Deus.
+
+
+1385
+01:14:40.247 --> 01:14:42.708
+Em que pensou
+quando fez aquela jogada? Obrigado.
+
+
+1386
+01:14:43.125 --> 01:14:48.380
+Nessa fase do jogo,
+só consegui pensar na jogada 78.
+
+
+1387
+01:14:48.464 --> 01:14:50.841
+Não havia outra hipótese.
+
+1388
+01:14:50.925 --> 01:14:53.844
+Era a minha única opção.
+
+1389
+01:14:53.928 --> 01:14:57.598
+Sinto-me muito humilde
+pelos elogios que estou a receber.
+
+
+1390
+01:14:58.891 --> 01:15:01.894
+<i>Deixa-me impressionado
+com o poder do cérebro humano</i>
+
+
+1391
+01:15:01.977 --> 01:15:05.814
+<i>e especialmente com a capacidade
+do Lee para causar problemas ao AlphaGo</i>
+
+
+1392
+01:15:05.898 --> 01:15:08.567
+<i>e encontrar uma solução
+onde parecia não existir.</i>
+
+
+1393
+01:15:08.651 --> 01:15:10.819
+<i>Queremos perceber o que aconteceu.</i>
+
+1394
+01:15:11.528 --> 01:15:13.405
+Foi realmente a jogada do Lee?
+
+1395
+01:15:13.489 --> 01:15:14.365
+A chave é o centro.
+
+1396
+01:15:14.448 --> 01:15:16.116
+Depois de perder o centro,
+não há hipótese.
+
+
+1397
+01:15:16.200 --> 01:15:17.117
+Vamos.
+
+1398
+01:15:17.201 --> 01:15:18.577
+Antes disto, estávamos a vencer.
+
+1399
+01:15:19.328 --> 01:15:20.913
+Se o AlphaGo pensou que estava a vencer
+
+1400
+01:15:20.996 --> 01:15:24.250
+e não conseguiu converter a vitória,
+significa que não estava a vencer.
+
+
+1401
+01:15:24.333 --> 01:15:26.252
+Ou teria tido as respostas certas.
+
+1402
+01:15:26.335 --> 01:15:27.378
+Teríamos feito essa jogada?
+
+1403
+01:15:28.504 --> 01:15:30.422
+Que probabilidade dá às brancas?
+
+1404
+01:15:33.634 --> 01:15:36.762
+De 0,007 %.
+
+1405
+01:15:36.845 --> 01:15:38.514
+Isso é na posição para onde jogou?
+
+1406
+01:15:38.597 --> 01:15:39.807
+- Foi quando jogou.
+- Certo.
+
+
+1407
+01:15:39.890 --> 01:15:42.142
+- Pensávamos que era um para dez mil.
+- Eu sei que era...
+
+
+1408
+01:15:42.226 --> 01:15:43.852
+- Sim.
+- Os valores que desconhecíamos.
+
+
+1409
+01:15:45.729 --> 01:15:48.565
+A jogada de Deus foi literalmente de Deus,
+
+1410
+01:15:48.649 --> 01:15:51.652
+porque achamos que só um
+em cada dez mil humanos
+
+
+1411
+01:15:51.735 --> 01:15:53.237
+teria pensado nessa jogada.
+- Sim.
+
+
+1412
+01:15:53.320 --> 01:15:58.033
+Não está nas cinco jogadas principais
+que ponderaríamos fazer.
+
+
+1413
+01:15:58.117 --> 01:16:00.160
+À exceção do Se-dol Lee.
+Ele disse que era a única.
+
+
+1414
+01:16:00.244 --> 01:16:03.122
+Pensou que era a única jogada.
+É notável, não é?
+
+
+1415
+01:16:04.540 --> 01:16:06.792
+MANHÃ DO JOGO 5
+
+1416
+01:16:06.875 --> 01:16:09.044
+<i>Bem-vindos de volta ao Four Seasons.</i>
+
+1417
+01:16:09.128 --> 01:16:10.963
+<i>O campeão do mundo Se-dol Lee</i>
+
+1418
+01:16:11.046 --> 01:16:16.343
+<i>procurou as fraquezas do AlphaGo
+no Jogo Quatro e encontrou-as.</i>
+
+
+1419
+01:16:16.427 --> 01:16:20.973
+<i>Hoje, na última ronda.
+ele vai tentar repetir.</i>
+
+
+1420
+01:16:21.056 --> 01:16:22.224
+<i>Veremos o que acontece.</i>
+
+1421
+01:16:22.308 --> 01:16:23.934
+<i>Está uma loucura lá em baixo.</i>
+
+1422
+01:16:24.018 --> 01:16:26.812
+<i>Estão talvez mais jornalistas hoje</i>
+
+1423
+01:16:26.895 --> 01:16:28.814
+<i>do que no dia do Jogo Um.</i>
+
+1424
+01:16:30.024 --> 01:16:32.484
+<i>Estávamos todos empolgados
+com o quinto jogo,</i>
+
+
+1425
+01:16:32.568 --> 01:16:33.736
+<i>para ver o que aconteceria.</i>
+
+1426
+01:16:33.819 --> 01:16:37.072
+<i>Ficaria 3-2 ou ficaria 4-1?</i>
+
+1427
+01:16:37.156 --> 01:16:40.034
+<i>E cada um dos resultados
+tem uma mensagem diferente.</i>
+
+
+1428
+01:16:41.243 --> 01:16:44.663
+<i>Eu não creio
+que o AlphaGo vá repetir o erro.</i>
+
+
+1429
+01:16:45.581 --> 01:16:46.707
+<i>Mas quem sabe?</i>
+
+1430
+01:16:47.541 --> 01:16:48.667
+<i>Talvez aconteça de novo.</i>
+
+1431
+01:16:49.335 --> 01:16:53.297
+<i>E o Se-dol Lee está mais confiante.</i>
+
+1432
+01:16:53.380 --> 01:16:58.969
+<i>Talvez o Se-dol Lee tenha encontrado
+a chave para abrir o AlphaGo.</i>
+
+
+1433
+01:16:59.595 --> 01:17:00.637
+Isto resulta!
+
+1434
+01:17:03.265 --> 01:17:06.477
+É correto dizer
+que o AlphaGo cometeu um erro?
+
+
+1435
+01:17:06.560 --> 01:17:07.895
+Podemos ter outra vitória hoje.
+
+1436
+01:17:08.145 --> 01:17:11.357
+Não gostaste do momento
+em que esta jogada foi feita.
+
+
+1437
+01:17:11.440 --> 01:17:14.401
+- Sim.
+- E não concordas com esta.
+
+
+1438
+01:17:15.027 --> 01:17:19.531
+Sim, acho que o AlphaGo
+ainda não recuperou do Jogo Quatro.
+
+
+1439
+01:17:20.282 --> 01:17:21.367
+Continua iludido?
+
+1440
+01:17:22.076 --> 01:17:23.202
+Não sabemos.
+
+1441
+01:17:23.744 --> 01:17:24.870
+Espero que ele não...
+
+1442
+01:17:24.953 --> 01:17:26.830
+Não, ele tem de jogar...
+
+1443
+01:17:29.583 --> 01:17:31.919
+<i>Ele fez algumas jogadas.</i>
+
+1444
+01:17:32.002 --> 01:17:33.087
+<i>Foram jogadas más.</i>
+
+1445
+01:17:33.170 --> 01:17:34.630
+<i>Eu pensei</i>
+
+1446
+01:17:34.713 --> 01:17:37.049
+<i>que talvez a fraqueza tivesse voltado.</i>
+
+1447
+01:17:37.132 --> 01:17:40.094
+<i>Estaremos perante outro curto-circuito?</i>
+
+1448
+01:17:40.177 --> 01:17:42.304
+<i>Ou há algo...</i>
+
+1449
+01:17:42.388 --> 01:17:44.348
+<i>Acho que pode ser um erro de leitura.</i>
+
+1450
+01:17:45.140 --> 01:17:46.475
+<i>E estamos...</i>
+
+1451
+01:17:46.558 --> 01:17:48.310
+<i>Estás em condições de afirmar que...</i>
+
+1452
+01:17:48.394 --> 01:17:51.146
+<i>- Está bom para o Se-dol Lee.
+- ... está bom para o Se-dol Lee.</i>
+
+
+1453
+01:17:54.233 --> 01:17:55.651
+Porque está a jogar ali?
+
+1454
+01:17:55.734 --> 01:17:57.694
+Não há razão para fazer aquela jogada.
+
+1455
+01:17:57.778 --> 01:17:58.612
+TAXA DE VITÓRIA
+
+1456
+01:17:58.695 --> 01:17:59.696
+<i>Foi uma má jogada.</i>
+
+1457
+01:17:59.780 --> 01:18:02.616
+<i>E, em alguns casos, irá perder um ponto.</i>
+
+1458
+01:18:02.699 --> 01:18:04.827
+<i>É exatamente a mesma coisa.</i>
+
+1459
+01:18:04.910 --> 01:18:06.370
+Agora é 91 % certo.
+
+1460
+01:18:06.453 --> 01:18:08.455
+<i>Alguém me dizia que talvez tivesse...</i>
+
+1461
+01:18:08.539 --> 01:18:10.499
+Está novamente incorreto.
+
+1462
+01:18:12.209 --> 01:18:15.337
+<i>Passámos o jogo a pensar que o AlphaGo
+estava a perceber mal o tabuleiro.</i>
+
+
+1463
+01:18:15.421 --> 01:18:18.424
+Estávamos muito preocupados.
+"Vai jogar pessimamente.
+
+
+1464
+01:18:18.507 --> 01:18:20.676
+<i>Vai perder de forma vergonhosa."</i>
+
+1465
+01:18:20.759 --> 01:18:22.719
+<i>E isso continuou durante todo o jogo.</i>
+
+1466
+01:18:23.554 --> 01:18:24.555
+Isto é estranho.
+
+1467
+01:18:25.389 --> 01:18:26.807
+- Quando fez essa jogada?
+- Agora.
+
+
+1468
+01:18:26.890 --> 01:18:29.268
+- Não sei.
+- Não sabemos.
+
+
+1469
+01:18:29.351 --> 01:18:31.437
+Não sabemos jogar Go
+suficientemente bem, certo?
+
+
+1470
+01:18:31.520 --> 01:18:32.354
+Sim.
+
+1471
+01:18:32.438 --> 01:18:34.857
+<i>E, afinal, nenhum de nós conhecia o Go</i>
+
+1472
+01:18:34.940 --> 01:18:37.151
+ao ponto de avaliar
+o que o AlphaGo estava a fazer.
+
+
+1473
+01:18:37.234 --> 01:18:38.610
+As brancas estão a vencer.
+
+1474
+01:18:38.694 --> 01:18:40.112
+As brancas parecem estar a vencer.
+
+1475
+01:18:42.156 --> 01:18:47.119
+Todos dizemos que as jogadas
+do AlphaGo são muito estranhas
+
+
+1476
+01:18:47.202 --> 01:18:48.620
+e podem ser erros.
+
+1477
+01:18:48.912 --> 01:18:52.207
+<i>Mas no final do jogo,</i>
+
+1478
+01:18:52.291 --> 01:18:56.378
+<i>temos de duvidar de nós mesmos,
+da nossa opinião.</i>
+
+
+1479
+01:18:56.462 --> 01:18:59.631
+O AlphaGo faz outra jogada sem sentido.
+
+1480
+01:19:00.215 --> 01:19:01.550
+Não sei bem do que se trata.
+
+1481
+01:19:01.633 --> 01:19:04.178
+Isto é aquilo que parece
+uma jogada de 10º ou 11º <i>dan.</i>
+
+
+1482
+01:19:04.261 --> 01:19:06.930
+São estranhas e não as compreendemos.
+
+1483
+01:19:07.014 --> 01:19:10.476
+<i>Acho que é importante estudar mais</i>
+
+1484
+01:19:10.559 --> 01:19:13.604
+<i>as jogadas do AlphaGo que parecem erros.</i>
+
+1485
+01:19:14.021 --> 01:19:18.108
+<i>E talvez possamos retificar
+o nosso conhecimento do Go.</i>
+
+
+1486
+01:19:18.192 --> 01:19:21.904
+<i>A coisa mais incrível
+que saiu da minha compreensão do Go</i>
+
+
+1487
+01:19:21.987 --> 01:19:26.283
+por ver o AlphaGo a jogar
+são as chamadas "jogadas lentas".
+
+
+1488
+01:19:26.366 --> 01:19:29.077
+Há algo estranho na forma como joga,
+
+1489
+01:19:29.161 --> 01:19:32.331
+porque faz jogadas desnecessárias.
+
+1490
+01:19:32.414 --> 01:19:33.248
+Certo.
+
+1491
+01:19:33.332 --> 01:19:36.293
+<i>Uma "jogada lenta"
+é uma jogada que parece indolente.</i>
+
+
+1492
+01:19:36.376 --> 01:19:40.130
+<i>Podemos ver outras jogadas melhores
+e o AlphaGo rejeita-as.</i>
+
+
+1493
+01:19:40.214 --> 01:19:43.550
+<i>O que o AlphaGo nos está a ensinar</i>
+
+1494
+01:19:43.634 --> 01:19:49.765
+<i>é que temos usado a pontuação
+para calcular as hipóteses de vencer.</i>
+
+
+1495
+01:19:49.848 --> 01:19:52.851
+<i>Quanto maior a minha margem territorial,</i>
+
+1496
+01:19:52.935 --> 01:19:54.937
+<i>mais confiante estou de que vou vencer.</i>
+
+1497
+01:19:55.020 --> 01:19:58.482
+<i>E o AlphaGo diz: "Nada disso.
+Não importa por quanto se vence.</i>
+
+
+1498
+01:19:58.565 --> 01:20:00.692
+Basta vencer por um ponto.
+
+1499
+01:20:00.776 --> 01:20:03.695
+<i>Para quê conquistar território extra
+de que não preciso?</i>
+
+
+1500
+01:20:03.779 --> 01:20:06.156
+<i>As lições que o
+AlphaGo nos está a ensinar</i>
+
+1501
+01:20:06.240 --> 01:20:11.828
+<i>vão influenciar a forma como se jogará Go
+nos próximos mil anos.</i>
+
+
+1502
+01:20:12.329 --> 01:20:14.623
+Pela minha contagem, as brancas venceram.
+
+1503
+01:20:14.873 --> 01:20:17.876
+Por quanto?
+Estamos a falar de dois pontos?
+
+
+1504
+01:20:17.960 --> 01:20:19.795
+- Um e meio.
+- Um ponto e meio.
+
+
+1505
+01:20:20.087 --> 01:20:22.422
+Um ponto e meio.
+Talvez meio ponto, talvez um ponto e meio.
+
+
+1506
+01:20:22.506 --> 01:20:25.968
+Claro que o Go é só um jogo,
+mas podemos aprender lições importantes
+
+
+1507
+01:20:26.051 --> 01:20:28.804
+<i>com um computador que joga tão bem Go.</i>
+
+1508
+01:20:28.887 --> 01:20:32.140
+<i>As máquinas terão a capacidade
+não apenas de processar</i>
+
+
+1509
+01:20:32.224 --> 01:20:36.520
+<i>grandes quantidades de dados,
+mas de os analisar de forma inteligente.</i>
+
+
+1510
+01:20:36.853 --> 01:20:39.481
+<i>Tal como no caso dos jogos de Go,</i>
+
+1511
+01:20:39.565 --> 01:20:42.943
+<i>a máquina fez jogadas
+que surpreenderam até os especialistas.</i>
+
+
+1512
+01:20:43.026 --> 01:20:45.696
+<i>E as máquinas acabarão por ganhar
+a nossa confiança</i>
+
+
+1513
+01:20:45.779 --> 01:20:47.990
+<i>porque veremos com muita frequência</i>
+
+1514
+01:20:48.073 --> 01:20:51.076
+<i>que fazem melhores avaliações
+do que nós, humanos.</i>
+
+
+1515
+01:20:54.037 --> 01:20:55.747
+O AlphaGo tem uma boa base.
+
+1516
+01:21:01.920 --> 01:21:03.255
+<i>O que mais me surpreendeu</i>
+
+1517
+01:21:03.839 --> 01:21:05.591
+<i>foi que o AlphaGo nos mostrou</i>
+
+1518
+01:21:05.674 --> 01:21:09.303
+<i>que jogadas que os humanos julgavam
+serem criativas, eram só convencionais.</i>
+
+
+1519
+01:21:10.012 --> 01:21:15.058
+Acho que isto trará
+um novo paradigma ao Go.
+
+
+1520
+01:21:15.142 --> 01:21:18.478
+O AlphaGo também ganhou esta área? Céus.
+
+1521
+01:21:18.562 --> 01:21:21.857
+Isto deixa-me muito desconfortável.
+
+1522
+01:21:22.858 --> 01:21:25.319
+Infelizmente para o Se-dol Lee,
+
+1523
+01:21:25.402 --> 01:21:27.654
+acho que as brancas podem ter
+uma ligeira vantagem.
+
+
+1524
+01:21:27.738 --> 01:21:30.574
+As brancas estão espalhadas,
+mas se contarmos, dá 1,5.
+
+
+1525
+01:21:30.657 --> 01:21:32.075
+Falam sempre em 1,5 pontos.
+
+1526
+01:21:32.159 --> 01:21:33.994
+Como sabes que os coreanos
+deram a vitória?
+
+
+1527
+01:21:34.077 --> 01:21:35.037
+Alguém...
+
+1528
+01:21:36.246 --> 01:21:38.332
+- Quem disse que os coreanos o fizeram?
+- Não sei.
+
+
+1529
+01:21:38.415 --> 01:21:40.167
+Disseram-te os coreanos?
+
+1530
+01:21:40.250 --> 01:21:41.209
+Foram os coreanos.
+
+1531
+01:21:41.293 --> 01:21:44.254
+Os coreanos deram a vitória ao AlphaGo.
+
+1532
+01:21:44.338 --> 01:21:47.549
+Queríamos saber
+se algum coreano consegue saber isso.
+
+
+1533
+01:21:49.217 --> 01:21:51.094
+Os coreanos acham
+que o AlphaGo está a vencer.
+
+
+1534
+01:21:51.845 --> 01:21:53.430
+"A vencer", não dizem que venceu.
+
+1535
+01:21:53.513 --> 01:21:54.723
+- Foi o que disse.
+- "A vencer".
+
+
+1536
+01:21:54.806 --> 01:21:56.099
+Disse que tinham dado a vitória.
+
+1537
+01:22:01.730 --> 01:22:03.357
+O AlphaGo está a dizer que vai desistir.
+
+1538
+01:22:03.565 --> 01:22:04.733
+- Mas que...
+- Estou a brincar.
+
+
+1539
+01:22:06.485 --> 01:22:08.362
+Credo, quase tive um ataque.
+
+1540
+01:22:09.029 --> 01:22:10.614
+É ridículo.
+
+1541
+01:22:11.448 --> 01:22:12.658
+Foi muito bom.
+
+1542
+01:22:13.450 --> 01:22:14.993
+- Bem jogado.
+- Sim.
+
+
+1543
+01:22:15.077 --> 01:22:16.370
+- Bem jogado.
+- Nem por isso.
+
+
+1544
+01:22:16.453 --> 01:22:19.623
+Não conseguia fazê-lo por muito tempo.
+Não conseguia pensar assim.
+
+
+1545
+01:22:19.706 --> 01:22:21.583
+David, esperas há dois anos por isso.
+
+1546
+01:22:21.667 --> 01:22:23.251
+Ele tem de o fazer.
+
+1547
+01:22:23.877 --> 01:22:26.505
+Não sabemos a pontuação.
+Não sabemos o que se passa, pois não?
+
+
+1548
+01:22:27.547 --> 01:22:28.507
+Dois pontos e meio.
+
+1549
+01:22:28.590 --> 01:22:30.175
+O Lee está a perder por 2,5 pontos.
+
+1550
+01:22:31.802 --> 01:22:35.347
+<i>A separação no centro, é muito difícil...</i>
+
+1551
+01:22:35.430 --> 01:22:38.350
+O Lee está a mexer na taça.
+
+1552
+01:22:38.433 --> 01:22:41.520
+<i>- Parece estar a pensar desistir.
+- Sim, acho que pensa desistir.</i>
+
+
+1553
+01:22:53.448 --> 01:22:54.574
+- Ele desistiu?
+- Desistiu.
+
+
+1554
+01:22:55.283 --> 01:22:56.284
+Fez o quê?
+
+1555
+01:22:56.368 --> 01:22:57.786
+Acho que desistiu.
+
+1556
+01:22:57.869 --> 01:23:00.497
+- Desistiu?
+- Acho que sim. Olha.
+
+
+1557
+01:23:02.541 --> 01:23:03.959
+- Jogou tudo.
+- O quê?
+
+
+1558
+01:23:04.042 --> 01:23:05.043
+Jogou a branca.
+
+1559
+01:23:05.127 --> 01:23:06.378
+O Aja parece descontraído.
+
+1560
+01:23:06.461 --> 01:23:08.130
+Sim, desistiu. Ele desistiu.
+
+1561
+01:23:08.463 --> 01:23:09.464
+Sim, está a desistir.
+
+1562
+01:23:09.548 --> 01:23:12.092
+- É isso. Ele desistiu.
+- Sim.
+
+
+1563
+01:23:13.301 --> 01:23:15.887
+- Boa!
+- Sim!
+
+
+1564
+01:23:23.854 --> 01:23:27.691
+<i>Acho que é algo único na vida.</i>
+
+1565
+01:23:28.108 --> 01:23:31.820
+Eu diria que é a coisa mais incrível
+que já vivi.
+
+
+1566
+01:23:32.529 --> 01:23:34.990
+<i>Para nós,
+é o culminar de um sonho com 20 anos.</i>
+
+
+1567
+01:23:35.574 --> 01:23:39.286
+Começou como uma mera investigação.
+
+1568
+01:23:39.369 --> 01:23:42.581
+Só queríamos perceber
+se as redes neurais podiam jogar Go.
+
+
+1569
+01:23:42.664 --> 01:23:48.211
+E avançou até um nível
+que eu nunca esperaria.
+
+
+1570
+01:23:48.712 --> 01:23:51.798
+<i>Estou incrivelmente orgulhoso da equipa.</i>
+
+1571
+01:23:53.175 --> 01:23:55.385
+<i>Quando comecei a fazer
+inteligência artificial,</i>
+
+
+1572
+01:23:55.469 --> 01:23:57.929
+<i>foi há quatro ou cinco anos</i>
+
+1573
+01:23:58.013 --> 01:24:01.725
+e estava muito interessado,
+mas muita gente me desencorajava,
+
+
+1574
+01:24:01.808 --> 01:24:03.894
+e dizia que não tinha futuro.
+
+1575
+01:24:03.977 --> 01:24:09.441
+<i>E ver que, no espaço de cinco anos,
+chegámos a esta fase,</i>
+
+
+1576
+01:24:09.524 --> 01:24:11.026
+<i>é espantoso.</i>
+
+1577
+01:24:11.109 --> 01:24:12.986
+Todos dizem: "Nono <i>dan."</i>
+
+1578
+01:24:13.069 --> 01:24:14.321
+- Nono <i>dan!</i>
+- Nono <i>dan!</i>
+
+
+1579
+01:24:14.404 --> 01:24:15.489
+Kimchi!
+
+1580
+01:24:16.281 --> 01:24:18.658
+<i>Há muitas aplicações possíveis</i>
+
+1581
+01:24:18.742 --> 01:24:22.996
+<i>onde a criatividade,
+numa dimensão diferente da dos humanos,</i>
+
+
+1582
+01:24:23.079 --> 01:24:24.706
+<i>poderia ser imensamente valiosa.</i>
+
+1583
+01:24:25.123 --> 01:24:26.875
+E adoraria ter mais desses momentos
+
+1584
+01:24:26.958 --> 01:24:30.045
+em que olhamos para trás e dizemos:
+"Sim, foi como a jogada 37.
+
+
+1585
+01:24:30.128 --> 01:24:32.130
+Quando aconteceu algo belo."
+
+1586
+01:24:32.422 --> 01:24:36.092
+Pelo menos em sentido geral,
+a jogada 37 gerou a jogada 78,
+
+
+1587
+01:24:36.176 --> 01:24:41.014
+gerou uma nova atitude no Se-dol Lee,
+uma nova forma de ver o jogo.
+
+
+1588
+01:24:42.015 --> 01:24:45.393
+<i>Ele melhorou através desta máquina.</i>
+
+1589
+01:24:45.894 --> 01:24:51.441
+<i>A sua humanidade expandiu
+após jogar com esta criação inanimada.</i>
+
+
+1590
+01:24:51.525 --> 01:24:53.985
+<i>E a esperança é que aquela máquina</i>
+
+1591
+01:24:54.069 --> 01:24:56.196
+<i>e a tecnologia por trás dela</i>
+
+1592
+01:24:56.279 --> 01:24:58.865
+<i>possam ter o mesmo efeito em todos nós.</i>
+
+1593
+01:25:00.408 --> 01:25:03.954
+<i>Lembro-me de ouvir o Kasparov a dizer</i>
+
+1594
+01:25:04.037 --> 01:25:08.041
+que um bom humano e uma máquina
+são a melhor combinação.
+
+
+1595
+01:25:09.709 --> 01:25:12.087
+<i>Esta é uma experiência única.</i>
+
+1596
+01:25:13.213 --> 01:25:15.090
+<i>Ninguém pode ter esta experiência,</i>
+
+1597
+01:25:15.173 --> 01:25:17.217
+<i>de jogar cinco jogos assim com o AlphaGo.</i>
+
+1598
+01:25:17.634 --> 01:25:23.181
+<i>Espero que o Se-dol Lee
+tenha encontrado algo nestes cinco jogos.</i>
+
+
+1599
+01:25:23.265 --> 01:25:25.517
+<i>Talvez alguma mudança no jogo dele.</i>
+
+1600
+01:25:26.476 --> 01:25:29.271
+<i>Hoje vi como ele lutou continuamente.</i>
+
+1601
+01:25:30.897 --> 01:25:32.065
+<i>Ele é muito bom.</i>
+
+1602
+01:25:32.148 --> 01:25:34.401
+<i>É um mestre, um grande mestre.</i>
+
+1603
+01:25:36.278 --> 01:25:39.865
+<i>Eu cresci com esta experiência.</i>
+
+1604
+01:25:39.948 --> 01:25:45.120
+<i>Vou aproveitar as lições que aprendi.</i>
+
+1605
+01:25:45.620 --> 01:25:50.125
+Sinto-me grato e sinto...
+
+1606
+01:25:50.709 --> 01:25:54.838
+... que encontrei a
+razão por que jogo Go.
+
+1607
+01:25:54.921 --> 01:25:59.467
+Percebo que foi uma boa escolha
+aprender a jogar Go.
+
+
+1608
+01:26:00.385 --> 01:26:06.725
+Foi uma experiência inesquecível.
+
+1609
+01:26:09.686 --> 01:26:13.607
+<i>Este evento terminou, mas a história</i>
+
+1610
+01:26:13.690 --> 01:26:15.025
+<i>pode estar apenas no início.</i>
+
+1611
+01:26:15.108 --> 01:26:16.026
+<i>Não sabemos.</i>
+
+1612
+01:26:20.196 --> 01:26:23.241
+<i>Quando joguei contra o AlphaGo,
+ele mostrou-me algo.</i>
+
+
+1613
+01:26:23.491 --> 01:26:25.702
+<i>Senti algo belo. Foi isso.</i>
+
+1614
+01:26:26.953 --> 01:26:31.207
+<i>Vi o mundo de forma diferente,
+antes de tudo ter começado.</i>
+
+
+1615
+01:26:32.667 --> 01:26:35.962
+<i>O que está por trás do jogo Go?</i>
+
+1616
+01:26:36.755 --> 01:26:39.841
+<i>Seja o que for,
+pode mudar o meu jogo.</i>
+
+1617
+01:26:43.428 --> 01:26:47.307
+<i>Talvez possa mostrar a nós, humanos,
+algo que não sabíamos.</i>
+
+
+1618
+01:26:49.059 --> 01:26:50.936
+<i>Que há beleza.</i>
+
+1619
+01:27:01.279 --> 01:27:05.116
+Nos dois meses a seguir ao jogo,
+
+1620
+01:27:05.200 --> 01:27:08.620
+Se-dol Lee venceu
+todos os torneios em que participou.
+
+
+1621
+01:27:11.122 --> 01:27:13.124
+Depois de treinar com o AlphaGo,
+
+1622
+01:27:13.208 --> 01:27:16.836
+Fan Hui venceu
+o Campeonato Europeu de Go em 2016.
+
+
+1623
+01:27:19.130 --> 01:27:22.050
+À medida que novos jogadores
+descobriam o jogo,
+
+
+1624
+01:27:22.133 --> 01:27:24.803
+houve uma escassez mundial
+de tabuleiros de Go.
+
+
+1625
+01:27:24.928 --> 01:27:27.097
+Legendas: Hernâni Azenha
