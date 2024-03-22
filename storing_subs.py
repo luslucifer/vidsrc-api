@@ -3,16 +3,18 @@ from concurrent.futures import ThreadPoolExecutor
 from multiprocessing import Pool 
 from tqdm import tqdm
 import os
+import threading
 
 # Assuming 'dwn.txt' doesn't exist initially, create an empty file
 tuple_saved = 'dwn.txt'
 open(tuple_saved, 'a').close()
 
-
-url = 'http://0.0.0.0:8091/vidsrc/'
+url = 'https://vidsrc-to-eight.vercel.app/vidsrc/'
 # url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
 vidsrc_url = 'https://vidsrc.to/vapi/movie/new/'
 idsFile = 'vids.txt'
+
+lock = threading.Lock()  # Create a lock instance
 
 class Subs:
     def geting_subs_arr(self, obj: dict):
@@ -28,8 +30,9 @@ class Subs:
                 for obj in items:
                     print(obj)
                     try:
-                        with open(idsFile, 'a') as file:
-                            file.write(obj['tmdb_id'] + '_' + obj['imdb_id'] + '\n')
+                        with lock:  # Acquire lock before writing to file
+                            with open(idsFile, 'a') as file:
+                                file.write(obj['tmdb_id'] + '_' + obj['imdb_id'] + '\n')
                     except Exception as err:
                         print(err)
             else:
@@ -69,24 +72,27 @@ class Subs:
         except Exception as err:
             print(err)
 
-    def main(self, id: str, id2: str):
-        with open(tuple_saved , 'a') as file :
-            file.write(str((id,id2))+'\n')
+    def main(self, id : str =None, id2: str=None):
+        try:
+            with open(tuple_saved , 'a') as file :
+                file.write(str((id,id2))+'\n')
 
-        res = requests.get(url + id).json()
-        arr = self.geting_subs_arr(res)
-        
-        with ThreadPoolExecutor(max_workers=len(arr) + 1) as executor:
-            progress_bar = tqdm(total=len(arr), desc=f"Processing {id}_{id2}", position=0)
+            res = requests.get(url + id).json()
+            arr = self.geting_subs_arr(res)
             
-            def update_progress(_):
-                progress_bar.update(1)
+            with ThreadPoolExecutor(max_workers=len(arr) + 1) as executor:
+                progress_bar = tqdm(total=len(arr), desc=f"Processing {id}_{id2}", position=0)
                 
-            for obj in arr:
-                lang:str = obj['lang']
-                lang = lang.replace('/','-')
-                file_url = obj['file']
-                executor.submit(self.download_subs, lang, file_url, id, id2).add_done_callback(update_progress)
+                def update_progress(_):
+                    progress_bar.update(1)
+                    
+                for obj in arr:
+                    lang:str = obj['lang']
+                    lang = lang.replace('/','-')
+                    file_url = obj['file']
+                    executor.submit(self.download_subs, lang, file_url, id, id2).add_done_callback(update_progress)
+        except Exception as err: 
+            print (f' err in main : {err}')
 
 if __name__ == '__main__':
     s = Subs()
