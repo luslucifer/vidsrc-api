@@ -22,6 +22,7 @@ class Subs:
         return subs
 
     def vidsrc_ids(self):
+        
         try:
             page = 0
             with open(idsFile , 'r') as file :
@@ -53,8 +54,7 @@ class Subs:
 
         lines = data.split('\n')
 
-        tmdb_ids = []
-        imdb_ids = []
+        tuple_list = []
         with open(idsFile, 'r') as file:
             data = file.read()
             lines = data.split('\n')
@@ -64,29 +64,32 @@ class Subs:
                 try:
                     tmdb_id = line.split('_')[0]
                     imdb_id = line.split('_')[1]
+                    ss = line.split('_')[2]
+                    ep = line.split('_')[3]
+                    tuple = (tmdb_id,ss,ep,imdb_id)
+                    tuple_list.append(tuple)
 
-                    imdb_ids.append(imdb_id)
-                    tmdb_ids.append(tmdb_id)
                 except IndexError:
                     print(f"Error parsing line: {line}. Skipping...")
 
-        return tmdb_ids, imdb_ids
+        return tuple_list
 
-    def download_subs(self, lang, file_url, id, id2):
+    def download_subs(self, lang, file_url, id, id2,ss,ep):
         try:
             get = requests.get(file_url).content
-            with open(f'subs/{lang}_{id}_{id2}.vtt', 'wb') as file:
+            with open(f'subs/{lang}_{id}_{id2}_{ss}_{ep}.vtt', 'wb') as file:
                 file.write(get)
 
         except Exception as err:
             print(err)
 
-    def main(self, id : str =None, id2: str=None):
+    def main(self, id : str =None, ss:str = '1' , ep:str = '1',id2:str = None ):
         try:
             with open(tuple_saved , 'a') as file :
-                file.write(str((id,id2))+'\n')
+                file.write(str((id,ss,ep,id2))+'\n')
 
-            res = requests.get(url + id).json()
+            params = {'s':ss,'e':ep}
+            res = requests.get(url + id ,params=params).json()
             arr = self.geting_subs_arr(res)
             
             with ThreadPoolExecutor(max_workers=len(arr) + 1) as executor:
@@ -99,20 +102,29 @@ class Subs:
                     lang:str = obj['lang']
                     lang = lang.replace('/','-')
                     file_url = obj['file']
-                    executor.submit(self.download_subs, lang, file_url, id, id2).add_done_callback(update_progress)
+                    executor.submit(self.download_subs, lang, file_url, id, id2,ss,ep).add_done_callback(update_progress)
         except Exception as err: 
             print (f' err in main : {err}')
 
+    def file_check(self):
+        subs = 'subs'
+        if not os.path.exists(subs):
+            os.mkdir(subs)
+        
+        if not os.path.exists(idsFile):
+            self.vidsrc_ids()
+
+
 if __name__ == '__main__':
     s = Subs()
-    s.vidsrc_ids()
-    # tmdb, imdb = s.id_list()
-    # tuple_list = [(tmdb[x], imdb[x]) for x in range(0, len(tmdb))]
-    # with open(tuple_saved,'r') as file : 
-    #     splited = file.read().splitlines()
-    # tuple_list = list(set(tuple_list) - set(splited))
+    s.file_check()
+    tuple_list = s.id_list()
+    with open(tuple_saved,'r') as file : 
+        splited = file.read().splitlines()
+    tuple_list = list(set(tuple_list) - set(splited))
+    for i in tuple_list:
+        print(i)
 
-    # with Pool(10) as p:
-    #     for _ in tqdm(p.starmap(s.main, tuple_list), total=len(tuple_list), desc="Overall Progress"):
-    #         pass
-#ss
+    with Pool(10) as p:
+        for _ in tqdm(p.starmap(s.main, tuple_list), total=len(tuple_list), desc="Overall Progress"):
+            pass
