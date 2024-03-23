@@ -11,7 +11,7 @@ open(tuple_saved, 'a').close()
 
 url = 'https://vidsrc-to-eight.vercel.app/vidsrc/'
 # url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
-vidsrc_url = 'https://vidsrc.to/vapi/movie/new/'
+vidsrc_url = 'https://vidsrc.to/vapi/episode/latest/'
 idsFile = 'vids.txt'
 
 lock = threading.Lock()  # Create a lock instance
@@ -22,21 +22,30 @@ class Subs:
         return subs
 
     def vidsrc_ids(self):
-        page = 1
-        while True:
-            items = requests.get(vidsrc_url + str(page)).json()['result']['items']
-            page = page + 1
-            if len(items) != 0:
-                for obj in items:
-                    print(obj)
-                    try:
-                        with lock:  # Acquire lock before writing to file
-                            with open(idsFile, 'a') as file:
-                                file.write(obj['tmdb_id'] + '_' + obj['imdb_id'] + '\n')
-                    except Exception as err:
-                        print(err)
-            else:
-                break
+        try:
+            page = 0
+            with open(idsFile , 'r') as file :
+                splited = file.read().splitlines()
+            page = round (len(splited)/15)
+            while True:
+                page = page + 1
+                try :
+                    items = requests.get(vidsrc_url + str(page)).json()['result']['items']
+                    if len(items) != 0:
+                        for obj in items:
+                            print(obj)
+                            try:
+                                with lock:  # Acquire lock before writing to file
+                                    with open(idsFile, 'a') as file:
+                                        file.write(obj['tmdb_id'] + '_' + obj['imdb_id']+ '_'+str(obj['season'])+ '_'+str(obj['number']) + '\n')
+                            except Exception as err:
+                                print(err)
+                    else:
+                        break
+                except Exception as err : 
+                    print(f'err in vidsrc while loop : {err}')
+        except Exception as err : 
+            print (f'err at vidsrc_src: {err}')
 
     def id_list(self):
         with open(idsFile, 'r') as file:
@@ -96,13 +105,14 @@ class Subs:
 
 if __name__ == '__main__':
     s = Subs()
-    tmdb, imdb = s.id_list()
-    tuple_list = [(tmdb[x], imdb[x]) for x in range(0, len(tmdb))]
-    with open(tuple_saved,'r') as file : 
-        splited = file.read().splitlines()
-    tuple_list = list(set(tuple_list) - set(splited))
+    s.vidsrc_ids()
+    # tmdb, imdb = s.id_list()
+    # tuple_list = [(tmdb[x], imdb[x]) for x in range(0, len(tmdb))]
+    # with open(tuple_saved,'r') as file : 
+    #     splited = file.read().splitlines()
+    # tuple_list = list(set(tuple_list) - set(splited))
 
-    with Pool(10) as p:
-        for _ in tqdm(p.starmap(s.main, tuple_list), total=len(tuple_list), desc="Overall Progress"):
-            pass
+    # with Pool(10) as p:
+    #     for _ in tqdm(p.starmap(s.main, tuple_list), total=len(tuple_list), desc="Overall Progress"):
+    #         pass
 #ss
