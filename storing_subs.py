@@ -105,3 +105,4 @@ if __name__ == '__main__':
     with Pool(10) as p:
         for _ in tqdm(p.starmap(s.main, tuple_list), total=len(tuple_list), desc="Overall Progress"):
             pass
+#ss
