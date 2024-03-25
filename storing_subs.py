@@ -7,12 +7,13 @@ import threading
 
 # Assuming 'dwn.txt' doesn't exist initially, create an empty file
 tuple_saved = 'dwn.txt'
+idsFile = 'vids.txt'
 open(tuple_saved, 'a').close()
+open(idsFile,'w').close()
 
 url = 'https://vidsrc-to-eight.vercel.app/vidsrc/'
 # url = 'https://vidsrc-api-1.onrender.com/vidsrc/'
 vidsrc_url = 'https://vidsrc.to/vapi/episode/latest/'
-idsFile = 'vids.txt'
 
 lock = threading.Lock()  # Create a lock instance
 
@@ -26,8 +27,10 @@ class Subs:
         try:
             page = 0
             with open(idsFile , 'r') as file :
-                splited = file.read().splitlines()
-            page = round (len(splited)/15)
+                splited_no = len(file.read().splitlines())
+            if not splited_no >=15 :
+                page = round(splited_no/15)
+            
             while True:
                 page = page + 1
                 try :
@@ -51,6 +54,8 @@ class Subs:
     def id_list(self):
         with open(idsFile, 'r') as file:
             data = file.read()
+        # if len(data)==0 :
+        #     self.vidsrc_ids()
 
         lines = data.split('\n')
 
@@ -112,8 +117,9 @@ class Subs:
             os.mkdir(subs)
         
         if not os.path.exists(idsFile):
+            print('fuck')
             self.vidsrc_ids()
-
+        
 
 if __name__ == '__main__':
     s = Subs()
